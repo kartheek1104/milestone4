@@ -1,0 +1,573 @@
+Subject,Relation,Object,Category,Filename,Quality
+peugeot,sign,a Memorandum of Understanding,business,013.txt,Great
+WPP,acquire,Grey Global,business,035.txt,Great
+China,encourage,the US Agriculture Department,business,039.txt,Great
+BMW,own,Rover,business,049.txt,Great
+Fiat,transfer,Maserati,business,051.txt,Great
+Hyundai,build,Hyundai Motor,business,054.txt,Great
+fao,urge,the World Trade Organisation,business,067.txt,Great
+Colin Powell,visit,the West Bank,business,076.txt,Great
+VEB,lend,rosneft,business,077.txt,Great
+Yukos,sue,rosneft,business,083.txt,Great
+SEC,accuse,Titan,business,102.txt,Great
+Elliot Spitzer,sue,MMC Capital,business,103.txt,Great
+Reid Weingarten,ask,Sullivan,business,114.txt,Great
+Sullivan,implicate,Ebbers,business,114.txt,Great
+Gazprom,need,Yugansk,business,131.txt,Great
+rosneft,snap,sibneft,business,131.txt,Great
+panke,praise,Accura,business,141.txt,Great
+the European Commission,commission,Kok,business,146.txt,Great
+Saab,build,cadillac,business,149.txt,Great
+Boeing,sack,Druyun,business,161.txt,Great
+Boeing,sack,sear,business,161.txt,Great
+martin,sue,Boeing,business,161.txt,Great
+Russia,force,Yukos,business,164.txt,Great
+Man Utd,bid,Irishmen JP McManus,business,179.txt,Great
+Man Utd,bid,John Magnier,business,179.txt,Great
+Naresh Goya,found,Jet Airways,business,186.txt,Great
+Demel,leave,Fiat Auto,business,189.txt,Great
+Sergio Marchionne,replace,Herbert Demel,business,189.txt,Great
+the European Court of Human Rights,sue,Russia,business,192.txt,Great
+Beijing,view,Sina,business,208.txt,Great
+NM Rothschild,advise,glazer,business,209.txt,Great
+Brown,introduce,Greenspan,business,213.txt,Great
+Gordon Brown,invite,greenspan,business,213.txt,Great
+Air China,pick,the London Stock Exchange,business,215.txt,Great
+ghosn,transform,Nissan,business,216.txt,Great
+Toshiyuki Shiga,run,Nissan,business,216.txt,Great
+Ukraine,oust,Leonid Kuchma,business,217.txt,Great
+Bayern Munich,beat,Borussia Dortmund,business,219.txt,Great
+Deutsche Bank,accuse,Gazprom,business,230.txt,Great
+Deutsche Bank,accuse,the Russian Federation,business,230.txt,Great
+Lloyd 's of London,chide,FSA,business,232.txt,Great
+Prettejohn,urge,FSA,business,232.txt,Great
+morrow,succeed,Shiro Tsuda,business,234.txt,Great
+Ebbers,direct,Sullivan,business,246.txt,Great
+South Korea,give,Economy Ministry,business,258.txt,Great
+Air China,choose,London,business,269.txt,Great
+LSE,choose,London,business,269.txt,Great
+Werner Seifert,meet,Clara Furse,business,279.txt,Great
+million,lose,million of the world 's,business,296.txt,Great
+the Securities & Exchange Commission,accuse,Fannie Mae,business,298.txt,Great
+Paul Tellier,leave,Bombardier,business,304.txt,Great
+gammell,set,Aishwariya,business,307.txt,Great
+Airbus,head,Noel Forgeard,business,308.txt,Great
+Baikal Finance Group,outbid,Gazprom,business,314.txt,Great
+Khodorkovsky,control,Yukos,business,314.txt,Great
+s&n,extend,Newcastle,business,315.txt,Great
+s&n,extend,scottish,business,315.txt,Great
+euronext,approach,the London Stock Exchange,business,319.txt,Great
+Franklin Raines,leave,Fannie Mae,business,326.txt,Great
+Tim Howard,leave,Fannie Mae,business,326.txt,Great
+the Securities and Exchange Commission,admonish,Fannie Mae,business,326.txt,Great
+Vijay Mallya,set,Kingfisher Airlines,business,339.txt,Great
+Chavez,invite,the Ministry of Commerce,business,340.txt,Great
+Hugo Chavez,offer,China,business,340.txt,Great
+Honda,win,China,business,342.txt,Great
+the Association for Payment Clearing Services ( Apacs ) apac,choose,Helen Carroll,business,362.txt,Great
+Interbrew,acquire,ambev,business,369.txt,Great
+World Bank,urge,Egypt,business,389.txt,Great
+Werner Seifert,meet,m furse,business,392.txt,Great
+Laura Ashley,thank,m Mohd - Saaid,business,393.txt,Great
+tsunami,cost,Sri Lanka,business,398.txt,Great
+citigroup,beat,Standard Chartered,business,409.txt,Great
+Judy Boynton,leave,shell,business,419.txt,Great
+Airbus,overtake,Boeing,business,424.txt,Great
+rosneft,become,yuganskneftegaz,business,426.txt,Great
+Standard & Poor 's,upgrade,Pakistan,business,428.txt,Great
+bell,oversee,mcdonald,business,452.txt,Great
+Quinlan Private - buy,acquire,savoy,business,470.txt,Great
+Egypt,hand,israeli,business,478.txt,Great
+Hosni Mubarak,describe,Ariel Sharon,business,478.txt,Great
+Anil,accuse,Anand Jain,business,486.txt,Great
+Indonesia,owe,Paris Club,business,491.txt,Great
+Europe,ask,Asia,business,496.txt,Great
+Crown Prince Frederik,visit,New York,entertainment,002.txt,Great
+Queen Mary,read,the Ugly duckling,entertainment,002.txt,Great
+Pamela Travers,found,Mary Poppins,entertainment,005.txt,Great
+the Theatregoers ' Choice Awards,appoint,Christian Slater,entertainment,006.txt,Great
+McCaughrean,win,the Whitbread Prize,entertainment,013.txt,Great
+the Canadian Broadcasting Corporation,acquire,flight,entertainment,016.txt,Great
+slater,play,Christian Slater,entertainment,019.txt,Great
+slater,replace,Dallas Roberts,entertainment,019.txt,Great
+alicia Markova,spend,World War II,entertainment,021.txt,Great
+CFCA,award,Thomas Haden Church,entertainment,030.txt,Great
+Imelda Staunton,win,CFCA,entertainment,030.txt,Great
+the Southeastern Film Critics,award,sideway,entertainment,030.txt,Great
+Roger Deakins,win,the Technical Achievement Award,entertainment,034.txt,Great
+Takuo Miyagishima,award,Oscar,entertainment,035.txt,Great
+Evans,sue,mann,entertainment,039.txt,Great
+Walter Salles,acclaim,the Motorcycle diary,entertainment,040.txt,Great
+Kwon - Taek,receive,Golden Bear,entertainment,042.txt,Great
+Jugnot,top,Gerard Jugnot - star,entertainment,045.txt,Great
+Paul Rusesabagina,join,Cheadle,entertainment,047.txt,Great
+Hilary Swank,win,the Screen Actors Guild Awards,entertainment,051.txt,Great
+Jamie Foxx,win,the Screen Actors Guild Awards,entertainment,051.txt,Great
+Alan Titchmarsh,leave,Ground Force,entertainment,055.txt,Great
+Brando,grant,electronic Arts,entertainment,056.txt,Great
+sideway,dominate,Independent Spirit Awards,entertainment,062.txt,Great
+will Smith,give,Cesar,entertainment,063.txt,Great
+hollywood,prepare,the 77th Academy Awards,entertainment,064.txt,Great
+Ron Howard,choose,Tautou,entertainment,068.txt,Great
+Floella Benjamin,award,the Special Award,entertainment,070.txt,Great
+Ray,earn,Guild Award,entertainment,073.txt,Great
+the US Federal Communications Commission,fine,CBS,entertainment,080.txt,Great
+Swank,win,Best Actress,entertainment,084.txt,Great
+Miyazaki,win,Oscar,entertainment,087.txt,Great
+Marlon Brando,win,the Academy Award,entertainment,089.txt,Great
+Desperate housewife,star,Felicity Huffman,entertainment,095.txt,Great
+Desperate housewife,star,Marcia Cross,entertainment,095.txt,Great
+dicaprio,play,Howard Hughes,entertainment,095.txt,Great
+Nicky Wire,join,Phil Jupitus,entertainment,107.txt,Great
+Jay - Z,move,the Island Def Jam Music Group,entertainment,117.txt,Great
+Rick Rubin,found,Def Jam,entertainment,117.txt,Great
+Russell Simmons,found,Def Jam,entertainment,117.txt,Great
+Merle Kilgore,hit,Ring of fire,entertainment,119.txt,Great
+Black America,take,Bob,entertainment,120.txt,Great
+casey,beat,Brian McFadden,entertainment,125.txt,Great
+casey,beat,Damien Rice,entertainment,125.txt,Great
+pj harvey,pip,Kylie Minogue,entertainment,125.txt,Great
+Snow Patrol,fete,the Meteor Awards,entertainment,125.txt,Great
+Johnson,approach,Dre,entertainment,135.txt,Great
+Kanye West,dominate,grammys,entertainment,139.txt,Great
+Franz ferdinand,follow,keane,entertainment,142.txt,Great
+razorlight,follow,keane,entertainment,142.txt,Great
+Rapper Eminem,deny,Elvis,entertainment,144.txt,Great
+Stevie Wonder,receive,Billboard 's Century Award,entertainment,150.txt,Great
+Newcomer Ciara - who,beat,Elvis Presley,entertainment,156.txt,Great
+housewife,lift,Channel 4,entertainment,179.txt,Great
+Brigitte Nielsen,nominate,Bez,entertainment,180.txt,Great
+Brigitte Nielsen,nominate,John,entertainment,180.txt,Great
+Tim Kash,front,the all New Top of the pop,entertainment,184.txt,Great
+Denise,lose,Johnny Vaughan,entertainment,186.txt,Great
+johnny,lose,Johnny Vaughan,entertainment,186.txt,Great
+BBC,hit,little Britain,entertainment,191.txt,Great
+BBC,launch,Freeview,entertainment,202.txt,Great
+Redmond,bring,hollyoak to Channel 4,entertainment,211.txt,Great
+Britain,star,David Walliams,entertainment,212.txt,Great
+Britain,star,Matt Lucas,entertainment,212.txt,Great
+icrc,run,Gazetta,entertainment,213.txt,Great
+Franz ferdinand,beat,Morrissey,entertainment,215.txt,Great
+great british Spelling Test,take,olympic,entertainment,220.txt,Great
+great british Spelling Test,take,Spooks Interactive,entertainment,220.txt,Great
+Guardian,take,the Tour de France,entertainment,220.txt,Great
+Christopher Lee,read,Fireside tale,entertainment,227.txt,Great
+Rob Da Bank,host,the John Peel Show,entertainment,231.txt,Great
+size,win,Mercury Music Prize,entertainment,237.txt,Great
+Kombou,play,Vince Everett,entertainment,242.txt,Great
+Steve Coogan,play,Wilson,entertainment,245.txt,Great
+Britney Spears,sue,spear,entertainment,247.txt,Great
+Joss Stone,beat,Dizzee Rascal,entertainment,256.txt,Great
+Joss Stone,beat,Jamelia,entertainment,256.txt,Great
+Love,find,Kristin king,entertainment,258.txt,Great
+Bill Clinton,pick,Grammy,entertainment,264.txt,Great
+Rod Stewart,win,Grammy,entertainment,264.txt,Great
+BBC one,screen,Different Story,entertainment,269.txt,Great
+Nathan Lane,beat,Lee Evans,entertainment,275.txt,Great
+producer,beat,Mary Poppins,entertainment,275.txt,Great
+the Society of London,hand,the Olivier Awards,entertainment,275.txt,Great
+conti,receive,Oscar,entertainment,280.txt,Great
+Goodrem,take,the Pepsi Viewers Choice Award,entertainment,286.txt,Great
+Clapton,introduce,Buddy Guy,entertainment,291.txt,Great
+Rod Stewart,introduce,Percy Sledge,entertainment,291.txt,Great
+Springsteen,mock,bono,entertainment,291.txt,Great
+malkovich,play,Humma Kavula,entertainment,299.txt,Great
+Robert Redford,found,sundance,entertainment,301.txt,Great
+Victoria Wood,slate,Cohen,entertainment,311.txt,Great
+Dudley Nichols,refuse,Academy Award,entertainment,314.txt,Great
+the Academy Awards,flourish,Academy Awards,entertainment,314.txt,Great
+"Ferry , Mackay",form,Roxy Music,entertainment,318.txt,Great
+Fuller,set,American Idol,entertainment,319.txt,Great
+Simon Fuller,sell,idol,entertainment,319.txt,Great
+Vera Drake,lead,Oscar,entertainment,323.txt,Great
+Morgan Spurlock,force,McDonalds,entertainment,326.txt,Great
+Charles,win,Grammy Awards,entertainment,344.txt,Great
+Jolin,tip,Phil Davis,entertainment,352.txt,Great
+Kate Winslet,outdo,Heather Craney,entertainment,352.txt,Great
+Natalie Portman,outdo,Heather Craney,entertainment,352.txt,Great
+Sienna Miller,bring,glamour,entertainment,354.txt,Great
+hollywood,star,Leonardo dicaprio,entertainment,355.txt,Great
+hollywood,star,Pierce Brosnan,entertainment,355.txt,Great
+Harry Potter,win,the Orange Film of the year,entertainment,357.txt,Great
+amadeus,beat,the Killing Fields,entertainment,363.txt,Great
+titanic,take,oscar,entertainment,363.txt,Great
+Dave Karger,maintain,oscar,entertainment,367.txt,Great
+Sky Movies 1,show,Academy Awards,entertainment,368.txt,Great
+Briton,win,Oscar Three,entertainment,369.txt,Great
+eastwood,take,Oscar,entertainment,372.txt,Great
+arnold,show,Motormouth,entertainment,373.txt,Great
+Sandy Powell,win,Oscar,entertainment,373.txt,Great
+Debra Hill,die,screenwriter,entertainment,378.txt,Great
+the Freedom of Information Act,cover,england,politics,002.txt,Great
+the Freedom of Information Act,cover,wale,politics,002.txt,Great
+labour,choose,Manchester the Labour Party,politics,004.txt,Great
+Digby Jones,warn,Brown,politics,005.txt,Great
+Fox,accuse,Blair,politics,007.txt,Great
+Campbell,message,Newsnight,politics,009.txt,Great
+Peter Mandelson,warn,BBC,politics,009.txt,Great
+Blair,support,Tony Blair,politics,021.txt,Great
+Blair,bypass,Cabinet,politics,027.txt,Great
+Jack Cunningham,accuse,Butler,politics,027.txt,Great
+Michael Howard,accuse,Tony Blair,politics,034.txt,Great
+the Welsh Assembly Government,take,the Arts Council of Wales,politics,039.txt,Great
+Blunkett,enter,parliament,politics,041.txt,Great
+Makarov,join,KGB,politics,053.txt,Great
+Kelly,enter,Cabinet,politics,055.txt,Great
+MAB,urge,muslim,politics,062.txt,Great
+the United Kingdom,approve,Treaty,politics,082.txt,Great
+Nicola sturgeon,accuse,McLetchie,politics,089.txt,Great
+Brown,tour,Africa,politics,099.txt,Great
+Parker Bowles,become,Princess Consort,politics,104.txt,Great
+Massoud Shadjareh,accuse,m blear,politics,105.txt,Great
+Hockney,leave,UKIP,politics,111.txt,Great
+Lucy,track,pound,politics,113.txt,Great
+Alan Duncan,accuse,Brown,politics,127.txt,Great
+Vincent Cable,accuse,Brown,politics,128.txt,Great
+Tony Blair,assure,parliament,politics,133.txt,Great
+Hilary Benn,visit,Aceh,politics,135.txt,Great
+Hilary Benn,visit,Sri Lanka,politics,135.txt,Great
+howard,deny,Yeo,politics,141.txt,Great
+Alan Milburn,accuse,tory,politics,159.txt,Great
+Alan Clark,replace,nichola,politics,183.txt,Great
+Goldsmith,warn,Tony Blair,politics,184.txt,Great
+Oliver Finegold,approach,Livingstone,politics,186.txt,Great
+howard,leave,Llanelli Grammar School - and,politics,190.txt,Great
+John McCain,visit,Blair,politics,197.txt,Great
+howard,appoint,Crosby,politics,212.txt,Great
+Alan Milburn,join,Brown,politics,225.txt,Great
+Brown,visit,mozambique,politics,225.txt,Great
+Brown,visit,Tanzania,politics,225.txt,Great
+Tony Blair,join,Blunkett,politics,234.txt,Great
+mccabe,promise,8.1bn,politics,241.txt,Great
+Tony Blair,promise,Gordon Brown,politics,252.txt,Great
+Blair,reinstate,Brown,politics,254.txt,Great
+Blair and Brown,criticise,Gordon Brown,politics,257.txt,Great
+Blair and Brown,criticise,Tony Blair,politics,257.txt,Great
+Campbell - Savours,challenge,Brown,politics,257.txt,Great
+UKIP,take,Britain,politics,267.txt,Great
+Charles Kennedy,dismiss,conservative,politics,272.txt,Great
+Liberal Democrats,replace,tory,politics,272.txt,Great
+Alan Milburn,accuse,howard,politics,275.txt,Great
+Robert Kilroy - Silk,quit,Independence Party,politics,281.txt,Great
+Blair,contrast,labour party,politics,282.txt,Great
+Oliver Letwin,accuse,Blair,politics,282.txt,Great
+Baroness Amos,accompany,kinnock,politics,289.txt,Great
+Josef Stalin,trigger,the Cold War,politics,290.txt,Great
+galloway,sue,telegraph,politics,302.txt,Great
+liberal,keep,labour,politics,303.txt,Great
+tory,accuse,Tony Blair,politics,305.txt,Great
+labour mp,welcome,Jackson,politics,307.txt,Great
+Ian McCartney,describe,Oliver Letwin,politics,332.txt,Great
+tory,hold,Erewash,politics,333.txt,Great
+Kennedy,visit,Leicester South,politics,335.txt,Great
+tory,appointed,Caroline Spelman,politics,339.txt,Great
+Brown,accuse,Oliver Letwin,politics,349.txt,Great
+Brown,stun,Westminster,politics,360.txt,Great
+howard,attack,the Lib Dems,politics,371.txt,Great
+Simon Hughes,brand,howard,politics,371.txt,Great
+Charles Kennedy,attack,Brown,politics,375.txt,Great
+Kennedy,criticise,Brown,politics,375.txt,Great
+Michael Howard,accuse,Blair,politics,379.txt,Great
+Liberal Democrats,warn,labour,politics,382.txt,Great
+Liberal Democrats,warn,tory,politics,382.txt,Great
+Liam Fox,accuse,labour,politics,387.txt,Great
+the Lib Dems,accuse,Brown,politics,387.txt,Great
+Michael Fallon,ask,Brown,politics,389.txt,Great
+Brown,oust,milburn,politics,402.txt,Great
+labour,maintain,Brown,politics,402.txt,Great
+milburn,oust,Brown,politics,402.txt,Great
+the Pro - life Alliance,congratulate,howard,politics,405.txt,Great
+labour,take,Britain,politics,415.txt,Great
+UK athletic,kitte,Team GB,sport,015.txt,Great
+El Guerrouj,meet,Bekele,sport,025.txt,Great
+anti - doping agency,suspend,collins,sport,026.txt,Great
+turnbull,travel,Europe,sport,030.txt,Great
+Briton,hold,Kenyan Susan Chepkemei,sport,042.txt,Great
+collins,appoint,UK athletic,sport,043.txt,Great
+anti - doping agency,accuse,Balco,sport,045.txt,Great
+Kenteris,quit,olympic,sport,048.txt,Great
+Thanou,quit,olympic,sport,048.txt,Great
+gebrselassie,face,Jaouad Gharib,sport,053.txt,Great
+gebrselassie,face,Stefano Baldini,sport,053.txt,Great
+Sotherton Jade Johnson,edge,Kelly Sotherton,sport,061.txt,Great
+Chris Tomlinson,boost,Team GB,sport,066.txt,Great
+holme,leave,athens,sport,066.txt,Great
+Hayley Yelling,represent,Team GB,sport,087.txt,Great
+Jo Pavey,represent,Team GB,sport,087.txt,Great
+moye u - turn,discipline,James Beattie,sport,097.txt,Great
+moye u - turn,discipline,William Gallas,sport,097.txt,Great
+Dunne,marshal,rooney,sport,101.txt,Great
+rooney,show,McManaman,sport,101.txt,Great
+mourinho,reveal,Willian Gallas,sport,103.txt,Great
+John Arne Riise,volley,Liverpool,sport,104.txt,Great
+Luis Garcia,fee,Dietmar Hamann,sport,104.txt,Great
+Nunez,beat,cech,sport,104.txt,Great
+davy,set,Giannakopoulos,sport,105.txt,Great
+Fernando Hierro,chop,Dyer on the edge of the area,sport,105.txt,Great
+Lee Bowyer,put,Newcastle,sport,105.txt,Great
+Alan Archibald,prod,United,sport,107.txt,Great
+Clyde 0 - 5 Celtic Celtic,brush,Clyde,sport,108.txt,Great
+Maloney,replace,Sutton,sport,108.txt,Great
+Stan Varga,head,celtic,sport,108.txt,Great
+Gus Bahoken,foul,Miller,sport,109.txt,Great
+Neil MacFarlane,haul,Burton O'Brien,sport,109.txt,Great
+France,defender,galla,sport,111.txt,Great
+France,defender,Ireland,sport,111.txt,Great
+Chelsea,test,Liverpool,sport,112.txt,Great
+Parry,join,Liverpool,sport,112.txt,Great
+Parry,reveal,Liverpool,sport,112.txt,Great
+Brown,start,Eriksson,sport,113.txt,Great
+Carragher,start,Eriksson,sport,113.txt,Great
+Giggs,hand,wale,sport,115.txt,Great
+Giggs,lead,wale,sport,115.txt,Great
+Manchester United,offer,Giggs,sport,115.txt,Great
+Ryan Giggs,captain,wale,sport,115.txt,Great
+Mladenovic,replace,Mikel Arteta,sport,117.txt,Great
+Fernando Torres,give,athletico,sport,120.txt,Great
+Cole,meet,Jose Mourinho,sport,125.txt,Great
+Cole,meet,Peter Kenyon,sport,125.txt,Great
+Australia,face,South Africa,sport,127.txt,Great
+irish,beat,Italy,sport,132.txt,Great
+Iran,give,Arash Miresmaeili,sport,136.txt,Great
+keane,accuse,Vieira,sport,137.txt,Great
+James,deny,Damien Duff,sport,139.txt,Great
+James,deny,Jiri Jarosik,sport,139.txt,Great
+Dado Prso,turn,Neil Lennon,sport,146.txt,Great
+hartson,dispossese,Sotiris Kyrgiakos,sport,146.txt,Great
+ranger,find,celtic,sport,146.txt,Great
+michel,lead,dutch,sport,149.txt,Great
+Ivan Helguera,head,Antonio Doblas,sport,151.txt,Great
+Milan,beat,Juventus,sport,152.txt,Great
+benitez,defend,Jerzy Dudek,sport,155.txt,Great
+red,take,Rafael Benitez,sport,155.txt,Great
+Cole,face,Carlton Cole,sport,162.txt,Great
+Arsene Wenger,introduce,Quincy Owusu - Abeyie,sport,163.txt,Great
+Jol,guide,spur,sport,164.txt,Great
+Bobby Robson,offer,Jose Mourinho,sport,172.txt,Great
+charlton,recall,Simon Royce,sport,173.txt,Great
+holloway,chase,Tom Doherty,sport,173.txt,Great
+Carlo Cudicini,miss,Carling Cup,sport,174.txt,Great
+Kevin Keegan,praise,Robbie Fowler,sport,176.txt,Great
+success,see,rover,sport,179.txt,Great
+David Prutton,push,Alan Wiley,sport,180.txt,Great
+Chelsea,play,Barcelona,sport,181.txt,Great
+Chelsea,take,Barcelona,sport,181.txt,Great
+charlton,play,Bolton,sport,184.txt,Great
+charlton,play,leicester,sport,184.txt,Great
+Sam Allardyce,sign,Vincent Candela,sport,185.txt,Great
+Stuart,join,norwich,sport,186.txt,Great
+Mauritius,humble,Bafana Bafana,sport,190.txt,Great
+Mauritius,take,madagascar,sport,190.txt,Great
+Zambia,host,Lesotho,sport,190.txt,Great
+Zambia,host,Malawi,sport,190.txt,Great
+Jurgen Klinsmann,warn,Jens Lehmann,sport,194.txt,Great
+Henry,catch,heinze,sport,200.txt,Great
+Bolton,meet,Ipswich,sport,205.txt,Great
+Fulham,face,Carling Cup,sport,205.txt,Great
+Fulham,face,watford,sport,205.txt,Great
+spur,entertain,Brighton,sport,205.txt,Great
+the Scottish Football Association,appoint,Tommy burn,sport,208.txt,Great
+Bernardo Gandulla,leave,Boca Juniors,sport,210.txt,Great
+Maradona,join,corinthian,sport,210.txt,Great
+Spain,dominate,england,sport,216.txt,Great
+kerr,succeed,Mick McCarthy,sport,217.txt,Great
+McClaren,praise,Jimmy Floyd Hasselbaink,sport,229.txt,Great
+McClaren,praise,Stewart Downing,sport,229.txt,Great
+Alex Ferguson,influence,Neale Barry,sport,231.txt,Great
+the Football Association,charge,Liverpool,sport,234.txt,Great
+the Football Association,charge,Millwall Liverpool,sport,234.txt,Great
+gill,phone,Dein,sport,235.txt,Great
+Ruud van Nistelrooy,catch,Ashley Cole,sport,235.txt,Great
+the Football Association,punish,ferguson,sport,235.txt,Great
+benitez,hail,Gerrard,sport,236.txt,Great
+Manchester United,avoid,FA Cup,sport,240.txt,Great
+rooney,round,Jones,sport,240.txt,Great
+Chicago Cubs,play shortstop for,Nomar Garciaparra,sport,241.txt,Great
+ETA,target,bernabeu,sport,245.txt,Great
+Mark Taylor,join,lorimer,sport,251.txt,Great
+Dundee United,visit,kilmarnock,sport,253.txt,Great
+ranger,visit,kilmarnock,sport,253.txt,Great
+Steven Gerrard,put,Liverpool,sport,259.txt,Great
+o'leary,rap,Olof Mellberg,sport,264.txt,Great
+Liverpool,bring,Luis Garcia,sport,269.txt,Great
+Neil Mellor,give,Liverpool,sport,269.txt,Great
+pompey,stretch,Arsenal,sport,278.txt,Great
+ferguson,hail,Roy Keane,sport,282.txt,Great
+ferguson,hail,Ryan Giggs,sport,282.txt,Great
+o'driscoll,insist,Ireland,sport,290.txt,Great
+Williams,replace,Thomas,sport,291.txt,Great
+Joe Shaw,find,Dave Walder,sport,293.txt,Great
+the Scottish Rugby Union,punish,Matt Williams,sport,298.txt,Great
+John Connolly,rate,barkley,sport,300.txt,Great
+Italy,guide,Ireland,sport,302.txt,Great
+Charlie Hodgson,put,england,sport,303.txt,Great
+France,bring,Serge Betsen,sport,306.txt,Great
+england,lock,Danny Grewcock,sport,307.txt,Great
+Andy Robinson,call,Duncan Bell,sport,315.txt,Great
+France,beat,england,sport,320.txt,Great
+France,beat,Scotland,sport,320.txt,Great
+Kirwan,recall,Cristian Stoica,sport,322.txt,Great
+Simon Webster,replace,Simon Danielli,sport,322.txt,Great
+leed v Saracens,bring,Ed Kalman,sport,324.txt,Great
+leed v Saracens,bring,Tom McGee,sport,324.txt,Great
+Tim Collier,replace,Phil Murphy,sport,325.txt,Great
+wale,beat,england,sport,326.txt,Great
+Bernard Laporte,recall,Frederic Michalak,sport,327.txt,Great
+France,win,the six nation,sport,327.txt,Great
+Tama Umaga,warn,Irish Lions,sport,328.txt,Great
+Umaga,support,New Zealand,sport,328.txt,Great
+Andy Robinson,lambaste,Jonathan Kaplan,sport,330.txt,Great
+Campese,tip,wale,sport,330.txt,Great
+Scotland,beat,France,sport,330.txt,Great
+George Gregan,lead,south,sport,331.txt,Great
+France,defeat,irish,sport,332.txt,Great
+Parker,miss,england,sport,333.txt,Great
+Stevens,appoint,Matt Stevens,sport,334.txt,Great
+corry,support,robinson,sport,336.txt,Great
+the Rugby Football Union,investigate,robinson,sport,343.txt,Great
+england,play,Italy,sport,345.txt,Great
+Andy Robinson,award,Andy Hazell,sport,351.txt,Great
+Ben Kay,replace,Steve Borthwick,sport,351.txt,Great
+Ireland,win,Grand Slam,sport,352.txt,Great
+wale,play,england,sport,357.txt,Great
+Doyle,coach,Ireland,sport,364.txt,Great
+Simon Amor,beat,Ben Gollings,sport,369.txt,Great
+Simon Amor,beat,Lucio Lopez Fleming,sport,369.txt,Great
+robinson,lead,england,sport,370.txt,Great
+barbarian,defeat,the all Blacks 23 - 11,sport,371.txt,Great
+James,guide,Llanelli,sport,371.txt,Great
+Maori,appoint,Joe Warbrick,sport,371.txt,Great
+Nelson Town,meet,Nelson College,sport,371.txt,Great
+the All black,swat,wale,sport,371.txt,Great
+Andy Goode,kick,tiger,sport,376.txt,Great
+Roger Wilson,join,Campbell,sport,379.txt,Great
+Ronan McCormack,join,Campbell,sport,379.txt,Great
+Argentina,shock,Ireland,sport,380.txt,Great
+Pumas,shock,irish,sport,380.txt,Great
+samoa,beat,Scotland,sport,381.txt,Great
+Andy Robinson,drop,Dawson,sport,383.txt,Great
+Andy Robinson,drop,test,sport,383.txt,Great
+Dallaglio,tour,South Africa,sport,389.txt,Great
+Bath Bath,sign,Andy Williams,sport,392.txt,Great
+St Helens,link,Sonny Bill Williams,sport,397.txt,Great
+Danny Grewcock,take,Ronan O'Gara,sport,404.txt,Great
+england,turn,Ireland,sport,404.txt,Great
+Ulster,play,Gloucester,sport,404.txt,Great
+France,claim,another Six Nations Grand Slam,sport,412.txt,Great
+France,take,wale,sport,412.txt,Great
+Dimitri Yachvili,boot,France,sport,414.txt,Great
+Yachvili,give,France,sport,414.txt,Great
+Yachvili,put,France,sport,414.txt,Great
+england,miss,Wilkinson,sport,415.txt,Great
+Johnny O'Connor,replace,Denis Leamy,sport,417.txt,Great
+Andy Roddick,play,Cyril Saulnier,sport,424.txt,Great
+Agassi,win,San Jose,sport,426.txt,Great
+Frank Dancevic,down,American Jeff Morrison 4 - 6 7 - 6,sport,426.txt,Great
+Kenneth Carlsen,beat,Irakli Labadze,sport,426.txt,Great
+Kevin Kim,defeat,Jan Hernych,sport,426.txt,Great
+Melzer,beat,Agassi,sport,427.txt,Great
+russian,beat,Rainer Schuettler 7 - 5,sport,428.txt,Great
+argentine,play,Albert Montanes,sport,429.txt,Great
+Calleri,face,Albert Montanes,sport,429.txt,Great
+davenport,defeat,Jie Zheng 6 - 2 7 - 5,sport,430.txt,Great
+Myskina,face,Patty Schnyder,sport,430.txt,Great
+Lindsay Davenport,criticise,Wimbledon,sport,432.txt,Great
+Mirza,play,Jelena Jankovic,sport,435.txt,Great
+Mirza,play,Silvia Farina Elia,sport,435.txt,Great
+russian,struggle,Selima Sfar 2,sport,435.txt,Great
+Slovakian,meet,Elena Likhovtseva,sport,435.txt,Great
+Henman,urge,bogdanovic,sport,437.txt,Great
+Mirza,beat,Jelena Kostanic,sport,439.txt,Great
+Nicole Pratt,beat,tunisian,sport,440.txt,Great
+Lleyton Hewitt,replace,Andy Roddick,sport,441.txt,Great
+safin,overtake,hewitt,sport,441.txt,Great
+Myskina,play,France,sport,446.txt,Great
+Sprem,see,Elena Likhovtseva,sport,446.txt,Great
+Jeremy Bates,single,Alex Bogdanovic,sport,449.txt,Great
+Jeremy Bates,single,Andrew Murray,sport,449.txt,Great
+the Lawn Tennis Association,warn,bogdanovic,sport,449.txt,Great
+Alicia Molik,take,Samantha Stosur,sport,450.txt,Great
+chilean,meet,Juan Ignacio Chela,sport,452.txt,Great
+rochu,shock,Coria,sport,452.txt,Great
+Dominik Hrbaty,upset,Guillermo Coria,sport,455.txt,Great
+Karina Habsudova,beat,France,sport,455.txt,Great
+Karol Kucera,beat,France,sport,455.txt,Great
+Slovakia,clinch,the Hopman Cup,sport,455.txt,Great
+Slovakia,win,Cup,sport,455.txt,Great
+Nathalie Dechy,beat,Lisa Raymond 7 - 5,sport,457.txt,Great
+Spaniard Costa,face,Croatian Ivan Ljubicic,sport,459.txt,Great
+navratilova,partner,Nathalie Dechy,sport,462.txt,Great
+Fabrice Santoro,beat,Thomas Johansson,sport,463.txt,Great
+Roger Federer,play,Greg Rusedski,sport,463.txt,Great
+Carlos Moya,beat,Andy Roddick,sport,466.txt,Great
+Spain,win,the Davis Cup,sport,466.txt,Great
+capriati,decide,the Sydney International,sport,467.txt,Great
+capriati,miss,Melbourne Jennifer Capriati,sport,467.txt,Great
+Andre Agassi,see,Nicolas Massu,sport,468.txt,Great
+Andy Roddick,beat,Ivan Ljubicic,sport,468.txt,Great
+Bob Bryan,thrash,Juan Carlos Ferrero,sport,472.txt,Great
+Bob Bryan,thrash,Tommy Robredo,sport,472.txt,Great
+Carlos Moya,take,Andy Roddick,sport,472.txt,Great
+Mike,thrash,Juan Carlos Ferrero,sport,472.txt,Great
+Mike,thrash,Tommy Robredo,sport,472.txt,Great
+Rafael Nadal,face,mardy fish,sport,472.txt,Great
+american,meet,rusedski,sport,476.txt,Great
+davenport,encounter,Venus Williams,sport,476.txt,Great
+Lleyton Hewitt,meet,Arnaud clement,sport,476.txt,Great
+Mauresmo,play,Samantha Stosur,sport,476.txt,Great
+Roger Federer,face,Fabrice Santoro,sport,476.txt,Great
+Tim Henman,face,Cyril Saulnier,sport,476.txt,Great
+Agassi,play,Rainer Schuettler,sport,477.txt,Great
+Gaston Gaudio,beat,Justin Gimelstob 7 - 6,sport,477.txt,Great
+federer,beat,Roddick,sport,481.txt,Great
+Roddick,hire,gilbert,sport,481.txt,Great
+Lleyton,beat,Roger Federer,sport,487.txt,Great
+Carlos Moya,beat,mardy fish,sport,491.txt,Great
+nadal,work,Roddick,sport,491.txt,Great
+Rafael Nadal,beat,Andy Roddick,sport,491.txt,Great
+the Lawn Tennis Association,appoint,Tim Henman,sport,492.txt,Great
+Roche,win,the French Open,sport,494.txt,Great
+Maria Sharapova,win,Grand Slams,sport,495.txt,Great
+Myskina,thrash,Elena Dementieva,sport,495.txt,Great
+Myskina,win,Grand Slams,sport,495.txt,Great
+Daniela Hantuchova,defeat,Michaella Krajicek,sport,497.txt,Great
+Slovakia,play,Argentina,sport,497.txt,Great
+the United States,defeat,Australia,sport,497.txt,Great
+Moya,lead,Spain,sport,499.txt,Great
+Britain,draw,USA,sport,500.txt,Great
+Jeremy Bates,tout,Alex Bogdanovic,sport,500.txt,Great
+Jeremy Bates,tout,Andrew Murray,sport,500.txt,Great
+the Women 's Tennis Association,clear,Kuznetsova,sport,502.txt,Great
+Robin Soderling,take,the Milan Indoors,sport,505.txt,Great
+Roddick,play,Cyril Saulnier,sport,511.txt,Great
+Negroponte,publish,be Digital,tech,004.txt,Great
+BBC,lead,bafta,tech,046.txt,Great
+the European Telecommunications Institute,adopt,Digital Video Broadcasting Handheld,tech,059.txt,Great
+Google,acquire,Pyra Labs,tech,062.txt,Great
+raskin,found,apple,tech,068.txt,Great
+raskin,join,apple,tech,068.txt,Great
+raskin,leave,apple,tech,068.txt,Great
+xerox PARC,develop,GUI,tech,068.txt,Great
+tate,test,ArtGarden,tech,085.txt,Great
+Chris McIntyre,run,Podcast Alley,tech,110.txt,Great
+argonaut,call,David Rubin & Partners,tech,114.txt,Great
+Bill Gates,open,the Consumer Electronics show,tech,134.txt,Great
+the Mozilla Foundation,found,Firefox,tech,138.txt,Great
+Hurricane Ivan,ravage,caribbean,tech,142.txt,Great
+Hurricane Ivan,ravage,United States,tech,142.txt,Great
+apple,sell,ipod,tech,148.txt,Great
+gate,showcase,Xbox,tech,163.txt,Great
+China,censor,Google News,tech,186.txt,Great
+IBM,develop,the Smallpox Research Grid,tech,200.txt,Great
+the Royal National Institute for Deaf People ( RNID,pilot,the Video Relay Service,tech,251.txt,Great
+Donkey Kong,meet,Norman Cook,tech,256.txt,Great
+Tetris,take,kraftwerk,tech,256.txt,Great
+job,describe,Macintosh,tech,260.txt,Great
+IBM,support,Linux,tech,268.txt,Great
+apple,offer,Mac Mini,tech,301.txt,Great
+the Mac Mini,put,Macintosh,tech,301.txt,Great
+Yahoo,choose,Google,tech,337.txt,Great
+Asimo,visit,Germany,tech,356.txt,Great
+the Electronic Frontier Foundation,defend,StreamCast network,tech,370.txt,Great
+Television Numerique,pour,tous,tech,371.txt,Great
+Jemima Khan,leave,iPod,tech,375.txt,Great

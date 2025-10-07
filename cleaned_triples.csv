@@ -1,0 +1,662 @@
+Subject,Relation,Object,Category,Filename
+peugeot,signed,a Memorandum of Understanding,business,013.txt
+WPP,acquired,Grey Global,business,035.txt
+China,encouraged,the US Agriculture Department,business,039.txt
+BMW,owns,Rover,business,049.txt
+Fiat,transferred,Maserati,business,051.txt
+Hyundai,built,Hyundai Motor,business,054.txt
+fao,urged,the World Trade Organisation,business,067.txt
+Colin Powell,visited,the West Bank,business,076.txt
+VEB,lend,rosneft,business,077.txt
+Yukos,sued,rosneft,business,083.txt
+Europe,blame,US,business,089.txt
+SEC,accuse,Titan,business,102.txt
+Elliot Spitzer,sued,MMC Capital,business,103.txt
+Reid Weingarten,ask,Mr Sullivan,business,114.txt
+Sullivan,implicate,Mr Ebbers,business,114.txt
+Gazprom,need,Yugansk,business,131.txt
+rosneft,snap,sibneft,business,131.txt
+panke,praise,Accura,business,141.txt
+the European Commission,commission,Kok,business,146.txt
+Saab,built,cadillac,business,149.txt
+Fiat,sell,GM,business,160.txt
+Boeing,sack,Ms Druyun,business,161.txt
+Boeing,sack,sear,business,161.txt
+martin,sued,Boeing,business,161.txt
+Russia,force,Yukos,business,164.txt
+Man Utd,bid,Irishmen JP McManus,business,179.txt
+Man Utd,bid,John Magnier,business,179.txt
+Naresh Goya,founded,Jet Airways,business,186.txt
+Demel,leave,Fiat Auto,business,189.txt
+GM,pay,Fiat,business,189.txt
+Sergio Marchionne,replace,Herbert Demel,business,189.txt
+the European Court of Human Rights,sued,Russia,business,192.txt
+Beijing,view,Sina,business,208.txt
+NM Rothschild,advise,glazer,business,209.txt
+Brown,introduce,Dr Greenspan,business,213.txt
+Gordon Brown,invite,greenspan,business,213.txt
+Air China,pick,the London Stock Exchange,business,215.txt
+ghosn,transform,Nissan,business,216.txt
+Toshiyuki Shiga,run,Nissan,business,216.txt
+Ukraine,oust,Leonid Kuchma,business,217.txt
+Bayern Munich,beat,Borussia Dortmund,business,219.txt
+NM Rothschild,advise,glazer,business,229.txt
+Deutsche Bank,accuse,Gazprom,business,230.txt
+Deutsche Bank,accuse,the Russian Federation,business,230.txt
+Lloyd 's of London,chide,FSA,business,232.txt
+Prettejohn,urged,FSA,business,232.txt
+morrow,succeed,Shiro Tsuda,business,234.txt
+US,support,IFF,business,241.txt
+Mr Ebbers,direct,Sullivan,business,246.txt
+Ofcom,offer,BT,business,252.txt
+South Korea,give,Economy Ministry,business,258.txt
+Air China,choose,London,business,269.txt
+LSE,choose,London,business,269.txt
+Werner Seifert,meet,Clara Furse,business,279.txt
+GE,acquired,Vivendi Universal,business,288.txt
+million,lose,million of the world 's,business,296.txt
+the Securities & Exchange Commission,accuse,Fannie Mae,business,298.txt
+Paul Tellier,leave,Bombardier,business,304.txt
+gammell,set,Aishwariya,business,307.txt
+Airbus,head,Noel Forgeard,business,308.txt
+Baikal Finance Group,outbid,Gazprom,business,314.txt
+Khodorkovsky,control,Yukos,business,314.txt
+s&n,extend,Newcastle,business,315.txt
+s&n,extend,scottish,business,315.txt
+euronext,approach,the London Stock Exchange,business,319.txt
+Franklin Raines,leave,Fannie Mae,business,326.txt
+Tim Howard,leave,Fannie Mae,business,326.txt
+the Securities and Exchange Commission,admonish,Fannie Mae,business,326.txt
+Vijay Mallya,set,Kingfisher Airlines,business,339.txt
+Chavez,invite,the Ministry of Commerce,business,340.txt
+Hugo Chavez,offer,China,business,340.txt
+Honda,win,China,business,342.txt
+South Korea,give,Economy Ministry,business,356.txt
+GM,meet,General Motors,business,359.txt
+the Association for Payment Clearing Services ( Apacs ) apac,choose,Helen Carroll,business,362.txt
+Interbrew,acquired,ambev,business,369.txt
+World Bank,urged,Egypt,business,389.txt
+Werner Seifert,meet,m furse,business,392.txt
+Laura Ashley,thank,m Mohd - Saaid,business,393.txt
+tsunami,cost,Sri Lanka,business,398.txt
+Vijay Mallya,set,Kingfisher Airlines,business,407.txt
+citigroup,beat,Standard Chartered,business,409.txt
+the European People 's Party,attack,EC,business,413.txt
+Judy Boynton,leave,shell,business,419.txt
+Airbus,overtake,Boeing,business,424.txt
+rosneft,become,yuganskneftegaz,business,426.txt
+Standard & Poor 's,upgrade,Pakistan,business,428.txt
+US,ask,the World Trade Organisation,business,446.txt
+bell,oversee,mcdonald,business,452.txt
+Quinlan Private - buy,acquired,savoy,business,470.txt
+Egypt,hand,israeli,business,478.txt
+Hosni Mubarak,describe,Ariel Sharon,business,478.txt
+Anil,accuse,Anand Jain,business,486.txt
+Indonesia,owe,Paris Club,business,491.txt
+Air China,pick,the London Stock Exchange,business,494.txt
+Europe,ask,Asia,business,496.txt
+China,overtake,US,business,505.txt
+Crown Prince Frederik,visited,New York,entertainment,002.txt
+Queen Mary,read,the Ugly duckling,entertainment,002.txt
+Pamela Travers,founded,Mary Poppins,entertainment,005.txt
+the Theatregoers ' Choice Awards,appointed,Christian Slater,entertainment,006.txt
+McCaughrean,win,the Whitbread Prize,entertainment,013.txt
+the Canadian Broadcasting Corporation,acquired,flight,entertainment,016.txt
+slater,play,Christian Slater,entertainment,019.txt
+slater,replace,Dallas Roberts,entertainment,019.txt
+alicia Markova,spend,World War II,entertainment,021.txt
+CFCA,award,Thomas Haden Church,entertainment,030.txt
+Imelda Staunton,win,CFCA,entertainment,030.txt
+the Southeastern Film Critics,award,sideway,entertainment,030.txt
+Roger Deakins,win,the Technical Achievement Award,entertainment,034.txt
+Takuo Miyagishima,award,Oscar,entertainment,035.txt
+Evans,sued,mann,entertainment,039.txt
+Walter Salles,acclaim,the Motorcycle diary,entertainment,040.txt
+Kwon - Taek,receive,Golden Bear,entertainment,042.txt
+Jugnot,top,Gerard Jugnot - star,entertainment,045.txt
+Paul Rusesabagina,join,Cheadle,entertainment,047.txt
+Hilary Swank,win,the Screen Actors Guild Awards,entertainment,051.txt
+Jamie Foxx,win,the Screen Actors Guild Awards,entertainment,051.txt
+Alan Titchmarsh,leave,Ground Force,entertainment,055.txt
+Brando,grant,electronic Arts,entertainment,056.txt
+sideway,dominate,Independent Spirit Awards,entertainment,062.txt
+will Smith,give,Cesar,entertainment,063.txt
+hollywood,prepare,the 77th Academy Awards,entertainment,064.txt
+Ron Howard,choose,Tautou,entertainment,068.txt
+Hilary Swank,win,the Screen Actors Guild Awards,entertainment,069.txt
+Jamie Foxx,win,the Screen Actors Guild Awards,entertainment,069.txt
+Floella Benjamin,award,the Special Award,entertainment,070.txt
+Ray,earn,Guild Award,entertainment,073.txt
+the US Federal Communications Commission,fine,CBS,entertainment,080.txt
+Evans,sued,mann,entertainment,082.txt
+Swank,win,Best Actress,entertainment,084.txt
+Miyazaki,win,Oscar,entertainment,087.txt
+Marlon Brando,win,the Academy Award,entertainment,089.txt
+Desperate housewife,star,Felicity Huffman,entertainment,095.txt
+Desperate housewife,star,Marcia Cross,entertainment,095.txt
+dicaprio,play,Howard Hughes,entertainment,095.txt
+Nicky Wire,join,Phil Jupitus,entertainment,107.txt
+Jay - Z,move,the Island Def Jam Music Group,entertainment,117.txt
+Rick Rubin,founded,Def Jam,entertainment,117.txt
+Russell Simmons,founded,Def Jam,entertainment,117.txt
+Merle Kilgore,hit,Ring of fire,entertainment,119.txt
+Black America,take,Bob,entertainment,120.txt
+casey,beat,Brian McFadden,entertainment,125.txt
+casey,beat,Damien Rice,entertainment,125.txt
+pj harvey,pip,Kylie Minogue,entertainment,125.txt
+Snow Patrol,fete,the Meteor Awards,entertainment,125.txt
+Snow Patrol,support,u2,entertainment,125.txt
+Johnson,approach,Dr Dre,entertainment,135.txt
+Kanye West,dominate,grammys,entertainment,139.txt
+Franz ferdinand,follow,keane,entertainment,142.txt
+razorlight,follow,keane,entertainment,142.txt
+Rapper Eminem,deny,Elvis,entertainment,144.txt
+Stevie Wonder,receive,Billboard 's Century Award,entertainment,150.txt
+Newcomer Ciara - who,beat,Elvis Presley,entertainment,156.txt
+housewife,lift,Channel 4,entertainment,179.txt
+Brigitte Nielsen,nominate,Bez,entertainment,180.txt
+Brigitte Nielsen,nominate,John,entertainment,180.txt
+Tim Kash,front,the all New Top of the pop,entertainment,184.txt
+Denise,lose,Johnny Vaughan,entertainment,186.txt
+johnny,lose,Johnny Vaughan,entertainment,186.txt
+BBC,hit,little Britain,entertainment,191.txt
+BBC,launched,Freeview,entertainment,202.txt
+Redmond,bring,hollyoak to Channel 4,entertainment,211.txt
+Britain,star,David Walliams,entertainment,212.txt
+Britain,star,Matt Lucas,entertainment,212.txt
+icrc,run,Gazetta,entertainment,213.txt
+Franz ferdinand,beat,Morrissey,entertainment,215.txt
+housewife,lift,Channel 4,entertainment,216.txt
+great british Spelling Test,take,olympic,entertainment,220.txt
+great british Spelling Test,take,Spooks Interactive,entertainment,220.txt
+Guardian,take,the Tour de France,entertainment,220.txt
+Christopher Lee,read,Fireside tale,entertainment,227.txt
+Franz ferdinand,follow,keane,entertainment,229.txt
+razorlight,follow,keane,entertainment,229.txt
+Rob Da Bank,host,the John Peel Show,entertainment,231.txt
+size,win,Mercury Music Prize,entertainment,237.txt
+Kombou,play,Vince Everett,entertainment,242.txt
+Steve Coogan,play,Wilson,entertainment,245.txt
+Britney Spears,sued,spear,entertainment,247.txt
+Joss Stone,beat,Dizzee Rascal,entertainment,256.txt
+Joss Stone,beat,Jamelia,entertainment,256.txt
+Ms Love,find,Kristin king,entertainment,258.txt
+Bill Clinton,pick,Grammy,entertainment,264.txt
+Rod Stewart,win,Grammy,entertainment,264.txt
+BBC one,screen,Different Story,entertainment,269.txt
+Nathan Lane,beat,Lee Evans,entertainment,275.txt
+producer,beat,Mary Poppins,entertainment,275.txt
+the Society of London,hand,the Olivier Awards,entertainment,275.txt
+conti,receive,Oscar,entertainment,280.txt
+Goodrem,take,the Pepsi Viewers Choice Award,entertainment,286.txt
+u2,play,Hampden,entertainment,287.txt
+Clapton,introduce,Buddy Guy,entertainment,291.txt
+Rod Stewart,introduce,Percy Sledge,entertainment,291.txt
+Springsteen,mock,bono,entertainment,291.txt
+malkovich,play,Humma Kavula,entertainment,299.txt
+Robert Redford,founded,sundance,entertainment,301.txt
+Ron Howard,choose,Tautou,entertainment,308.txt
+Victoria Wood,slate,Cohen,entertainment,311.txt
+Dudley Nichols,refuse,Academy Award,entertainment,314.txt
+the Academy Awards,flourish,Academy Awards,entertainment,314.txt
+"Ferry , Mackay",form,Roxy Music,entertainment,318.txt
+Mr Fuller,set,American Idol,entertainment,319.txt
+Simon Fuller,sell,idol,entertainment,319.txt
+Vera Drake,lead,Oscar,entertainment,323.txt
+Morgan Spurlock,force,McDonalds,entertainment,326.txt
+Charles,win,Grammy Awards,entertainment,344.txt
+Ray,earn,Guild Award,entertainment,350.txt
+Jolin,tip,Phil Davis,entertainment,352.txt
+Kate Winslet,outdo,Heather Craney,entertainment,352.txt
+Natalie Portman,outdo,Heather Craney,entertainment,352.txt
+Sienna Miller,bring,glamour,entertainment,354.txt
+hollywood,star,Leonardo dicaprio,entertainment,355.txt
+hollywood,star,Pierce Brosnan,entertainment,355.txt
+Harry Potter,win,the Orange Film of the year,entertainment,357.txt
+amadeus,beat,the Killing Fields,entertainment,363.txt
+titanic,take,oscar,entertainment,363.txt
+Dave Karger,maintain,oscar,entertainment,367.txt
+Sky Movies 1,show,Academy Awards,entertainment,368.txt
+Briton,win,Oscar Three,entertainment,369.txt
+sideway,dominate,Independent Spirit Awards,entertainment,370.txt
+eastwood,take,Oscar,entertainment,372.txt
+arnold,show,Motormouth,entertainment,373.txt
+Sandy Powell,win,Oscar,entertainment,373.txt
+Debra Hill,die,screenwriter,entertainment,378.txt
+the Freedom of Information Act,cover,england,politics,002.txt
+the Freedom of Information Act,cover,wale,politics,002.txt
+labour,choose,Manchester the Labour Party,politics,004.txt
+Digby Jones,warn,Brown,politics,005.txt
+Fox,accuse,Blair,politics,007.txt
+Campbell,message,Newsnight,politics,009.txt
+Peter Mandelson,warn,BBC,politics,009.txt
+Dominick Chilcott,represent,UK,politics,015.txt
+Blair,back,Tony Blair,politics,021.txt
+Blair,bypass,Cabinet,politics,027.txt
+Jack Cunningham,accuse,Butler,politics,027.txt
+Michael Howard,accuse,Tony Blair,politics,034.txt
+Turkey,enter,EU,politics,035.txt
+the Welsh Assembly Government,take,the Arts Council of Wales,politics,039.txt
+Blunkett,enter,parliament,politics,041.txt
+Prof Etzioni,criticise,US,politics,052.txt
+Makarov,join,KGB,politics,053.txt
+Ms Kelly,enter,Cabinet,politics,055.txt
+MAB,urged,muslim,politics,062.txt
+the United Kingdom,approve,Treaty,politics,082.txt
+Nicola sturgeon,accuse,McLetchie,politics,089.txt
+Brown,tour,Africa,politics,099.txt
+Mrs Parker Bowles,become,Princess Consort,politics,104.txt
+Massoud Shadjareh,accuse,m blear,politics,105.txt
+Hockney,leave,UKIP,politics,111.txt
+Lucy,track,pound,politics,113.txt
+Alan Duncan,accuse,Brown,politics,127.txt
+Vincent Cable,accuse,Brown,politics,128.txt
+Tony Blair,assure,parliament,politics,133.txt
+Hilary Benn,visited,Aceh,politics,135.txt
+Hilary Benn,visited,Sri Lanka,politics,135.txt
+howard,deny,Mr Yeo,politics,141.txt
+Fox,accuse,Blair,politics,147.txt
+Alan Milburn,accuse,tory,politics,159.txt
+Alan Clark,replace,nichola,politics,183.txt
+Goldsmith,warn,Tony Blair,politics,184.txt
+Oliver Finegold,approach,Livingstone,politics,186.txt
+Michael Howard,send,Bush,politics,189.txt
+howard,leave,Llanelli Grammar School - and,politics,190.txt
+US,hold,Martin Mubanga,politics,192.txt
+US,hold,Moazzam Begg,politics,192.txt
+Blair,press,US,politics,197.txt
+John McCain,visited,Mr Blair,politics,197.txt
+Tony Blair,press,US,politics,197.txt
+US,hold,Martin Mubanga,politics,205.txt
+US,hold,Moazzam Begg,politics,205.txt
+howard,appointed,Crosby,politics,212.txt
+Alan Milburn,join,Brown,politics,225.txt
+Brown,visited,mozambique,politics,225.txt
+Brown,visited,Tanzania,politics,225.txt
+Tony Blair,join,Blunkett,politics,234.txt
+mccabe,promise,8.1bn,politics,241.txt
+Tony Blair,promise,Gordon Brown,politics,252.txt
+Blair,reinstate,Mr Brown,politics,254.txt
+Blair and Brown,criticise,Gordon Brown,politics,257.txt
+Blair and Brown,criticise,Tony Blair,politics,257.txt
+Campbell - Savours,challenge,Brown,politics,257.txt
+mp,criticise,Gordon Brown,politics,260.txt
+mp,criticise,Tony Blair,politics,260.txt
+Alan Milburn,join,Brown,politics,262.txt
+UKIP,take,Britain,politics,267.txt
+Charles Kennedy,dismiss,conservative,politics,272.txt
+Liberal Democrats,replace,tory,politics,272.txt
+Alan Milburn,accuse,howard,politics,275.txt
+Alan Milburn,accuse,howard,politics,277.txt
+Robert Kilroy - Silk,quit,Independence Party,politics,281.txt
+UK,leave,the European Union,politics,281.txt
+Mr Blair,contrast,labour party,politics,282.txt
+Oliver Letwin,accuse,Blair,politics,282.txt
+Baroness Amos,accompany,kinnock,politics,289.txt
+Josef Stalin,trigger,the Cold War,politics,290.txt
+EU,benefit,Germany,politics,292.txt
+Germany,see,EU,politics,292.txt
+Hockney,leave,UKIP,politics,293.txt
+howard,deny,Mr Yeo,politics,300.txt
+galloway,sued,telegraph,politics,302.txt
+liberal,keep,labour,politics,303.txt
+tory,accuse,Tony Blair,politics,305.txt
+labour mp,welcome,Jackson,politics,307.txt
+Goldsmith,warn,Tony Blair,politics,324.txt
+Goldsmith,warn,Tony Blair,politics,327.txt
+Goldsmith,warn,Tony Blair,politics,328.txt
+howard,appointed,Crosby,politics,329.txt
+Ian McCartney,describe,Oliver Letwin,politics,332.txt
+tory,hold,Erewash,politics,333.txt
+Kennedy,visited,Leicester South,politics,335.txt
+tory,shadow,Caroline Spelman,politics,339.txt
+Brown,accuse,GP,politics,349.txt
+Brown,accuse,Oliver Letwin,politics,349.txt
+Fox,accuse,Blair,politics,351.txt
+Blair,back,Tony Blair,politics,356.txt
+Digby Jones,warn,Brown,politics,359.txt
+Brown,stun,Westminster,politics,360.txt
+howard,attack,the Lib Dems,politics,371.txt
+Simon Hughes,brand,howard,politics,371.txt
+Charles Kennedy,attack,Mr Brown,politics,375.txt
+Kennedy,criticise,Brown,politics,375.txt
+Michael Howard,accuse,Blair,politics,379.txt
+Liberal Democrats,warn,labour,politics,382.txt
+Liberal Democrats,warn,tory,politics,382.txt
+the United Kingdom,approve,Treaty,politics,383.txt
+Liam Fox,accuse,labour,politics,387.txt
+the Lib Dems,accuse,Brown,politics,387.txt
+Michael Fallon,ask,Mr Brown,politics,389.txt
+Brown,oust,milburn,politics,402.txt
+labour,maintain,Brown,politics,402.txt
+milburn,oust,Brown,politics,402.txt
+the Pro - life Alliance,congratulate,howard,politics,405.txt
+labour,take,Britain,politics,415.txt
+UK athletic,kitte,Team GB,sport,015.txt
+El Guerrouj,meet,Bekele,sport,025.txt
+anti - doping agency,suspend,collins,sport,026.txt
+turnbull,travel,Europe,sport,030.txt
+Briton,hold,Kenyan Susan Chepkemei,sport,042.txt
+collins,appointed,UK athletic,sport,043.txt
+anti - doping agency,accuse,Balco,sport,045.txt
+Kenteris,quit,olympic,sport,048.txt
+Thanou,quit,olympic,sport,048.txt
+gebrselassie,face,Jaouad Gharib,sport,053.txt
+gebrselassie,face,Stefano Baldini,sport,053.txt
+Sotherton Jade Johnson,edge,Kelly Sotherton,sport,061.txt
+Chris Tomlinson,boost,Team GB,sport,066.txt
+holme,leave,athens,sport,066.txt
+Hayley Yelling,represent,Team GB,sport,087.txt
+Jo Pavey,represent,Team GB,sport,087.txt
+anti - doping agency,accuse,Balco,sport,091.txt
+moye u - turn,discipline,James Beattie,sport,097.txt
+moye u - turn,discipline,William Gallas,sport,097.txt
+Dunne,marshal,rooney,sport,101.txt
+rooney,show,McManaman,sport,101.txt
+mourinho,reveal,Willian Gallas,sport,103.txt
+John Arne Riise,volley,Liverpool,sport,104.txt
+Luis Garcia,feed,Dietmar Hamann,sport,104.txt
+Nunez,beat,cech,sport,104.txt
+davy,set,Giannakopoulos,sport,105.txt
+Fernando Hierro,chop,Dyer on the edge of the area,sport,105.txt
+Lee Bowyer,put,Newcastle,sport,105.txt
+Alan Archibald,prod,United,sport,107.txt
+Clyde 0 - 5 Celtic Celtic,brush,Clyde,sport,108.txt
+Maloney,replace,Sutton,sport,108.txt
+Stan Varga,head,celtic,sport,108.txt
+Eric Deloumeaux,send,Jason Dair,sport,109.txt
+Gus Bahoken,foul,Miller,sport,109.txt
+Neil MacFarlane,haul,Burton O'Brien,sport,109.txt
+France,defender,galla,sport,111.txt
+France,defender,Ireland,sport,111.txt
+Chelsea,test,Liverpool,sport,112.txt
+Parry,join,Liverpool,sport,112.txt
+Parry,reveal,Liverpool,sport,112.txt
+Brown,start,Eriksson,sport,113.txt
+Carragher,start,Eriksson,sport,113.txt
+Giggs,hand,wale,sport,115.txt
+Giggs,lead,wale,sport,115.txt
+Manchester United,offer,Giggs,sport,115.txt
+Ryan Giggs,captain,wale,sport,115.txt
+Mladenovic,replace,Mikel Arteta,sport,117.txt
+Fernando Torres,give,athletico,sport,120.txt
+Chelsea,test,Liverpool,sport,121.txt
+Parry,join,Liverpool,sport,121.txt
+Parry,reveal,Liverpool,sport,121.txt
+Cole,meet,Jose Mourinho,sport,125.txt
+Cole,meet,Peter Kenyon,sport,125.txt
+Australia,face,South Africa,sport,127.txt
+irish,beat,Italy,sport,132.txt
+Iran,give,Arash Miresmaeili,sport,136.txt
+keane,accuse,Vieira,sport,137.txt
+James,deny,Damien Duff,sport,139.txt
+James,deny,Jiri Jarosik,sport,139.txt
+Dado Prso,turn,Neil Lennon,sport,146.txt
+hartson,dispossese,Sotiris Kyrgiakos,sport,146.txt
+ranger,find,celtic,sport,146.txt
+michel,lead,dutch,sport,149.txt
+Ivan Helguera,head,Antonio Doblas,sport,151.txt
+Milan,beat,Juventus,sport,152.txt
+benitez,defend,Jerzy Dudek,sport,155.txt
+red,take,Rafael Benitez,sport,155.txt
+Cole,face,Carlton Cole,sport,162.txt
+Arsene Wenger,introduce,Quincy Owusu - Abeyie,sport,163.txt
+Jol,guide,spur,sport,164.txt
+Bobby Robson,offer,Jose Mourinho,sport,172.txt
+charlton,recalled,Simon Royce,sport,173.txt
+holloway,chase,Tom Doherty,sport,173.txt
+Carlo Cudicini,miss,Carling Cup,sport,174.txt
+Kevin Keegan,praise,Robbie Fowler,sport,176.txt
+success,see,rover,sport,179.txt
+David Prutton,push,Alan Wiley,sport,180.txt
+Chelsea,play,Barcelona,sport,181.txt
+Chelsea,take,Barcelona,sport,181.txt
+Chelsea,play,Barcelona,sport,182.txt
+Chelsea,take,Barcelona,sport,182.txt
+charlton,play,Bolton,sport,184.txt
+charlton,play,leicester,sport,184.txt
+Sam Allardyce,signed,Vincent Candela,sport,185.txt
+Stuart,join,norwich,sport,186.txt
+Mauritius,humble,Bafana Bafana,sport,190.txt
+Mauritius,take,madagascar,sport,190.txt
+Zambia,host,Lesotho,sport,190.txt
+Zambia,host,Malawi,sport,190.txt
+Jurgen Klinsmann,warn,Jens Lehmann,sport,194.txt
+Henry,catch,heinze,sport,200.txt
+Bolton,meet,Ipswich,sport,205.txt
+Fulham,face,Carling Cup,sport,205.txt
+Fulham,face,watford,sport,205.txt
+spur,entertain,Brighton,sport,205.txt
+the Scottish Football Association,appointed,Tommy burn,sport,208.txt
+Bernardo Gandulla,leave,Boca Juniors,sport,210.txt
+Maradona,join,corinthian,sport,210.txt
+Spain,dominate,england,sport,216.txt
+kerr,succeed,Mick McCarthy,sport,217.txt
+McClaren,praise,Jimmy Floyd Hasselbaink,sport,229.txt
+McClaren,praise,Stewart Downing,sport,229.txt
+Alex Ferguson,influence,Neale Barry,sport,231.txt
+the Football Association,charge,Liverpool,sport,234.txt
+the Football Association,charge,Millwall Liverpool,sport,234.txt
+gill,phone,Dein,sport,235.txt
+Ruud van Nistelrooy,catch,Ashley Cole,sport,235.txt
+the Football Association,punish,ferguson,sport,235.txt
+benitez,hail,Gerrard,sport,236.txt
+Manchester United,avoid,FA Cup,sport,240.txt
+rooney,round,Jones,sport,240.txt
+Chicago Cubs,shortstop,Nomar Garciaparra,sport,241.txt
+ETA,target,bernabeu,sport,245.txt
+Mark Taylor,join,lorimer,sport,251.txt
+Dundee United,visited,kilmarnock,sport,253.txt
+ranger,visited,kilmarnock,sport,253.txt
+Steven Gerrard,put,Liverpool,sport,259.txt
+o'leary,rap,Olof Mellberg,sport,264.txt
+Steve Stone,send,Gary O'Neil,sport,268.txt
+Liverpool,bring,Luis Garcia,sport,269.txt
+Neil Mellor,give,Liverpool,sport,269.txt
+pompey,stretch,Arsenal,sport,278.txt
+ferguson,hail,Roy Keane,sport,282.txt
+ferguson,hail,Ryan Giggs,sport,282.txt
+o'driscoll,insist,Ireland,sport,290.txt
+Williams,replace,Thomas,sport,291.txt
+Joe Shaw,find,Dave Walder,sport,293.txt
+the Scottish Rugby Union,punish,Matt Williams,sport,298.txt
+John Connolly,rate,barkley,sport,300.txt
+Italy,guide,Ireland,sport,302.txt
+Charlie Hodgson,put,england,sport,303.txt
+France,bring,Serge Betsen,sport,306.txt
+england,lock,Danny Grewcock,sport,307.txt
+Henson,send,luscombe,sport,312.txt
+Andy Robinson,call,Duncan Bell,sport,315.txt
+France,beat,england,sport,320.txt
+France,beat,Scotland,sport,320.txt
+Kirwan,recalled,Cristian Stoica,sport,322.txt
+Simon Webster,replace,Simon Danielli,sport,322.txt
+leed v Saracens,bring,Ed Kalman,sport,324.txt
+leed v Saracens,bring,Tom McGee,sport,324.txt
+Tim Collier,replace,Phil Murphy,sport,325.txt
+wale,beat,england,sport,326.txt
+Bernard Laporte,recalled,Frederic Michalak,sport,327.txt
+France,win,the six nation,sport,327.txt
+Tama Umaga,warn,Irish Lions,sport,328.txt
+Umaga,back,New Zealand,sport,328.txt
+Tama Umaga,warn,Irish Lions,sport,329.txt
+Umaga,back,New Zealand,sport,329.txt
+Andy Robinson,lambaste,Jonathan Kaplan,sport,330.txt
+Campese,tip,wale,sport,330.txt
+Scotland,beat,France,sport,330.txt
+George Gregan,lead,south,sport,331.txt
+France,defeat,irish,sport,332.txt
+Parker,miss,england,sport,333.txt
+Stevens,appointed,Matt Stevens,sport,334.txt
+corry,back,robinson,sport,336.txt
+the Rugby Football Union,investigate,robinson,sport,343.txt
+France,defeat,irish,sport,344.txt
+england,play,Italy,sport,345.txt
+Andy Robinson,award,Andy Hazell,sport,351.txt
+Ben Kay,replace,Steve Borthwick,sport,351.txt
+Ireland,win,Grand Slam,sport,352.txt
+wale,play,england,sport,357.txt
+Doyle,coach,Ireland,sport,364.txt
+Simon Amor,beat,Ben Gollings,sport,369.txt
+Simon Amor,beat,Lucio Lopez Fleming,sport,369.txt
+robinson,lead,england,sport,370.txt
+barbarian,defeat,the all Blacks 23 - 11,sport,371.txt
+James,guide,Llanelli,sport,371.txt
+Maori,appointed,Joe Warbrick,sport,371.txt
+Nelson Town,meet,Nelson College,sport,371.txt
+the All black,swat,wale,sport,371.txt
+Andy Goode,kick,tiger,sport,376.txt
+Roger Wilson,join,Campbell,sport,379.txt
+Ronan McCormack,join,Campbell,sport,379.txt
+Argentina,shock,Ireland,sport,380.txt
+Pumas,shock,irish,sport,380.txt
+samoa,beat,Scotland,sport,381.txt
+Andy Robinson,drop,Dawson,sport,383.txt
+Andy Robinson,drop,test,sport,383.txt
+Dallaglio,tour,South Africa,sport,389.txt
+Bath Bath,signed,Andy Williams,sport,392.txt
+St Helens,link,Sonny Bill Williams,sport,397.txt
+Danny Grewcock,take,Ronan O'Gara,sport,404.txt
+england,turn,Ireland,sport,404.txt
+Ulster,play,Gloucester,sport,404.txt
+France,claim,another Six Nations Grand Slam,sport,412.txt
+France,take,wale,sport,412.txt
+Dimitri Yachvili,boot,France,sport,414.txt
+Yachvili,give,France,sport,414.txt
+Yachvili,put,France,sport,414.txt
+england,miss,Wilkinson,sport,415.txt
+Henson,send,luscombe,sport,416.txt
+Johnny O'Connor,replace,Denis Leamy,sport,417.txt
+Johnny O'Connor,replace,Denis Leamy,sport,418.txt
+Andy Roddick,play,Cyril Saulnier,sport,424.txt
+Agassi,win,San Jose,sport,426.txt
+Frank Dancevic,down,American Jeff Morrison 4 - 6 7 - 6,sport,426.txt
+Kenneth Carlsen,beat,Irakli Labadze,sport,426.txt
+Kevin Kim,defeat,Jan Hernych,sport,426.txt
+Melzer,beat,Agassi,sport,427.txt
+russian,beat,Rainer Schuettler 7 - 5,sport,428.txt
+argentine,play,Albert Montanes,sport,429.txt
+Calleri,face,Albert Montanes,sport,429.txt
+davenport,defeat,Jie Zheng 6 - 2 7 - 5,sport,430.txt
+Myskina,face,Patty Schnyder,sport,430.txt
+Lindsay Davenport,criticise,Wimbledon,sport,432.txt
+Mirza,play,Jelena Jankovic,sport,435.txt
+Mirza,play,Silvia Farina Elia,sport,435.txt
+russian,struggle,Selima Sfar 2,sport,435.txt
+Slovakian,meet,Elena Likhovtseva,sport,435.txt
+davenport,defeat,Jie Zheng 6 - 2 7 - 5,sport,436.txt
+Myskina,face,Patty Schnyder,sport,436.txt
+Henman,urged,bogdanovic,sport,437.txt
+Lindsay Davenport,criticise,Wimbledon,sport,438.txt
+Mirza,beat,Jelena Kostanic,sport,439.txt
+Nicole Pratt,beat,tunisian,sport,440.txt
+Lleyton Hewitt,replace,Andy Roddick,sport,441.txt
+safin,overtake,hewitt,sport,441.txt
+Myskina,play,France,sport,446.txt
+Sprem,see,Elena Likhovtseva,sport,446.txt
+Jeremy Bates,single,Alex Bogdanovic,sport,449.txt
+Jeremy Bates,single,Andrew Murray,sport,449.txt
+the Lawn Tennis Association,warn,bogdanovic,sport,449.txt
+Alicia Molik,take,Samantha Stosur,sport,450.txt
+chilean,meet,Juan Ignacio Chela,sport,452.txt
+rochu,shock,Coria,sport,452.txt
+Dominik Hrbaty,upset,Guillermo Coria,sport,455.txt
+Karina Habsudova,beat,France,sport,455.txt
+Karol Kucera,beat,France,sport,455.txt
+Slovakia,clinch,the Hopman Cup,sport,455.txt
+Slovakia,win,Cup,sport,455.txt
+Nathalie Dechy,beat,Lisa Raymond 7 - 5,sport,457.txt
+Spaniard Costa,face,Croatian Ivan Ljubicic,sport,459.txt
+navratilova,partner,Nathalie Dechy,sport,462.txt
+Fabrice Santoro,beat,Thomas Johansson,sport,463.txt
+Roger Federer,play,Greg Rusedski,sport,463.txt
+Carlos Moya,beat,Andy Roddick,sport,466.txt
+Spain,win,the Davis Cup,sport,466.txt
+capriati,decide,the Sydney International,sport,467.txt
+capriati,miss,Melbourne Jennifer Capriati,sport,467.txt
+Andre Agassi,see,Nicolas Massu,sport,468.txt
+Andy Roddick,beat,Ivan Ljubicic,sport,468.txt
+capriati,decide,the Sydney International,sport,471.txt
+Bob Bryan,thrash,Juan Carlos Ferrero,sport,472.txt
+Bob Bryan,thrash,Tommy Robredo,sport,472.txt
+Carlos Moya,take,Andy Roddick,sport,472.txt
+Mike,thrash,Juan Carlos Ferrero,sport,472.txt
+Mike,thrash,Tommy Robredo,sport,472.txt
+Rafael Nadal,face,mardy fish,sport,472.txt
+american,meet,rusedski,sport,476.txt
+davenport,encounter,Venus Williams,sport,476.txt
+Lleyton Hewitt,meet,Arnaud clement,sport,476.txt
+Mauresmo,play,Samantha Stosur,sport,476.txt
+Roger Federer,face,Fabrice Santoro,sport,476.txt
+Tim Henman,face,Cyril Saulnier,sport,476.txt
+Agassi,play,Rainer Schuettler,sport,477.txt
+Gaston Gaudio,beat,Justin Gimelstob 7 - 6,sport,477.txt
+federer,beat,Roddick,sport,481.txt
+Roddick,hire,gilbert,sport,481.txt
+Lleyton,beat,Roger Federer,sport,487.txt
+Carlos Moya,beat,mardy fish,sport,491.txt
+nadal,work,Roddick,sport,491.txt
+Rafael Nadal,beat,Andy Roddick,sport,491.txt
+the Lawn Tennis Association,appointed,Tim Henman,sport,492.txt
+Roche,win,the French Open,sport,494.txt
+Maria Sharapova,win,Grand Slams,sport,495.txt
+Myskina,thrash,Elena Dementieva,sport,495.txt
+Myskina,win,Grand Slams,sport,495.txt
+Daniela Hantuchova,defeat,Michaella Krajicek,sport,497.txt
+Slovakia,play,Argentina,sport,497.txt
+the United States,defeat,Australia,sport,497.txt
+Moya,lead,Spain,sport,499.txt
+Britain,draw,USA,sport,500.txt
+Jeremy Bates,tout,Alex Bogdanovic,sport,500.txt
+Jeremy Bates,tout,Andrew Murray,sport,500.txt
+the Women 's Tennis Association,clear,Kuznetsova,sport,502.txt
+Robin Soderling,take,the Milan Indoors,sport,505.txt
+Melzer,beat,Agassi,sport,509.txt
+Roddick,play,Cyril Saulnier,sport,511.txt
+Negroponte,publish,be Digital,tech,004.txt
+BBC,lead,bafta,tech,046.txt
+ESPN,sell,EA,tech,056.txt
+the European Telecommunications Institute,adopt,Digital Video Broadcasting Handheld,tech,059.txt
+Google,acquired,Pyra Labs,tech,062.txt
+Negroponte,publish,be Digital,tech,063.txt
+raskin,founded,apple,tech,068.txt
+raskin,join,apple,tech,068.txt
+raskin,leave,apple,tech,068.txt
+xerox PARC,develop,GUI,tech,068.txt
+tate,test,ArtGarden,tech,085.txt
+Chris McIntyre,run,Podcast Alley,tech,110.txt
+argonaut,call,David Rubin & Partners,tech,114.txt
+UK,surpass,Germany,tech,129.txt
+AP,quote,Russell McGuire,tech,132.txt
+Bill Gates,open,the Consumer Electronics show,tech,134.txt
+the Mozilla Foundation,founded,Firefox,tech,138.txt
+US,push,Japan,tech,141.txt
+Hurricane Ivan,ravage,caribbean,tech,142.txt
+Hurricane Ivan,ravage,United States,tech,142.txt
+apple,sell,ipod,tech,148.txt
+gate,showcase,Xbox,tech,163.txt
+UK,surpass,Germany,tech,175.txt
+AP,quote,Russell McGuire,tech,176.txt
+China,censor,Google News,tech,186.txt
+IBM,develop,the Smallpox Research Grid,tech,200.txt
+HP,partner,MTV,tech,228.txt
+the Royal National Institute for Deaf People ( RNID,pilot,the Video Relay Service,tech,251.txt
+Donkey Kong,meet,Norman Cook,tech,256.txt
+Tetris,take,kraftwerk,tech,256.txt
+job,describe,Macintosh,tech,260.txt
+IBM,support,Linux,tech,268.txt
+EA,challenge,disney,tech,276.txt
+gate,showcase,Xbox,tech,291.txt
+HP,partner,MTV,tech,295.txt
+job,describe,Macintosh,tech,297.txt
+apple,offer,Mac Mini,tech,301.txt
+the Mac Mini,put,Macintosh,tech,301.txt
+Google,acquired,Pyra Labs,tech,318.txt
+the European Telecommunications Institute,adopt,Digital Video Broadcasting Handheld,tech,322.txt
+Yahoo,choose,Google,tech,337.txt
+Asimo,visited,Germany,tech,356.txt
+Asimo,visited,UK,tech,356.txt
+the Electronic Frontier Foundation,defend,StreamCast network,tech,370.txt
+Television Numerique,pour,tous,tech,371.txt
+Jemima Khan,leave,iPod,tech,375.txt
+icstis,close,BT,tech,397.txt

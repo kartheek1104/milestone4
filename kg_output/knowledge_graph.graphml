@@ -1,0 +1,2520 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="Relation" attr.type="string"/>
+<graph edgedefault="directed"><node id="peugeot"/>
+<node id="a Memorandum of Understanding"/>
+<node id="WPP"/>
+<node id="Grey Global"/>
+<node id="China"/>
+<node id="the US Agriculture Department"/>
+<node id="BMW"/>
+<node id="Rover"/>
+<node id="Fiat"/>
+<node id="Maserati"/>
+<node id="Hyundai"/>
+<node id="Hyundai Motor"/>
+<node id="fao"/>
+<node id="the World Trade Organisation"/>
+<node id="Colin Powell"/>
+<node id="the West Bank"/>
+<node id="VEB"/>
+<node id="rosneft"/>
+<node id="Yukos"/>
+<node id="SEC"/>
+<node id="Titan"/>
+<node id="Elliot Spitzer"/>
+<node id="MMC Capital"/>
+<node id="Reid Weingarten"/>
+<node id="Sullivan"/>
+<node id="Ebbers"/>
+<node id="Gazprom"/>
+<node id="Yugansk"/>
+<node id="sibneft"/>
+<node id="panke"/>
+<node id="Accura"/>
+<node id="the European Commission"/>
+<node id="Kok"/>
+<node id="Saab"/>
+<node id="cadillac"/>
+<node id="Boeing"/>
+<node id="Druyun"/>
+<node id="sear"/>
+<node id="martin"/>
+<node id="Russia"/>
+<node id="Man Utd"/>
+<node id="Irishmen JP McManus"/>
+<node id="John Magnier"/>
+<node id="Naresh Goya"/>
+<node id="Jet Airways"/>
+<node id="Demel"/>
+<node id="Fiat Auto"/>
+<node id="Sergio Marchionne"/>
+<node id="Herbert Demel"/>
+<node id="the European Court of Human Rights"/>
+<node id="Beijing"/>
+<node id="Sina"/>
+<node id="NM Rothschild"/>
+<node id="glazer"/>
+<node id="Brown"/>
+<node id="Greenspan"/>
+<node id="Gordon Brown"/>
+<node id="greenspan"/>
+<node id="Air China"/>
+<node id="the London Stock Exchange"/>
+<node id="ghosn"/>
+<node id="Nissan"/>
+<node id="Toshiyuki Shiga"/>
+<node id="Ukraine"/>
+<node id="Leonid Kuchma"/>
+<node id="Bayern Munich"/>
+<node id="Borussia Dortmund"/>
+<node id="Deutsche Bank"/>
+<node id="the Russian Federation"/>
+<node id="Lloyd 's of London"/>
+<node id="FSA"/>
+<node id="Prettejohn"/>
+<node id="morrow"/>
+<node id="Shiro Tsuda"/>
+<node id="South Korea"/>
+<node id="Economy Ministry"/>
+<node id="London"/>
+<node id="LSE"/>
+<node id="Werner Seifert"/>
+<node id="Clara Furse"/>
+<node id="million"/>
+<node id="million of the world 's"/>
+<node id="the Securities &amp; Exchange Commission"/>
+<node id="Fannie Mae"/>
+<node id="Paul Tellier"/>
+<node id="Bombardier"/>
+<node id="gammell"/>
+<node id="Aishwariya"/>
+<node id="Airbus"/>
+<node id="Noel Forgeard"/>
+<node id="Baikal Finance Group"/>
+<node id="Khodorkovsky"/>
+<node id="s&amp;n"/>
+<node id="Newcastle"/>
+<node id="scottish"/>
+<node id="euronext"/>
+<node id="Franklin Raines"/>
+<node id="Tim Howard"/>
+<node id="the Securities and Exchange Commission"/>
+<node id="Vijay Mallya"/>
+<node id="Kingfisher Airlines"/>
+<node id="Chavez"/>
+<node id="the Ministry of Commerce"/>
+<node id="Hugo Chavez"/>
+<node id="Honda"/>
+<node id="the Association for Payment Clearing Services ( Apacs ) apac"/>
+<node id="Helen Carroll"/>
+<node id="Interbrew"/>
+<node id="ambev"/>
+<node id="World Bank"/>
+<node id="Egypt"/>
+<node id="m furse"/>
+<node id="Laura Ashley"/>
+<node id="m Mohd - Saaid"/>
+<node id="tsunami"/>
+<node id="Sri Lanka"/>
+<node id="citigroup"/>
+<node id="Standard Chartered"/>
+<node id="Judy Boynton"/>
+<node id="shell"/>
+<node id="yuganskneftegaz"/>
+<node id="Standard &amp; Poor 's"/>
+<node id="Pakistan"/>
+<node id="bell"/>
+<node id="mcdonald"/>
+<node id="Quinlan Private - buy"/>
+<node id="savoy"/>
+<node id="israeli"/>
+<node id="Hosni Mubarak"/>
+<node id="Ariel Sharon"/>
+<node id="Anil"/>
+<node id="Anand Jain"/>
+<node id="Indonesia"/>
+<node id="Paris Club"/>
+<node id="Europe"/>
+<node id="Asia"/>
+<node id="Crown Prince Frederik"/>
+<node id="New York"/>
+<node id="Queen Mary"/>
+<node id="the Ugly duckling"/>
+<node id="Pamela Travers"/>
+<node id="Mary Poppins"/>
+<node id="the Theatregoers ' Choice Awards"/>
+<node id="Christian Slater"/>
+<node id="McCaughrean"/>
+<node id="the Whitbread Prize"/>
+<node id="the Canadian Broadcasting Corporation"/>
+<node id="flight"/>
+<node id="slater"/>
+<node id="Dallas Roberts"/>
+<node id="alicia Markova"/>
+<node id="World War II"/>
+<node id="CFCA"/>
+<node id="Thomas Haden Church"/>
+<node id="Imelda Staunton"/>
+<node id="the Southeastern Film Critics"/>
+<node id="sideway"/>
+<node id="Roger Deakins"/>
+<node id="the Technical Achievement Award"/>
+<node id="Takuo Miyagishima"/>
+<node id="Oscar"/>
+<node id="Evans"/>
+<node id="mann"/>
+<node id="Walter Salles"/>
+<node id="the Motorcycle diary"/>
+<node id="Kwon - Taek"/>
+<node id="Golden Bear"/>
+<node id="Jugnot"/>
+<node id="Gerard Jugnot - star"/>
+<node id="Paul Rusesabagina"/>
+<node id="Cheadle"/>
+<node id="Hilary Swank"/>
+<node id="the Screen Actors Guild Awards"/>
+<node id="Jamie Foxx"/>
+<node id="Alan Titchmarsh"/>
+<node id="Ground Force"/>
+<node id="Brando"/>
+<node id="electronic Arts"/>
+<node id="Independent Spirit Awards"/>
+<node id="will Smith"/>
+<node id="Cesar"/>
+<node id="hollywood"/>
+<node id="the 77th Academy Awards"/>
+<node id="Ron Howard"/>
+<node id="Tautou"/>
+<node id="Floella Benjamin"/>
+<node id="the Special Award"/>
+<node id="Ray"/>
+<node id="Guild Award"/>
+<node id="the US Federal Communications Commission"/>
+<node id="CBS"/>
+<node id="Swank"/>
+<node id="Best Actress"/>
+<node id="Miyazaki"/>
+<node id="Marlon Brando"/>
+<node id="the Academy Award"/>
+<node id="Desperate housewife"/>
+<node id="Felicity Huffman"/>
+<node id="Marcia Cross"/>
+<node id="dicaprio"/>
+<node id="Howard Hughes"/>
+<node id="Nicky Wire"/>
+<node id="Phil Jupitus"/>
+<node id="Jay - Z"/>
+<node id="the Island Def Jam Music Group"/>
+<node id="Rick Rubin"/>
+<node id="Def Jam"/>
+<node id="Russell Simmons"/>
+<node id="Merle Kilgore"/>
+<node id="Ring of fire"/>
+<node id="Black America"/>
+<node id="Bob"/>
+<node id="casey"/>
+<node id="Brian McFadden"/>
+<node id="Damien Rice"/>
+<node id="pj harvey"/>
+<node id="Kylie Minogue"/>
+<node id="Snow Patrol"/>
+<node id="the Meteor Awards"/>
+<node id="Johnson"/>
+<node id="Dre"/>
+<node id="Kanye West"/>
+<node id="grammys"/>
+<node id="Franz ferdinand"/>
+<node id="keane"/>
+<node id="razorlight"/>
+<node id="Rapper Eminem"/>
+<node id="Elvis"/>
+<node id="Stevie Wonder"/>
+<node id="Billboard 's Century Award"/>
+<node id="Newcomer Ciara - who"/>
+<node id="Elvis Presley"/>
+<node id="housewife"/>
+<node id="Channel 4"/>
+<node id="Brigitte Nielsen"/>
+<node id="Bez"/>
+<node id="John"/>
+<node id="Tim Kash"/>
+<node id="the all New Top of the pop"/>
+<node id="Denise"/>
+<node id="Johnny Vaughan"/>
+<node id="johnny"/>
+<node id="BBC"/>
+<node id="little Britain"/>
+<node id="Freeview"/>
+<node id="Redmond"/>
+<node id="hollyoak to Channel 4"/>
+<node id="Britain"/>
+<node id="David Walliams"/>
+<node id="Matt Lucas"/>
+<node id="icrc"/>
+<node id="Gazetta"/>
+<node id="Morrissey"/>
+<node id="great british Spelling Test"/>
+<node id="olympic"/>
+<node id="Spooks Interactive"/>
+<node id="Guardian"/>
+<node id="the Tour de France"/>
+<node id="Christopher Lee"/>
+<node id="Fireside tale"/>
+<node id="Rob Da Bank"/>
+<node id="the John Peel Show"/>
+<node id="size"/>
+<node id="Mercury Music Prize"/>
+<node id="Kombou"/>
+<node id="Vince Everett"/>
+<node id="Steve Coogan"/>
+<node id="Wilson"/>
+<node id="Britney Spears"/>
+<node id="spear"/>
+<node id="Joss Stone"/>
+<node id="Dizzee Rascal"/>
+<node id="Jamelia"/>
+<node id="Love"/>
+<node id="Kristin king"/>
+<node id="Bill Clinton"/>
+<node id="Grammy"/>
+<node id="Rod Stewart"/>
+<node id="BBC one"/>
+<node id="Different Story"/>
+<node id="Nathan Lane"/>
+<node id="Lee Evans"/>
+<node id="producer"/>
+<node id="the Society of London"/>
+<node id="the Olivier Awards"/>
+<node id="conti"/>
+<node id="Goodrem"/>
+<node id="the Pepsi Viewers Choice Award"/>
+<node id="Clapton"/>
+<node id="Buddy Guy"/>
+<node id="Percy Sledge"/>
+<node id="Springsteen"/>
+<node id="bono"/>
+<node id="malkovich"/>
+<node id="Humma Kavula"/>
+<node id="Robert Redford"/>
+<node id="sundance"/>
+<node id="Victoria Wood"/>
+<node id="Cohen"/>
+<node id="Dudley Nichols"/>
+<node id="Academy Award"/>
+<node id="the Academy Awards"/>
+<node id="Academy Awards"/>
+<node id="Ferry , Mackay"/>
+<node id="Roxy Music"/>
+<node id="Fuller"/>
+<node id="American Idol"/>
+<node id="Simon Fuller"/>
+<node id="idol"/>
+<node id="Vera Drake"/>
+<node id="Morgan Spurlock"/>
+<node id="McDonalds"/>
+<node id="Charles"/>
+<node id="Grammy Awards"/>
+<node id="Jolin"/>
+<node id="Phil Davis"/>
+<node id="Kate Winslet"/>
+<node id="Heather Craney"/>
+<node id="Natalie Portman"/>
+<node id="Sienna Miller"/>
+<node id="glamour"/>
+<node id="Leonardo dicaprio"/>
+<node id="Pierce Brosnan"/>
+<node id="Harry Potter"/>
+<node id="the Orange Film of the year"/>
+<node id="amadeus"/>
+<node id="the Killing Fields"/>
+<node id="titanic"/>
+<node id="oscar"/>
+<node id="Dave Karger"/>
+<node id="Sky Movies 1"/>
+<node id="Briton"/>
+<node id="Oscar Three"/>
+<node id="eastwood"/>
+<node id="arnold"/>
+<node id="Motormouth"/>
+<node id="Sandy Powell"/>
+<node id="Debra Hill"/>
+<node id="screenwriter"/>
+<node id="the Freedom of Information Act"/>
+<node id="england"/>
+<node id="wale"/>
+<node id="labour"/>
+<node id="Manchester the Labour Party"/>
+<node id="Digby Jones"/>
+<node id="Fox"/>
+<node id="Blair"/>
+<node id="Campbell"/>
+<node id="Newsnight"/>
+<node id="Peter Mandelson"/>
+<node id="Tony Blair"/>
+<node id="Cabinet"/>
+<node id="Jack Cunningham"/>
+<node id="Butler"/>
+<node id="Michael Howard"/>
+<node id="the Welsh Assembly Government"/>
+<node id="the Arts Council of Wales"/>
+<node id="Blunkett"/>
+<node id="parliament"/>
+<node id="Makarov"/>
+<node id="KGB"/>
+<node id="Kelly"/>
+<node id="MAB"/>
+<node id="muslim"/>
+<node id="the United Kingdom"/>
+<node id="Treaty"/>
+<node id="Nicola sturgeon"/>
+<node id="McLetchie"/>
+<node id="Africa"/>
+<node id="Parker Bowles"/>
+<node id="Princess Consort"/>
+<node id="Massoud Shadjareh"/>
+<node id="m blear"/>
+<node id="Hockney"/>
+<node id="UKIP"/>
+<node id="Lucy"/>
+<node id="pound"/>
+<node id="Alan Duncan"/>
+<node id="Vincent Cable"/>
+<node id="Hilary Benn"/>
+<node id="Aceh"/>
+<node id="howard"/>
+<node id="Yeo"/>
+<node id="Alan Milburn"/>
+<node id="tory"/>
+<node id="Alan Clark"/>
+<node id="nichola"/>
+<node id="Goldsmith"/>
+<node id="Oliver Finegold"/>
+<node id="Livingstone"/>
+<node id="Llanelli Grammar School - and"/>
+<node id="John McCain"/>
+<node id="Crosby"/>
+<node id="mozambique"/>
+<node id="Tanzania"/>
+<node id="mccabe"/>
+<node id="8.1bn"/>
+<node id="Blair and Brown"/>
+<node id="Campbell - Savours"/>
+<node id="Charles Kennedy"/>
+<node id="conservative"/>
+<node id="Liberal Democrats"/>
+<node id="Robert Kilroy - Silk"/>
+<node id="Independence Party"/>
+<node id="labour party"/>
+<node id="Oliver Letwin"/>
+<node id="Baroness Amos"/>
+<node id="kinnock"/>
+<node id="Josef Stalin"/>
+<node id="the Cold War"/>
+<node id="galloway"/>
+<node id="telegraph"/>
+<node id="liberal"/>
+<node id="labour mp"/>
+<node id="Jackson"/>
+<node id="Ian McCartney"/>
+<node id="Erewash"/>
+<node id="Kennedy"/>
+<node id="Leicester South"/>
+<node id="Caroline Spelman"/>
+<node id="Westminster"/>
+<node id="the Lib Dems"/>
+<node id="Simon Hughes"/>
+<node id="Liam Fox"/>
+<node id="Michael Fallon"/>
+<node id="milburn"/>
+<node id="the Pro - life Alliance"/>
+<node id="UK athletic"/>
+<node id="Team GB"/>
+<node id="El Guerrouj"/>
+<node id="Bekele"/>
+<node id="anti - doping agency"/>
+<node id="collins"/>
+<node id="turnbull"/>
+<node id="Kenyan Susan Chepkemei"/>
+<node id="Balco"/>
+<node id="Kenteris"/>
+<node id="Thanou"/>
+<node id="gebrselassie"/>
+<node id="Jaouad Gharib"/>
+<node id="Stefano Baldini"/>
+<node id="Sotherton Jade Johnson"/>
+<node id="Kelly Sotherton"/>
+<node id="Chris Tomlinson"/>
+<node id="holme"/>
+<node id="athens"/>
+<node id="Hayley Yelling"/>
+<node id="Jo Pavey"/>
+<node id="moye u - turn"/>
+<node id="James Beattie"/>
+<node id="William Gallas"/>
+<node id="Dunne"/>
+<node id="rooney"/>
+<node id="McManaman"/>
+<node id="mourinho"/>
+<node id="Willian Gallas"/>
+<node id="John Arne Riise"/>
+<node id="Liverpool"/>
+<node id="Luis Garcia"/>
+<node id="Dietmar Hamann"/>
+<node id="Nunez"/>
+<node id="cech"/>
+<node id="davy"/>
+<node id="Giannakopoulos"/>
+<node id="Fernando Hierro"/>
+<node id="Dyer on the edge of the area"/>
+<node id="Lee Bowyer"/>
+<node id="Alan Archibald"/>
+<node id="United"/>
+<node id="Clyde 0 - 5 Celtic Celtic"/>
+<node id="Clyde"/>
+<node id="Maloney"/>
+<node id="Sutton"/>
+<node id="Stan Varga"/>
+<node id="celtic"/>
+<node id="Gus Bahoken"/>
+<node id="Miller"/>
+<node id="Neil MacFarlane"/>
+<node id="Burton O'Brien"/>
+<node id="France"/>
+<node id="galla"/>
+<node id="Ireland"/>
+<node id="Chelsea"/>
+<node id="Parry"/>
+<node id="Eriksson"/>
+<node id="Carragher"/>
+<node id="Giggs"/>
+<node id="Manchester United"/>
+<node id="Ryan Giggs"/>
+<node id="Mladenovic"/>
+<node id="Mikel Arteta"/>
+<node id="Fernando Torres"/>
+<node id="athletico"/>
+<node id="Cole"/>
+<node id="Jose Mourinho"/>
+<node id="Peter Kenyon"/>
+<node id="Australia"/>
+<node id="South Africa"/>
+<node id="irish"/>
+<node id="Italy"/>
+<node id="Iran"/>
+<node id="Arash Miresmaeili"/>
+<node id="Vieira"/>
+<node id="James"/>
+<node id="Damien Duff"/>
+<node id="Jiri Jarosik"/>
+<node id="Dado Prso"/>
+<node id="Neil Lennon"/>
+<node id="hartson"/>
+<node id="Sotiris Kyrgiakos"/>
+<node id="ranger"/>
+<node id="michel"/>
+<node id="dutch"/>
+<node id="Ivan Helguera"/>
+<node id="Antonio Doblas"/>
+<node id="Milan"/>
+<node id="Juventus"/>
+<node id="benitez"/>
+<node id="Jerzy Dudek"/>
+<node id="red"/>
+<node id="Rafael Benitez"/>
+<node id="Carlton Cole"/>
+<node id="Arsene Wenger"/>
+<node id="Quincy Owusu - Abeyie"/>
+<node id="Jol"/>
+<node id="spur"/>
+<node id="Bobby Robson"/>
+<node id="charlton"/>
+<node id="Simon Royce"/>
+<node id="holloway"/>
+<node id="Tom Doherty"/>
+<node id="Carlo Cudicini"/>
+<node id="Carling Cup"/>
+<node id="Kevin Keegan"/>
+<node id="Robbie Fowler"/>
+<node id="success"/>
+<node id="rover"/>
+<node id="David Prutton"/>
+<node id="Alan Wiley"/>
+<node id="Barcelona"/>
+<node id="Bolton"/>
+<node id="leicester"/>
+<node id="Sam Allardyce"/>
+<node id="Vincent Candela"/>
+<node id="Stuart"/>
+<node id="norwich"/>
+<node id="Mauritius"/>
+<node id="Bafana Bafana"/>
+<node id="madagascar"/>
+<node id="Zambia"/>
+<node id="Lesotho"/>
+<node id="Malawi"/>
+<node id="Jurgen Klinsmann"/>
+<node id="Jens Lehmann"/>
+<node id="Henry"/>
+<node id="heinze"/>
+<node id="Ipswich"/>
+<node id="Fulham"/>
+<node id="watford"/>
+<node id="Brighton"/>
+<node id="the Scottish Football Association"/>
+<node id="Tommy burn"/>
+<node id="Bernardo Gandulla"/>
+<node id="Boca Juniors"/>
+<node id="Maradona"/>
+<node id="corinthian"/>
+<node id="Spain"/>
+<node id="kerr"/>
+<node id="Mick McCarthy"/>
+<node id="McClaren"/>
+<node id="Jimmy Floyd Hasselbaink"/>
+<node id="Stewart Downing"/>
+<node id="Alex Ferguson"/>
+<node id="Neale Barry"/>
+<node id="the Football Association"/>
+<node id="Millwall Liverpool"/>
+<node id="gill"/>
+<node id="Dein"/>
+<node id="Ruud van Nistelrooy"/>
+<node id="Ashley Cole"/>
+<node id="ferguson"/>
+<node id="Gerrard"/>
+<node id="FA Cup"/>
+<node id="Jones"/>
+<node id="Chicago Cubs"/>
+<node id="Nomar Garciaparra"/>
+<node id="ETA"/>
+<node id="bernabeu"/>
+<node id="Mark Taylor"/>
+<node id="lorimer"/>
+<node id="Dundee United"/>
+<node id="kilmarnock"/>
+<node id="Steven Gerrard"/>
+<node id="o'leary"/>
+<node id="Olof Mellberg"/>
+<node id="Neil Mellor"/>
+<node id="pompey"/>
+<node id="Arsenal"/>
+<node id="Roy Keane"/>
+<node id="o'driscoll"/>
+<node id="Williams"/>
+<node id="Thomas"/>
+<node id="Joe Shaw"/>
+<node id="Dave Walder"/>
+<node id="the Scottish Rugby Union"/>
+<node id="Matt Williams"/>
+<node id="John Connolly"/>
+<node id="barkley"/>
+<node id="Charlie Hodgson"/>
+<node id="Serge Betsen"/>
+<node id="Danny Grewcock"/>
+<node id="Andy Robinson"/>
+<node id="Duncan Bell"/>
+<node id="Scotland"/>
+<node id="Kirwan"/>
+<node id="Cristian Stoica"/>
+<node id="Simon Webster"/>
+<node id="Simon Danielli"/>
+<node id="leed v Saracens"/>
+<node id="Ed Kalman"/>
+<node id="Tom McGee"/>
+<node id="Tim Collier"/>
+<node id="Phil Murphy"/>
+<node id="Bernard Laporte"/>
+<node id="Frederic Michalak"/>
+<node id="the six nation"/>
+<node id="Tama Umaga"/>
+<node id="Irish Lions"/>
+<node id="Umaga"/>
+<node id="New Zealand"/>
+<node id="Jonathan Kaplan"/>
+<node id="Campese"/>
+<node id="George Gregan"/>
+<node id="south"/>
+<node id="Parker"/>
+<node id="Stevens"/>
+<node id="Matt Stevens"/>
+<node id="corry"/>
+<node id="robinson"/>
+<node id="the Rugby Football Union"/>
+<node id="Andy Hazell"/>
+<node id="Ben Kay"/>
+<node id="Steve Borthwick"/>
+<node id="Grand Slam"/>
+<node id="Doyle"/>
+<node id="Simon Amor"/>
+<node id="Ben Gollings"/>
+<node id="Lucio Lopez Fleming"/>
+<node id="barbarian"/>
+<node id="the all Blacks 23 - 11"/>
+<node id="Llanelli"/>
+<node id="Maori"/>
+<node id="Joe Warbrick"/>
+<node id="Nelson Town"/>
+<node id="Nelson College"/>
+<node id="the All black"/>
+<node id="Andy Goode"/>
+<node id="tiger"/>
+<node id="Roger Wilson"/>
+<node id="Ronan McCormack"/>
+<node id="Argentina"/>
+<node id="Pumas"/>
+<node id="samoa"/>
+<node id="Dawson"/>
+<node id="test"/>
+<node id="Dallaglio"/>
+<node id="Bath Bath"/>
+<node id="Andy Williams"/>
+<node id="St Helens"/>
+<node id="Sonny Bill Williams"/>
+<node id="Ronan O'Gara"/>
+<node id="Ulster"/>
+<node id="Gloucester"/>
+<node id="another Six Nations Grand Slam"/>
+<node id="Dimitri Yachvili"/>
+<node id="Yachvili"/>
+<node id="Wilkinson"/>
+<node id="Johnny O'Connor"/>
+<node id="Denis Leamy"/>
+<node id="Andy Roddick"/>
+<node id="Cyril Saulnier"/>
+<node id="Agassi"/>
+<node id="San Jose"/>
+<node id="Frank Dancevic"/>
+<node id="American Jeff Morrison 4 - 6 7 - 6"/>
+<node id="Kenneth Carlsen"/>
+<node id="Irakli Labadze"/>
+<node id="Kevin Kim"/>
+<node id="Jan Hernych"/>
+<node id="Melzer"/>
+<node id="russian"/>
+<node id="Rainer Schuettler 7 - 5"/>
+<node id="argentine"/>
+<node id="Albert Montanes"/>
+<node id="Calleri"/>
+<node id="davenport"/>
+<node id="Jie Zheng 6 - 2 7 - 5"/>
+<node id="Myskina"/>
+<node id="Patty Schnyder"/>
+<node id="Lindsay Davenport"/>
+<node id="Wimbledon"/>
+<node id="Mirza"/>
+<node id="Jelena Jankovic"/>
+<node id="Silvia Farina Elia"/>
+<node id="Selima Sfar 2"/>
+<node id="Slovakian"/>
+<node id="Elena Likhovtseva"/>
+<node id="Henman"/>
+<node id="bogdanovic"/>
+<node id="Jelena Kostanic"/>
+<node id="Nicole Pratt"/>
+<node id="tunisian"/>
+<node id="Lleyton Hewitt"/>
+<node id="safin"/>
+<node id="hewitt"/>
+<node id="Sprem"/>
+<node id="Jeremy Bates"/>
+<node id="Alex Bogdanovic"/>
+<node id="Andrew Murray"/>
+<node id="the Lawn Tennis Association"/>
+<node id="Alicia Molik"/>
+<node id="Samantha Stosur"/>
+<node id="chilean"/>
+<node id="Juan Ignacio Chela"/>
+<node id="rochu"/>
+<node id="Coria"/>
+<node id="Dominik Hrbaty"/>
+<node id="Guillermo Coria"/>
+<node id="Karina Habsudova"/>
+<node id="Karol Kucera"/>
+<node id="Slovakia"/>
+<node id="the Hopman Cup"/>
+<node id="Cup"/>
+<node id="Nathalie Dechy"/>
+<node id="Lisa Raymond 7 - 5"/>
+<node id="Spaniard Costa"/>
+<node id="Croatian Ivan Ljubicic"/>
+<node id="navratilova"/>
+<node id="Fabrice Santoro"/>
+<node id="Thomas Johansson"/>
+<node id="Roger Federer"/>
+<node id="Greg Rusedski"/>
+<node id="Carlos Moya"/>
+<node id="the Davis Cup"/>
+<node id="capriati"/>
+<node id="the Sydney International"/>
+<node id="Melbourne Jennifer Capriati"/>
+<node id="Andre Agassi"/>
+<node id="Nicolas Massu"/>
+<node id="Ivan Ljubicic"/>
+<node id="Bob Bryan"/>
+<node id="Juan Carlos Ferrero"/>
+<node id="Tommy Robredo"/>
+<node id="Mike"/>
+<node id="Rafael Nadal"/>
+<node id="mardy fish"/>
+<node id="american"/>
+<node id="rusedski"/>
+<node id="Venus Williams"/>
+<node id="Arnaud clement"/>
+<node id="Mauresmo"/>
+<node id="Tim Henman"/>
+<node id="Rainer Schuettler"/>
+<node id="Gaston Gaudio"/>
+<node id="Justin Gimelstob 7 - 6"/>
+<node id="federer"/>
+<node id="Roddick"/>
+<node id="gilbert"/>
+<node id="Lleyton"/>
+<node id="nadal"/>
+<node id="Roche"/>
+<node id="the French Open"/>
+<node id="Maria Sharapova"/>
+<node id="Grand Slams"/>
+<node id="Elena Dementieva"/>
+<node id="Daniela Hantuchova"/>
+<node id="Michaella Krajicek"/>
+<node id="the United States"/>
+<node id="Moya"/>
+<node id="USA"/>
+<node id="the Women 's Tennis Association"/>
+<node id="Kuznetsova"/>
+<node id="Robin Soderling"/>
+<node id="the Milan Indoors"/>
+<node id="Negroponte"/>
+<node id="be Digital"/>
+<node id="bafta"/>
+<node id="the European Telecommunications Institute"/>
+<node id="Digital Video Broadcasting Handheld"/>
+<node id="Google"/>
+<node id="Pyra Labs"/>
+<node id="raskin"/>
+<node id="apple"/>
+<node id="xerox PARC"/>
+<node id="GUI"/>
+<node id="tate"/>
+<node id="ArtGarden"/>
+<node id="Chris McIntyre"/>
+<node id="Podcast Alley"/>
+<node id="argonaut"/>
+<node id="David Rubin &amp; Partners"/>
+<node id="Bill Gates"/>
+<node id="the Consumer Electronics show"/>
+<node id="the Mozilla Foundation"/>
+<node id="Firefox"/>
+<node id="Hurricane Ivan"/>
+<node id="caribbean"/>
+<node id="United States"/>
+<node id="ipod"/>
+<node id="gate"/>
+<node id="Xbox"/>
+<node id="Google News"/>
+<node id="IBM"/>
+<node id="the Smallpox Research Grid"/>
+<node id="the Royal National Institute for Deaf People ( RNID"/>
+<node id="the Video Relay Service"/>
+<node id="Donkey Kong"/>
+<node id="Norman Cook"/>
+<node id="Tetris"/>
+<node id="kraftwerk"/>
+<node id="job"/>
+<node id="Macintosh"/>
+<node id="Linux"/>
+<node id="Mac Mini"/>
+<node id="the Mac Mini"/>
+<node id="Yahoo"/>
+<node id="Asimo"/>
+<node id="Germany"/>
+<node id="the Electronic Frontier Foundation"/>
+<node id="StreamCast network"/>
+<node id="Television Numerique"/>
+<node id="tous"/>
+<node id="Jemima Khan"/>
+<node id="iPod"/>
+<edge source="peugeot" target="a Memorandum of Understanding">
+  <data key="d0">sign</data>
+</edge>
+<edge source="WPP" target="Grey Global">
+  <data key="d0">acquire</data>
+</edge>
+<edge source="China" target="the US Agriculture Department">
+  <data key="d0">encourage</data>
+</edge>
+<edge source="China" target="Google News">
+  <data key="d0">censor</data>
+</edge>
+<edge source="BMW" target="Rover">
+  <data key="d0">own</data>
+</edge>
+<edge source="Fiat" target="Maserati">
+  <data key="d0">transfer</data>
+</edge>
+<edge source="Hyundai" target="Hyundai Motor">
+  <data key="d0">build</data>
+</edge>
+<edge source="fao" target="the World Trade Organisation">
+  <data key="d0">urge</data>
+</edge>
+<edge source="Colin Powell" target="the West Bank">
+  <data key="d0">visit</data>
+</edge>
+<edge source="VEB" target="rosneft">
+  <data key="d0">lend</data>
+</edge>
+<edge source="rosneft" target="sibneft">
+  <data key="d0">snap</data>
+</edge>
+<edge source="rosneft" target="yuganskneftegaz">
+  <data key="d0">become</data>
+</edge>
+<edge source="Yukos" target="rosneft">
+  <data key="d0">sue</data>
+</edge>
+<edge source="SEC" target="Titan">
+  <data key="d0">accuse</data>
+</edge>
+<edge source="Elliot Spitzer" target="MMC Capital">
+  <data key="d0">sue</data>
+</edge>
+<edge source="Reid Weingarten" target="Sullivan">
+  <data key="d0">ask</data>
+</edge>
+<edge source="Sullivan" target="Ebbers">
+  <data key="d0">implicate</data>
+</edge>
+<edge source="Ebbers" target="Sullivan">
+  <data key="d0">direct</data>
+</edge>
+<edge source="Gazprom" target="Yugansk">
+  <data key="d0">need</data>
+</edge>
+<edge source="panke" target="Accura">
+  <data key="d0">praise</data>
+</edge>
+<edge source="the European Commission" target="Kok">
+  <data key="d0">commission</data>
+</edge>
+<edge source="Saab" target="cadillac">
+  <data key="d0">build</data>
+</edge>
+<edge source="Boeing" target="Druyun">
+  <data key="d0">sack</data>
+</edge>
+<edge source="Boeing" target="sear">
+  <data key="d0">sack</data>
+</edge>
+<edge source="martin" target="Boeing">
+  <data key="d0">sue</data>
+</edge>
+<edge source="Russia" target="Yukos">
+  <data key="d0">force</data>
+</edge>
+<edge source="Man Utd" target="Irishmen JP McManus">
+  <data key="d0">bid</data>
+</edge>
+<edge source="Man Utd" target="John Magnier">
+  <data key="d0">bid</data>
+</edge>
+<edge source="Naresh Goya" target="Jet Airways">
+  <data key="d0">found</data>
+</edge>
+<edge source="Demel" target="Fiat Auto">
+  <data key="d0">leave</data>
+</edge>
+<edge source="Sergio Marchionne" target="Herbert Demel">
+  <data key="d0">replace</data>
+</edge>
+<edge source="the European Court of Human Rights" target="Russia">
+  <data key="d0">sue</data>
+</edge>
+<edge source="Beijing" target="Sina">
+  <data key="d0">view</data>
+</edge>
+<edge source="NM Rothschild" target="glazer">
+  <data key="d0">advise</data>
+</edge>
+<edge source="Brown" target="Greenspan">
+  <data key="d0">introduce</data>
+</edge>
+<edge source="Brown" target="Africa">
+  <data key="d0">tour</data>
+</edge>
+<edge source="Brown" target="mozambique">
+  <data key="d0">visit</data>
+</edge>
+<edge source="Brown" target="Tanzania">
+  <data key="d0">visit</data>
+</edge>
+<edge source="Brown" target="Oliver Letwin">
+  <data key="d0">accuse</data>
+</edge>
+<edge source="Brown" target="Westminster">
+  <data key="d0">stun</data>
+</edge>
+<edge source="Brown" target="milburn">
+  <data key="d0">oust</data>
+</edge>
+<edge source="Brown" target="Eriksson">
+  <data key="d0">start</data>
+</edge>
+<edge source="Gordon Brown" target="greenspan">
+  <data key="d0">invite</data>
+</edge>
+<edge source="Air China" target="the London Stock Exchange">
+  <data key="d0">pick</data>
+</edge>
+<edge source="Air China" target="London">
+  <data key="d0">choose</data>
+</edge>
+<edge source="ghosn" target="Nissan">
+  <data key="d0">transform</data>
+</edge>
+<edge source="Toshiyuki Shiga" target="Nissan">
+  <data key="d0">run</data>
+</edge>
+<edge source="Ukraine" target="Leonid Kuchma">
+  <data key="d0">oust</data>
+</edge>
+<edge source="Bayern Munich" target="Borussia Dortmund">
+  <data key="d0">beat</data>
+</edge>
+<edge source="Deutsche Bank" target="Gazprom">
+  <data key="d0">accuse</data>
+</edge>
+<edge source="Deutsche Bank" target="the Russian Federation">
+  <data key="d0">accuse</data>
+</edge>
+<edge source="Lloyd 's of London" target="FSA">
+  <data key="d0">chide</data>
+</edge>
+<edge source="Prettejohn" target="FSA">
+  <data key="d0">urge</data>
+</edge>
+<edge source="morrow" target="Shiro Tsuda">
+  <data key="d0">succeed</data>
+</edge>
+<edge source="South Korea" target="Economy Ministry">
+  <data key="d0">give</data>
+</edge>
+<edge source="LSE" target="London">
+  <data key="d0">choose</data>
+</edge>
+<edge source="Werner Seifert" target="Clara Furse">
+  <data key="d0">meet</data>
+</edge>
+<edge source="Werner Seifert" target="m furse">
+  <data key="d0">meet</data>
+</edge>
+<edge source="million" target="million of the world 's">
+  <data key="d0">lose</data>
+</edge>
+<edge source="the Securities &amp; Exchange Commission" target="Fannie Mae">
+  <data key="d0">accuse</data>
+</edge>
+<edge source="Paul Tellier" target="Bombardier">
+  <data key="d0">leave</data>
+</edge>
+<edge source="gammell" target="Aishwariya">
+  <data key="d0">set</data>
+</edge>
+<edge source="Airbus" target="Noel Forgeard">
+  <data key="d0">head</data>
+</edge>
+<edge source="Airbus" target="Boeing">
+  <data key="d0">overtake</data>
+</edge>
+<edge source="Baikal Finance Group" target="Gazprom">
+  <data key="d0">outbid</data>
+</edge>
+<edge source="Khodorkovsky" target="Yukos">
+  <data key="d0">control</data>
+</edge>
+<edge source="s&amp;n" target="Newcastle">
+  <data key="d0">extend</data>
+</edge>
+<edge source="s&amp;n" target="scottish">
+  <data key="d0">extend</data>
+</edge>
+<edge source="euronext" target="the London Stock Exchange">
+  <data key="d0">approach</data>
+</edge>
+<edge source="Franklin Raines" target="Fannie Mae">
+  <data key="d0">leave</data>
+</edge>
+<edge source="Tim Howard" target="Fannie Mae">
+  <data key="d0">leave</data>
+</edge>
+<edge source="the Securities and Exchange Commission" target="Fannie Mae">
+  <data key="d0">admonish</data>
+</edge>
+<edge source="Vijay Mallya" target="Kingfisher Airlines">
+  <data key="d0">set</data>
+</edge>
+<edge source="Chavez" target="the Ministry of Commerce">
+  <data key="d0">invite</data>
+</edge>
+<edge source="Hugo Chavez" target="China">
+  <data key="d0">offer</data>
+</edge>
+<edge source="Honda" target="China">
+  <data key="d0">win</data>
+</edge>
+<edge source="the Association for Payment Clearing Services ( Apacs ) apac" target="Helen Carroll">
+  <data key="d0">choose</data>
+</edge>
+<edge source="Interbrew" target="ambev">
+  <data key="d0">acquire</data>
+</edge>
+<edge source="World Bank" target="Egypt">
+  <data key="d0">urge</data>
+</edge>
+<edge source="Egypt" target="israeli">
+  <data key="d0">hand</data>
+</edge>
+<edge source="Laura Ashley" target="m Mohd - Saaid">
+  <data key="d0">thank</data>
+</edge>
+<edge source="tsunami" target="Sri Lanka">
+  <data key="d0">cost</data>
+</edge>
+<edge source="citigroup" target="Standard Chartered">
+  <data key="d0">beat</data>
+</edge>
+<edge source="Judy Boynton" target="shell">
+  <data key="d0">leave</data>
+</edge>
+<edge source="Standard &amp; Poor 's" target="Pakistan">
+  <data key="d0">upgrade</data>
+</edge>
+<edge source="bell" target="mcdonald">
+  <data key="d0">oversee</data>
+</edge>
+<edge source="Quinlan Private - buy" target="savoy">
+  <data key="d0">acquire</data>
+</edge>
+<edge source="Hosni Mubarak" target="Ariel Sharon">
+  <data key="d0">describe</data>
+</edge>
+<edge source="Anil" target="Anand Jain">
+  <data key="d0">accuse</data>
+</edge>
+<edge source="Indonesia" target="Paris Club">
+  <data key="d0">owe</data>
+</edge>
+<edge source="Europe" target="Asia">
+  <data key="d0">ask</data>
+</edge>
+<edge source="Crown Prince Frederik" target="New York">
+  <data key="d0">visit</data>
+</edge>
+<edge source="Queen Mary" target="the Ugly duckling">
+  <data key="d0">read</data>
+</edge>
+<edge source="Pamela Travers" target="Mary Poppins">
+  <data key="d0">found</data>
+</edge>
+<edge source="the Theatregoers ' Choice Awards" target="Christian Slater">
+  <data key="d0">appoint</data>
+</edge>
+<edge source="McCaughrean" target="the Whitbread Prize">
+  <data key="d0">win</data>
+</edge>
+<edge source="the Canadian Broadcasting Corporation" target="flight">
+  <data key="d0">acquire</data>
+</edge>
+<edge source="slater" target="Christian Slater">
+  <data key="d0">play</data>
+</edge>
+<edge source="slater" target="Dallas Roberts">
+  <data key="d0">replace</data>
+</edge>
+<edge source="alicia Markova" target="World War II">
+  <data key="d0">spend</data>
+</edge>
+<edge source="CFCA" target="Thomas Haden Church">
+  <data key="d0">award</data>
+</edge>
+<edge source="Imelda Staunton" target="CFCA">
+  <data key="d0">win</data>
+</edge>
+<edge source="the Southeastern Film Critics" target="sideway">
+  <data key="d0">award</data>
+</edge>
+<edge source="sideway" target="Independent Spirit Awards">
+  <data key="d0">dominate</data>
+</edge>
+<edge source="Roger Deakins" target="the Technical Achievement Award">
+  <data key="d0">win</data>
+</edge>
+<edge source="Takuo Miyagishima" target="Oscar">
+  <data key="d0">award</data>
+</edge>
+<edge source="Evans" target="mann">
+  <data key="d0">sue</data>
+</edge>
+<edge source="Walter Salles" target="the Motorcycle diary">
+  <data key="d0">acclaim</data>
+</edge>
+<edge source="Kwon - Taek" target="Golden Bear">
+  <data key="d0">receive</data>
+</edge>
+<edge source="Jugnot" target="Gerard Jugnot - star">
+  <data key="d0">top</data>
+</edge>
+<edge source="Paul Rusesabagina" target="Cheadle">
+  <data key="d0">join</data>
+</edge>
+<edge source="Hilary Swank" target="the Screen Actors Guild Awards">
+  <data key="d0">win</data>
+</edge>
+<edge source="Jamie Foxx" target="the Screen Actors Guild Awards">
+  <data key="d0">win</data>
+</edge>
+<edge source="Alan Titchmarsh" target="Ground Force">
+  <data key="d0">leave</data>
+</edge>
+<edge source="Brando" target="electronic Arts">
+  <data key="d0">grant</data>
+</edge>
+<edge source="will Smith" target="Cesar">
+  <data key="d0">give</data>
+</edge>
+<edge source="hollywood" target="the 77th Academy Awards">
+  <data key="d0">prepare</data>
+</edge>
+<edge source="hollywood" target="Leonardo dicaprio">
+  <data key="d0">star</data>
+</edge>
+<edge source="hollywood" target="Pierce Brosnan">
+  <data key="d0">star</data>
+</edge>
+<edge source="Ron Howard" target="Tautou">
+  <data key="d0">choose</data>
+</edge>
+<edge source="Floella Benjamin" target="the Special Award">
+  <data key="d0">award</data>
+</edge>
+<edge source="Ray" target="Guild Award">
+  <data key="d0">earn</data>
+</edge>
+<edge source="the US Federal Communications Commission" target="CBS">
+  <data key="d0">fine</data>
+</edge>
+<edge source="Swank" target="Best Actress">
+  <data key="d0">win</data>
+</edge>
+<edge source="Miyazaki" target="Oscar">
+  <data key="d0">win</data>
+</edge>
+<edge source="Marlon Brando" target="the Academy Award">
+  <data key="d0">win</data>
+</edge>
+<edge source="Desperate housewife" target="Felicity Huffman">
+  <data key="d0">star</data>
+</edge>
+<edge source="Desperate housewife" target="Marcia Cross">
+  <data key="d0">star</data>
+</edge>
+<edge source="dicaprio" target="Howard Hughes">
+  <data key="d0">play</data>
+</edge>
+<edge source="Nicky Wire" target="Phil Jupitus">
+  <data key="d0">join</data>
+</edge>
+<edge source="Jay - Z" target="the Island Def Jam Music Group">
+  <data key="d0">move</data>
+</edge>
+<edge source="Rick Rubin" target="Def Jam">
+  <data key="d0">found</data>
+</edge>
+<edge source="Russell Simmons" target="Def Jam">
+  <data key="d0">found</data>
+</edge>
+<edge source="Merle Kilgore" target="Ring of fire">
+  <data key="d0">hit</data>
+</edge>
+<edge source="Black America" target="Bob">
+  <data key="d0">take</data>
+</edge>
+<edge source="casey" target="Brian McFadden">
+  <data key="d0">beat</data>
+</edge>
+<edge source="casey" target="Damien Rice">
+  <data key="d0">beat</data>
+</edge>
+<edge source="pj harvey" target="Kylie Minogue">
+  <data key="d0">pip</data>
+</edge>
+<edge source="Snow Patrol" target="the Meteor Awards">
+  <data key="d0">fete</data>
+</edge>
+<edge source="Johnson" target="Dre">
+  <data key="d0">approach</data>
+</edge>
+<edge source="Kanye West" target="grammys">
+  <data key="d0">dominate</data>
+</edge>
+<edge source="Franz ferdinand" target="keane">
+  <data key="d0">follow</data>
+</edge>
+<edge source="Franz ferdinand" target="Morrissey">
+  <data key="d0">beat</data>
+</edge>
+<edge source="keane" target="Vieira">
+  <data key="d0">accuse</data>
+</edge>
+<edge source="razorlight" target="keane">
+  <data key="d0">follow</data>
+</edge>
+<edge source="Rapper Eminem" target="Elvis">
+  <data key="d0">deny</data>
+</edge>
+<edge source="Stevie Wonder" target="Billboard 's Century Award">
+  <data key="d0">receive</data>
+</edge>
+<edge source="Newcomer Ciara - who" target="Elvis Presley">
+  <data key="d0">beat</data>
+</edge>
+<edge source="housewife" target="Channel 4">
+  <data key="d0">lift</data>
+</edge>
+<edge source="Brigitte Nielsen" target="Bez">
+  <data key="d0">nominate</data>
+</edge>
+<edge source="Brigitte Nielsen" target="John">
+  <data key="d0">nominate</data>
+</edge>
+<edge source="Tim Kash" target="the all New Top of the pop">
+  <data key="d0">front</data>
+</edge>
+<edge source="Denise" target="Johnny Vaughan">
+  <data key="d0">lose</data>
+</edge>
+<edge source="johnny" target="Johnny Vaughan">
+  <data key="d0">lose</data>
+</edge>
+<edge source="BBC" target="little Britain">
+  <data key="d0">hit</data>
+</edge>
+<edge source="BBC" target="Freeview">
+  <data key="d0">launch</data>
+</edge>
+<edge source="BBC" target="bafta">
+  <data key="d0">lead</data>
+</edge>
+<edge source="Redmond" target="hollyoak to Channel 4">
+  <data key="d0">bring</data>
+</edge>
+<edge source="Britain" target="David Walliams">
+  <data key="d0">star</data>
+</edge>
+<edge source="Britain" target="Matt Lucas">
+  <data key="d0">star</data>
+</edge>
+<edge source="Britain" target="USA">
+  <data key="d0">draw</data>
+</edge>
+<edge source="icrc" target="Gazetta">
+  <data key="d0">run</data>
+</edge>
+<edge source="great british Spelling Test" target="olympic">
+  <data key="d0">take</data>
+</edge>
+<edge source="great british Spelling Test" target="Spooks Interactive">
+  <data key="d0">take</data>
+</edge>
+<edge source="Guardian" target="the Tour de France">
+  <data key="d0">take</data>
+</edge>
+<edge source="Christopher Lee" target="Fireside tale">
+  <data key="d0">read</data>
+</edge>
+<edge source="Rob Da Bank" target="the John Peel Show">
+  <data key="d0">host</data>
+</edge>
+<edge source="size" target="Mercury Music Prize">
+  <data key="d0">win</data>
+</edge>
+<edge source="Kombou" target="Vince Everett">
+  <data key="d0">play</data>
+</edge>
+<edge source="Steve Coogan" target="Wilson">
+  <data key="d0">play</data>
+</edge>
+<edge source="Britney Spears" target="spear">
+  <data key="d0">sue</data>
+</edge>
+<edge source="Joss Stone" target="Dizzee Rascal">
+  <data key="d0">beat</data>
+</edge>
+<edge source="Joss Stone" target="Jamelia">
+  <data key="d0">beat</data>
+</edge>
+<edge source="Love" target="Kristin king">
+  <data key="d0">find</data>
+</edge>
+<edge source="Bill Clinton" target="Grammy">
+  <data key="d0">pick</data>
+</edge>
+<edge source="Rod Stewart" target="Grammy">
+  <data key="d0">win</data>
+</edge>
+<edge source="Rod Stewart" target="Percy Sledge">
+  <data key="d0">introduce</data>
+</edge>
+<edge source="BBC one" target="Different Story">
+  <data key="d0">screen</data>
+</edge>
+<edge source="Nathan Lane" target="Lee Evans">
+  <data key="d0">beat</data>
+</edge>
+<edge source="producer" target="Mary Poppins">
+  <data key="d0">beat</data>
+</edge>
+<edge source="the Society of London" target="the Olivier Awards">
+  <data key="d0">hand</data>
+</edge>
+<edge source="conti" target="Oscar">
+  <data key="d0">receive</data>
+</edge>
+<edge source="Goodrem" target="the Pepsi Viewers Choice Award">
+  <data key="d0">take</data>
+</edge>
+<edge source="Clapton" target="Buddy Guy">
+  <data key="d0">introduce</data>
+</edge>
+<edge source="Springsteen" target="bono">
+  <data key="d0">mock</data>
+</edge>
+<edge source="malkovich" target="Humma Kavula">
+  <data key="d0">play</data>
+</edge>
+<edge source="Robert Redford" target="sundance">
+  <data key="d0">found</data>
+</edge>
+<edge source="Victoria Wood" target="Cohen">
+  <data key="d0">slate</data>
+</edge>
+<edge source="Dudley Nichols" target="Academy Award">
+  <data key="d0">refuse</data>
+</edge>
+<edge source="the Academy Awards" target="Academy Awards">
+  <data key="d0">flourish</data>
+</edge>
+<edge source="Ferry , Mackay" target="Roxy Music">
+  <data key="d0">form</data>
+</edge>
+<edge source="Fuller" target="American Idol">
+  <data key="d0">set</data>
+</edge>
+<edge source="Simon Fuller" target="idol">
+  <data key="d0">sell</data>
+</edge>
+<edge source="Vera Drake" target="Oscar">
+  <data key="d0">lead</data>
+</edge>
+<edge source="Morgan Spurlock" target="McDonalds">
+  <data key="d0">force</data>
+</edge>
+<edge source="Charles" target="Grammy Awards">
+  <data key="d0">win</data>
+</edge>
+<edge source="Jolin" target="Phil Davis">
+  <data key="d0">tip</data>
+</edge>
+<edge source="Kate Winslet" target="Heather Craney">
+  <data key="d0">outdo</data>
+</edge>
+<edge source="Natalie Portman" target="Heather Craney">
+  <data key="d0">outdo</data>
+</edge>
+<edge source="Sienna Miller" target="glamour">
+  <data key="d0">bring</data>
+</edge>
+<edge source="Harry Potter" target="the Orange Film of the year">
+  <data key="d0">win</data>
+</edge>
+<edge source="amadeus" target="the Killing Fields">
+  <data key="d0">beat</data>
+</edge>
+<edge source="titanic" target="oscar">
+  <data key="d0">take</data>
+</edge>
+<edge source="Dave Karger" target="oscar">
+  <data key="d0">maintain</data>
+</edge>
+<edge source="Sky Movies 1" target="Academy Awards">
+  <data key="d0">show</data>
+</edge>
+<edge source="Briton" target="Oscar Three">
+  <data key="d0">win</data>
+</edge>
+<edge source="Briton" target="Kenyan Susan Chepkemei">
+  <data key="d0">hold</data>
+</edge>
+<edge source="eastwood" target="Oscar">
+  <data key="d0">take</data>
+</edge>
+<edge source="arnold" target="Motormouth">
+  <data key="d0">show</data>
+</edge>
+<edge source="Sandy Powell" target="Oscar">
+  <data key="d0">win</data>
+</edge>
+<edge source="Debra Hill" target="screenwriter">
+  <data key="d0">die</data>
+</edge>
+<edge source="the Freedom of Information Act" target="england">
+  <data key="d0">cover</data>
+</edge>
+<edge source="the Freedom of Information Act" target="wale">
+  <data key="d0">cover</data>
+</edge>
+<edge source="england" target="Danny Grewcock">
+  <data key="d0">lock</data>
+</edge>
+<edge source="england" target="Italy">
+  <data key="d0">play</data>
+</edge>
+<edge source="england" target="Ireland">
+  <data key="d0">turn</data>
+</edge>
+<edge source="england" target="Wilkinson">
+  <data key="d0">miss</data>
+</edge>
+<edge source="wale" target="england">
+  <data key="d0">play</data>
+</edge>
+<edge source="labour" target="Manchester the Labour Party">
+  <data key="d0">choose</data>
+</edge>
+<edge source="labour" target="Brown">
+  <data key="d0">maintain</data>
+</edge>
+<edge source="labour" target="Britain">
+  <data key="d0">take</data>
+</edge>
+<edge source="Digby Jones" target="Brown">
+  <data key="d0">warn</data>
+</edge>
+<edge source="Fox" target="Blair">
+  <data key="d0">accuse</data>
+</edge>
+<edge source="Blair" target="Tony Blair">
+  <data key="d0">support</data>
+</edge>
+<edge source="Blair" target="Cabinet">
+  <data key="d0">bypass</data>
+</edge>
+<edge source="Blair" target="Brown">
+  <data key="d0">reinstate</data>
+</edge>
+<edge source="Blair" target="labour party">
+  <data key="d0">contrast</data>
+</edge>
+<edge source="Campbell" target="Newsnight">
+  <data key="d0">message</data>
+</edge>
+<edge source="Peter Mandelson" target="BBC">
+  <data key="d0">warn</data>
+</edge>
+<edge source="Tony Blair" target="parliament">
+  <data key="d0">assure</data>
+</edge>
+<edge source="Tony Blair" target="Blunkett">
+  <data key="d0">join</data>
+</edge>
+<edge source="Tony Blair" target="Gordon Brown">
+  <data key="d0">promise</data>
+</edge>
+<edge source="Jack Cunningham" target="Butler">
+  <data key="d0">accuse</data>
+</edge>
+<edge source="Michael Howard" target="Tony Blair">
+  <data key="d0">accuse</data>
+</edge>
+<edge source="Michael Howard" target="Blair">
+  <data key="d0">accuse</data>
+</edge>
+<edge source="the Welsh Assembly Government" target="the Arts Council of Wales">
+  <data key="d0">take</data>
+</edge>
+<edge source="Blunkett" target="parliament">
+  <data key="d0">enter</data>
+</edge>
+<edge source="Makarov" target="KGB">
+  <data key="d0">join</data>
+</edge>
+<edge source="Kelly" target="Cabinet">
+  <data key="d0">enter</data>
+</edge>
+<edge source="MAB" target="muslim">
+  <data key="d0">urge</data>
+</edge>
+<edge source="the United Kingdom" target="Treaty">
+  <data key="d0">approve</data>
+</edge>
+<edge source="Nicola sturgeon" target="McLetchie">
+  <data key="d0">accuse</data>
+</edge>
+<edge source="Parker Bowles" target="Princess Consort">
+  <data key="d0">become</data>
+</edge>
+<edge source="Massoud Shadjareh" target="m blear">
+  <data key="d0">accuse</data>
+</edge>
+<edge source="Hockney" target="UKIP">
+  <data key="d0">leave</data>
+</edge>
+<edge source="UKIP" target="Britain">
+  <data key="d0">take</data>
+</edge>
+<edge source="Lucy" target="pound">
+  <data key="d0">track</data>
+</edge>
+<edge source="Alan Duncan" target="Brown">
+  <data key="d0">accuse</data>
+</edge>
+<edge source="Vincent Cable" target="Brown">
+  <data key="d0">accuse</data>
+</edge>
+<edge source="Hilary Benn" target="Aceh">
+  <data key="d0">visit</data>
+</edge>
+<edge source="Hilary Benn" target="Sri Lanka">
+  <data key="d0">visit</data>
+</edge>
+<edge source="howard" target="Yeo">
+  <data key="d0">deny</data>
+</edge>
+<edge source="howard" target="Llanelli Grammar School - and">
+  <data key="d0">leave</data>
+</edge>
+<edge source="howard" target="Crosby">
+  <data key="d0">appoint</data>
+</edge>
+<edge source="howard" target="the Lib Dems">
+  <data key="d0">attack</data>
+</edge>
+<edge source="Alan Milburn" target="tory">
+  <data key="d0">accuse</data>
+</edge>
+<edge source="Alan Milburn" target="Brown">
+  <data key="d0">join</data>
+</edge>
+<edge source="Alan Milburn" target="howard">
+  <data key="d0">accuse</data>
+</edge>
+<edge source="tory" target="Tony Blair">
+  <data key="d0">accuse</data>
+</edge>
+<edge source="tory" target="Erewash">
+  <data key="d0">hold</data>
+</edge>
+<edge source="tory" target="Caroline Spelman">
+  <data key="d0">appointed</data>
+</edge>
+<edge source="Alan Clark" target="nichola">
+  <data key="d0">replace</data>
+</edge>
+<edge source="Goldsmith" target="Tony Blair">
+  <data key="d0">warn</data>
+</edge>
+<edge source="Oliver Finegold" target="Livingstone">
+  <data key="d0">approach</data>
+</edge>
+<edge source="John McCain" target="Blair">
+  <data key="d0">visit</data>
+</edge>
+<edge source="mccabe" target="8.1bn">
+  <data key="d0">promise</data>
+</edge>
+<edge source="Blair and Brown" target="Gordon Brown">
+  <data key="d0">criticise</data>
+</edge>
+<edge source="Blair and Brown" target="Tony Blair">
+  <data key="d0">criticise</data>
+</edge>
+<edge source="Campbell - Savours" target="Brown">
+  <data key="d0">challenge</data>
+</edge>
+<edge source="Charles Kennedy" target="conservative">
+  <data key="d0">dismiss</data>
+</edge>
+<edge source="Charles Kennedy" target="Brown">
+  <data key="d0">attack</data>
+</edge>
+<edge source="Liberal Democrats" target="tory">
+  <data key="d0">warn</data>
+</edge>
+<edge source="Liberal Democrats" target="labour">
+  <data key="d0">warn</data>
+</edge>
+<edge source="Robert Kilroy - Silk" target="Independence Party">
+  <data key="d0">quit</data>
+</edge>
+<edge source="Oliver Letwin" target="Blair">
+  <data key="d0">accuse</data>
+</edge>
+<edge source="Baroness Amos" target="kinnock">
+  <data key="d0">accompany</data>
+</edge>
+<edge source="Josef Stalin" target="the Cold War">
+  <data key="d0">trigger</data>
+</edge>
+<edge source="galloway" target="telegraph">
+  <data key="d0">sue</data>
+</edge>
+<edge source="liberal" target="labour">
+  <data key="d0">keep</data>
+</edge>
+<edge source="labour mp" target="Jackson">
+  <data key="d0">welcome</data>
+</edge>
+<edge source="Ian McCartney" target="Oliver Letwin">
+  <data key="d0">describe</data>
+</edge>
+<edge source="Kennedy" target="Leicester South">
+  <data key="d0">visit</data>
+</edge>
+<edge source="Kennedy" target="Brown">
+  <data key="d0">criticise</data>
+</edge>
+<edge source="the Lib Dems" target="Brown">
+  <data key="d0">accuse</data>
+</edge>
+<edge source="Simon Hughes" target="howard">
+  <data key="d0">brand</data>
+</edge>
+<edge source="Liam Fox" target="labour">
+  <data key="d0">accuse</data>
+</edge>
+<edge source="Michael Fallon" target="Brown">
+  <data key="d0">ask</data>
+</edge>
+<edge source="milburn" target="Brown">
+  <data key="d0">oust</data>
+</edge>
+<edge source="the Pro - life Alliance" target="howard">
+  <data key="d0">congratulate</data>
+</edge>
+<edge source="UK athletic" target="Team GB">
+  <data key="d0">kitte</data>
+</edge>
+<edge source="El Guerrouj" target="Bekele">
+  <data key="d0">meet</data>
+</edge>
+<edge source="anti - doping agency" target="collins">
+  <data key="d0">suspend</data>
+</edge>
+<edge source="anti - doping agency" target="Balco">
+  <data key="d0">accuse</data>
+</edge>
+<edge source="collins" target="UK athletic">
+  <data key="d0">appoint</data>
+</edge>
+<edge source="turnbull" target="Europe">
+  <data key="d0">travel</data>
+</edge>
+<edge source="Kenteris" target="olympic">
+  <data key="d0">quit</data>
+</edge>
+<edge source="Thanou" target="olympic">
+  <data key="d0">quit</data>
+</edge>
+<edge source="gebrselassie" target="Jaouad Gharib">
+  <data key="d0">face</data>
+</edge>
+<edge source="gebrselassie" target="Stefano Baldini">
+  <data key="d0">face</data>
+</edge>
+<edge source="Sotherton Jade Johnson" target="Kelly Sotherton">
+  <data key="d0">edge</data>
+</edge>
+<edge source="Chris Tomlinson" target="Team GB">
+  <data key="d0">boost</data>
+</edge>
+<edge source="holme" target="athens">
+  <data key="d0">leave</data>
+</edge>
+<edge source="Hayley Yelling" target="Team GB">
+  <data key="d0">represent</data>
+</edge>
+<edge source="Jo Pavey" target="Team GB">
+  <data key="d0">represent</data>
+</edge>
+<edge source="moye u - turn" target="James Beattie">
+  <data key="d0">discipline</data>
+</edge>
+<edge source="moye u - turn" target="William Gallas">
+  <data key="d0">discipline</data>
+</edge>
+<edge source="Dunne" target="rooney">
+  <data key="d0">marshal</data>
+</edge>
+<edge source="rooney" target="McManaman">
+  <data key="d0">show</data>
+</edge>
+<edge source="rooney" target="Jones">
+  <data key="d0">round</data>
+</edge>
+<edge source="mourinho" target="Willian Gallas">
+  <data key="d0">reveal</data>
+</edge>
+<edge source="John Arne Riise" target="Liverpool">
+  <data key="d0">volley</data>
+</edge>
+<edge source="Liverpool" target="Luis Garcia">
+  <data key="d0">bring</data>
+</edge>
+<edge source="Luis Garcia" target="Dietmar Hamann">
+  <data key="d0">fee</data>
+</edge>
+<edge source="Nunez" target="cech">
+  <data key="d0">beat</data>
+</edge>
+<edge source="davy" target="Giannakopoulos">
+  <data key="d0">set</data>
+</edge>
+<edge source="Fernando Hierro" target="Dyer on the edge of the area">
+  <data key="d0">chop</data>
+</edge>
+<edge source="Lee Bowyer" target="Newcastle">
+  <data key="d0">put</data>
+</edge>
+<edge source="Alan Archibald" target="United">
+  <data key="d0">prod</data>
+</edge>
+<edge source="Clyde 0 - 5 Celtic Celtic" target="Clyde">
+  <data key="d0">brush</data>
+</edge>
+<edge source="Maloney" target="Sutton">
+  <data key="d0">replace</data>
+</edge>
+<edge source="Stan Varga" target="celtic">
+  <data key="d0">head</data>
+</edge>
+<edge source="Gus Bahoken" target="Miller">
+  <data key="d0">foul</data>
+</edge>
+<edge source="Neil MacFarlane" target="Burton O'Brien">
+  <data key="d0">haul</data>
+</edge>
+<edge source="France" target="galla">
+  <data key="d0">defender</data>
+</edge>
+<edge source="France" target="Ireland">
+  <data key="d0">defender</data>
+</edge>
+<edge source="France" target="Serge Betsen">
+  <data key="d0">bring</data>
+</edge>
+<edge source="France" target="england">
+  <data key="d0">beat</data>
+</edge>
+<edge source="France" target="Scotland">
+  <data key="d0">beat</data>
+</edge>
+<edge source="France" target="the six nation">
+  <data key="d0">win</data>
+</edge>
+<edge source="France" target="irish">
+  <data key="d0">defeat</data>
+</edge>
+<edge source="France" target="another Six Nations Grand Slam">
+  <data key="d0">claim</data>
+</edge>
+<edge source="France" target="wale">
+  <data key="d0">take</data>
+</edge>
+<edge source="Ireland" target="Grand Slam">
+  <data key="d0">win</data>
+</edge>
+<edge source="Chelsea" target="Liverpool">
+  <data key="d0">test</data>
+</edge>
+<edge source="Chelsea" target="Barcelona">
+  <data key="d0">take</data>
+</edge>
+<edge source="Parry" target="Liverpool">
+  <data key="d0">reveal</data>
+</edge>
+<edge source="Carragher" target="Eriksson">
+  <data key="d0">start</data>
+</edge>
+<edge source="Giggs" target="wale">
+  <data key="d0">lead</data>
+</edge>
+<edge source="Manchester United" target="Giggs">
+  <data key="d0">offer</data>
+</edge>
+<edge source="Manchester United" target="FA Cup">
+  <data key="d0">avoid</data>
+</edge>
+<edge source="Ryan Giggs" target="wale">
+  <data key="d0">captain</data>
+</edge>
+<edge source="Mladenovic" target="Mikel Arteta">
+  <data key="d0">replace</data>
+</edge>
+<edge source="Fernando Torres" target="athletico">
+  <data key="d0">give</data>
+</edge>
+<edge source="Cole" target="Jose Mourinho">
+  <data key="d0">meet</data>
+</edge>
+<edge source="Cole" target="Peter Kenyon">
+  <data key="d0">meet</data>
+</edge>
+<edge source="Cole" target="Carlton Cole">
+  <data key="d0">face</data>
+</edge>
+<edge source="Australia" target="South Africa">
+  <data key="d0">face</data>
+</edge>
+<edge source="irish" target="Italy">
+  <data key="d0">beat</data>
+</edge>
+<edge source="Italy" target="Ireland">
+  <data key="d0">guide</data>
+</edge>
+<edge source="Iran" target="Arash Miresmaeili">
+  <data key="d0">give</data>
+</edge>
+<edge source="James" target="Damien Duff">
+  <data key="d0">deny</data>
+</edge>
+<edge source="James" target="Jiri Jarosik">
+  <data key="d0">deny</data>
+</edge>
+<edge source="James" target="Llanelli">
+  <data key="d0">guide</data>
+</edge>
+<edge source="Dado Prso" target="Neil Lennon">
+  <data key="d0">turn</data>
+</edge>
+<edge source="hartson" target="Sotiris Kyrgiakos">
+  <data key="d0">dispossese</data>
+</edge>
+<edge source="ranger" target="celtic">
+  <data key="d0">find</data>
+</edge>
+<edge source="ranger" target="kilmarnock">
+  <data key="d0">visit</data>
+</edge>
+<edge source="michel" target="dutch">
+  <data key="d0">lead</data>
+</edge>
+<edge source="Ivan Helguera" target="Antonio Doblas">
+  <data key="d0">head</data>
+</edge>
+<edge source="Milan" target="Juventus">
+  <data key="d0">beat</data>
+</edge>
+<edge source="benitez" target="Jerzy Dudek">
+  <data key="d0">defend</data>
+</edge>
+<edge source="benitez" target="Gerrard">
+  <data key="d0">hail</data>
+</edge>
+<edge source="red" target="Rafael Benitez">
+  <data key="d0">take</data>
+</edge>
+<edge source="Arsene Wenger" target="Quincy Owusu - Abeyie">
+  <data key="d0">introduce</data>
+</edge>
+<edge source="Jol" target="spur">
+  <data key="d0">guide</data>
+</edge>
+<edge source="spur" target="Brighton">
+  <data key="d0">entertain</data>
+</edge>
+<edge source="Bobby Robson" target="Jose Mourinho">
+  <data key="d0">offer</data>
+</edge>
+<edge source="charlton" target="Simon Royce">
+  <data key="d0">recall</data>
+</edge>
+<edge source="charlton" target="Bolton">
+  <data key="d0">play</data>
+</edge>
+<edge source="charlton" target="leicester">
+  <data key="d0">play</data>
+</edge>
+<edge source="holloway" target="Tom Doherty">
+  <data key="d0">chase</data>
+</edge>
+<edge source="Carlo Cudicini" target="Carling Cup">
+  <data key="d0">miss</data>
+</edge>
+<edge source="Kevin Keegan" target="Robbie Fowler">
+  <data key="d0">praise</data>
+</edge>
+<edge source="success" target="rover">
+  <data key="d0">see</data>
+</edge>
+<edge source="David Prutton" target="Alan Wiley">
+  <data key="d0">push</data>
+</edge>
+<edge source="Bolton" target="Ipswich">
+  <data key="d0">meet</data>
+</edge>
+<edge source="Sam Allardyce" target="Vincent Candela">
+  <data key="d0">sign</data>
+</edge>
+<edge source="Stuart" target="norwich">
+  <data key="d0">join</data>
+</edge>
+<edge source="Mauritius" target="Bafana Bafana">
+  <data key="d0">humble</data>
+</edge>
+<edge source="Mauritius" target="madagascar">
+  <data key="d0">take</data>
+</edge>
+<edge source="Zambia" target="Lesotho">
+  <data key="d0">host</data>
+</edge>
+<edge source="Zambia" target="Malawi">
+  <data key="d0">host</data>
+</edge>
+<edge source="Jurgen Klinsmann" target="Jens Lehmann">
+  <data key="d0">warn</data>
+</edge>
+<edge source="Henry" target="heinze">
+  <data key="d0">catch</data>
+</edge>
+<edge source="Fulham" target="Carling Cup">
+  <data key="d0">face</data>
+</edge>
+<edge source="Fulham" target="watford">
+  <data key="d0">face</data>
+</edge>
+<edge source="the Scottish Football Association" target="Tommy burn">
+  <data key="d0">appoint</data>
+</edge>
+<edge source="Bernardo Gandulla" target="Boca Juniors">
+  <data key="d0">leave</data>
+</edge>
+<edge source="Maradona" target="corinthian">
+  <data key="d0">join</data>
+</edge>
+<edge source="Spain" target="england">
+  <data key="d0">dominate</data>
+</edge>
+<edge source="Spain" target="the Davis Cup">
+  <data key="d0">win</data>
+</edge>
+<edge source="kerr" target="Mick McCarthy">
+  <data key="d0">succeed</data>
+</edge>
+<edge source="McClaren" target="Jimmy Floyd Hasselbaink">
+  <data key="d0">praise</data>
+</edge>
+<edge source="McClaren" target="Stewart Downing">
+  <data key="d0">praise</data>
+</edge>
+<edge source="Alex Ferguson" target="Neale Barry">
+  <data key="d0">influence</data>
+</edge>
+<edge source="the Football Association" target="Liverpool">
+  <data key="d0">charge</data>
+</edge>
+<edge source="the Football Association" target="Millwall Liverpool">
+  <data key="d0">charge</data>
+</edge>
+<edge source="the Football Association" target="ferguson">
+  <data key="d0">punish</data>
+</edge>
+<edge source="gill" target="Dein">
+  <data key="d0">phone</data>
+</edge>
+<edge source="Ruud van Nistelrooy" target="Ashley Cole">
+  <data key="d0">catch</data>
+</edge>
+<edge source="ferguson" target="Roy Keane">
+  <data key="d0">hail</data>
+</edge>
+<edge source="ferguson" target="Ryan Giggs">
+  <data key="d0">hail</data>
+</edge>
+<edge source="Chicago Cubs" target="Nomar Garciaparra">
+  <data key="d0">play shortstop for</data>
+</edge>
+<edge source="ETA" target="bernabeu">
+  <data key="d0">target</data>
+</edge>
+<edge source="Mark Taylor" target="lorimer">
+  <data key="d0">join</data>
+</edge>
+<edge source="Dundee United" target="kilmarnock">
+  <data key="d0">visit</data>
+</edge>
+<edge source="Steven Gerrard" target="Liverpool">
+  <data key="d0">put</data>
+</edge>
+<edge source="o'leary" target="Olof Mellberg">
+  <data key="d0">rap</data>
+</edge>
+<edge source="Neil Mellor" target="Liverpool">
+  <data key="d0">give</data>
+</edge>
+<edge source="pompey" target="Arsenal">
+  <data key="d0">stretch</data>
+</edge>
+<edge source="o'driscoll" target="Ireland">
+  <data key="d0">insist</data>
+</edge>
+<edge source="Williams" target="Thomas">
+  <data key="d0">replace</data>
+</edge>
+<edge source="Joe Shaw" target="Dave Walder">
+  <data key="d0">find</data>
+</edge>
+<edge source="the Scottish Rugby Union" target="Matt Williams">
+  <data key="d0">punish</data>
+</edge>
+<edge source="John Connolly" target="barkley">
+  <data key="d0">rate</data>
+</edge>
+<edge source="Charlie Hodgson" target="england">
+  <data key="d0">put</data>
+</edge>
+<edge source="Danny Grewcock" target="Ronan O'Gara">
+  <data key="d0">take</data>
+</edge>
+<edge source="Andy Robinson" target="Duncan Bell">
+  <data key="d0">call</data>
+</edge>
+<edge source="Andy Robinson" target="Jonathan Kaplan">
+  <data key="d0">lambaste</data>
+</edge>
+<edge source="Andy Robinson" target="Andy Hazell">
+  <data key="d0">award</data>
+</edge>
+<edge source="Andy Robinson" target="Dawson">
+  <data key="d0">drop</data>
+</edge>
+<edge source="Andy Robinson" target="test">
+  <data key="d0">drop</data>
+</edge>
+<edge source="Scotland" target="France">
+  <data key="d0">beat</data>
+</edge>
+<edge source="Kirwan" target="Cristian Stoica">
+  <data key="d0">recall</data>
+</edge>
+<edge source="Simon Webster" target="Simon Danielli">
+  <data key="d0">replace</data>
+</edge>
+<edge source="leed v Saracens" target="Ed Kalman">
+  <data key="d0">bring</data>
+</edge>
+<edge source="leed v Saracens" target="Tom McGee">
+  <data key="d0">bring</data>
+</edge>
+<edge source="Tim Collier" target="Phil Murphy">
+  <data key="d0">replace</data>
+</edge>
+<edge source="Bernard Laporte" target="Frederic Michalak">
+  <data key="d0">recall</data>
+</edge>
+<edge source="Tama Umaga" target="Irish Lions">
+  <data key="d0">warn</data>
+</edge>
+<edge source="Umaga" target="New Zealand">
+  <data key="d0">support</data>
+</edge>
+<edge source="Campese" target="wale">
+  <data key="d0">tip</data>
+</edge>
+<edge source="George Gregan" target="south">
+  <data key="d0">lead</data>
+</edge>
+<edge source="Parker" target="england">
+  <data key="d0">miss</data>
+</edge>
+<edge source="Stevens" target="Matt Stevens">
+  <data key="d0">appoint</data>
+</edge>
+<edge source="corry" target="robinson">
+  <data key="d0">support</data>
+</edge>
+<edge source="robinson" target="england">
+  <data key="d0">lead</data>
+</edge>
+<edge source="the Rugby Football Union" target="robinson">
+  <data key="d0">investigate</data>
+</edge>
+<edge source="Ben Kay" target="Steve Borthwick">
+  <data key="d0">replace</data>
+</edge>
+<edge source="Doyle" target="Ireland">
+  <data key="d0">coach</data>
+</edge>
+<edge source="Simon Amor" target="Ben Gollings">
+  <data key="d0">beat</data>
+</edge>
+<edge source="Simon Amor" target="Lucio Lopez Fleming">
+  <data key="d0">beat</data>
+</edge>
+<edge source="barbarian" target="the all Blacks 23 - 11">
+  <data key="d0">defeat</data>
+</edge>
+<edge source="Maori" target="Joe Warbrick">
+  <data key="d0">appoint</data>
+</edge>
+<edge source="Nelson Town" target="Nelson College">
+  <data key="d0">meet</data>
+</edge>
+<edge source="the All black" target="wale">
+  <data key="d0">swat</data>
+</edge>
+<edge source="Andy Goode" target="tiger">
+  <data key="d0">kick</data>
+</edge>
+<edge source="Roger Wilson" target="Campbell">
+  <data key="d0">join</data>
+</edge>
+<edge source="Ronan McCormack" target="Campbell">
+  <data key="d0">join</data>
+</edge>
+<edge source="Argentina" target="Ireland">
+  <data key="d0">shock</data>
+</edge>
+<edge source="Pumas" target="irish">
+  <data key="d0">shock</data>
+</edge>
+<edge source="samoa" target="Scotland">
+  <data key="d0">beat</data>
+</edge>
+<edge source="Dallaglio" target="South Africa">
+  <data key="d0">tour</data>
+</edge>
+<edge source="Bath Bath" target="Andy Williams">
+  <data key="d0">sign</data>
+</edge>
+<edge source="St Helens" target="Sonny Bill Williams">
+  <data key="d0">link</data>
+</edge>
+<edge source="Ulster" target="Gloucester">
+  <data key="d0">play</data>
+</edge>
+<edge source="Dimitri Yachvili" target="France">
+  <data key="d0">boot</data>
+</edge>
+<edge source="Yachvili" target="France">
+  <data key="d0">put</data>
+</edge>
+<edge source="Johnny O'Connor" target="Denis Leamy">
+  <data key="d0">replace</data>
+</edge>
+<edge source="Andy Roddick" target="Cyril Saulnier">
+  <data key="d0">play</data>
+</edge>
+<edge source="Andy Roddick" target="Ivan Ljubicic">
+  <data key="d0">beat</data>
+</edge>
+<edge source="Agassi" target="San Jose">
+  <data key="d0">win</data>
+</edge>
+<edge source="Agassi" target="Rainer Schuettler">
+  <data key="d0">play</data>
+</edge>
+<edge source="Frank Dancevic" target="American Jeff Morrison 4 - 6 7 - 6">
+  <data key="d0">down</data>
+</edge>
+<edge source="Kenneth Carlsen" target="Irakli Labadze">
+  <data key="d0">beat</data>
+</edge>
+<edge source="Kevin Kim" target="Jan Hernych">
+  <data key="d0">defeat</data>
+</edge>
+<edge source="Melzer" target="Agassi">
+  <data key="d0">beat</data>
+</edge>
+<edge source="russian" target="Rainer Schuettler 7 - 5">
+  <data key="d0">beat</data>
+</edge>
+<edge source="russian" target="Selima Sfar 2">
+  <data key="d0">struggle</data>
+</edge>
+<edge source="argentine" target="Albert Montanes">
+  <data key="d0">play</data>
+</edge>
+<edge source="Calleri" target="Albert Montanes">
+  <data key="d0">face</data>
+</edge>
+<edge source="davenport" target="Jie Zheng 6 - 2 7 - 5">
+  <data key="d0">defeat</data>
+</edge>
+<edge source="davenport" target="Venus Williams">
+  <data key="d0">encounter</data>
+</edge>
+<edge source="Myskina" target="Patty Schnyder">
+  <data key="d0">face</data>
+</edge>
+<edge source="Myskina" target="France">
+  <data key="d0">play</data>
+</edge>
+<edge source="Myskina" target="Elena Dementieva">
+  <data key="d0">thrash</data>
+</edge>
+<edge source="Myskina" target="Grand Slams">
+  <data key="d0">win</data>
+</edge>
+<edge source="Lindsay Davenport" target="Wimbledon">
+  <data key="d0">criticise</data>
+</edge>
+<edge source="Mirza" target="Jelena Jankovic">
+  <data key="d0">play</data>
+</edge>
+<edge source="Mirza" target="Silvia Farina Elia">
+  <data key="d0">play</data>
+</edge>
+<edge source="Mirza" target="Jelena Kostanic">
+  <data key="d0">beat</data>
+</edge>
+<edge source="Slovakian" target="Elena Likhovtseva">
+  <data key="d0">meet</data>
+</edge>
+<edge source="Henman" target="bogdanovic">
+  <data key="d0">urge</data>
+</edge>
+<edge source="Nicole Pratt" target="tunisian">
+  <data key="d0">beat</data>
+</edge>
+<edge source="Lleyton Hewitt" target="Andy Roddick">
+  <data key="d0">replace</data>
+</edge>
+<edge source="Lleyton Hewitt" target="Arnaud clement">
+  <data key="d0">meet</data>
+</edge>
+<edge source="safin" target="hewitt">
+  <data key="d0">overtake</data>
+</edge>
+<edge source="Sprem" target="Elena Likhovtseva">
+  <data key="d0">see</data>
+</edge>
+<edge source="Jeremy Bates" target="Alex Bogdanovic">
+  <data key="d0">tout</data>
+</edge>
+<edge source="Jeremy Bates" target="Andrew Murray">
+  <data key="d0">tout</data>
+</edge>
+<edge source="the Lawn Tennis Association" target="bogdanovic">
+  <data key="d0">warn</data>
+</edge>
+<edge source="the Lawn Tennis Association" target="Tim Henman">
+  <data key="d0">appoint</data>
+</edge>
+<edge source="Alicia Molik" target="Samantha Stosur">
+  <data key="d0">take</data>
+</edge>
+<edge source="chilean" target="Juan Ignacio Chela">
+  <data key="d0">meet</data>
+</edge>
+<edge source="rochu" target="Coria">
+  <data key="d0">shock</data>
+</edge>
+<edge source="Dominik Hrbaty" target="Guillermo Coria">
+  <data key="d0">upset</data>
+</edge>
+<edge source="Karina Habsudova" target="France">
+  <data key="d0">beat</data>
+</edge>
+<edge source="Karol Kucera" target="France">
+  <data key="d0">beat</data>
+</edge>
+<edge source="Slovakia" target="the Hopman Cup">
+  <data key="d0">clinch</data>
+</edge>
+<edge source="Slovakia" target="Cup">
+  <data key="d0">win</data>
+</edge>
+<edge source="Slovakia" target="Argentina">
+  <data key="d0">play</data>
+</edge>
+<edge source="Nathalie Dechy" target="Lisa Raymond 7 - 5">
+  <data key="d0">beat</data>
+</edge>
+<edge source="Spaniard Costa" target="Croatian Ivan Ljubicic">
+  <data key="d0">face</data>
+</edge>
+<edge source="navratilova" target="Nathalie Dechy">
+  <data key="d0">partner</data>
+</edge>
+<edge source="Fabrice Santoro" target="Thomas Johansson">
+  <data key="d0">beat</data>
+</edge>
+<edge source="Roger Federer" target="Greg Rusedski">
+  <data key="d0">play</data>
+</edge>
+<edge source="Roger Federer" target="Fabrice Santoro">
+  <data key="d0">face</data>
+</edge>
+<edge source="Carlos Moya" target="Andy Roddick">
+  <data key="d0">take</data>
+</edge>
+<edge source="Carlos Moya" target="mardy fish">
+  <data key="d0">beat</data>
+</edge>
+<edge source="capriati" target="the Sydney International">
+  <data key="d0">decide</data>
+</edge>
+<edge source="capriati" target="Melbourne Jennifer Capriati">
+  <data key="d0">miss</data>
+</edge>
+<edge source="Andre Agassi" target="Nicolas Massu">
+  <data key="d0">see</data>
+</edge>
+<edge source="Bob Bryan" target="Juan Carlos Ferrero">
+  <data key="d0">thrash</data>
+</edge>
+<edge source="Bob Bryan" target="Tommy Robredo">
+  <data key="d0">thrash</data>
+</edge>
+<edge source="Mike" target="Juan Carlos Ferrero">
+  <data key="d0">thrash</data>
+</edge>
+<edge source="Mike" target="Tommy Robredo">
+  <data key="d0">thrash</data>
+</edge>
+<edge source="Rafael Nadal" target="mardy fish">
+  <data key="d0">face</data>
+</edge>
+<edge source="Rafael Nadal" target="Andy Roddick">
+  <data key="d0">beat</data>
+</edge>
+<edge source="american" target="rusedski">
+  <data key="d0">meet</data>
+</edge>
+<edge source="Mauresmo" target="Samantha Stosur">
+  <data key="d0">play</data>
+</edge>
+<edge source="Tim Henman" target="Cyril Saulnier">
+  <data key="d0">face</data>
+</edge>
+<edge source="Gaston Gaudio" target="Justin Gimelstob 7 - 6">
+  <data key="d0">beat</data>
+</edge>
+<edge source="federer" target="Roddick">
+  <data key="d0">beat</data>
+</edge>
+<edge source="Roddick" target="gilbert">
+  <data key="d0">hire</data>
+</edge>
+<edge source="Roddick" target="Cyril Saulnier">
+  <data key="d0">play</data>
+</edge>
+<edge source="Lleyton" target="Roger Federer">
+  <data key="d0">beat</data>
+</edge>
+<edge source="nadal" target="Roddick">
+  <data key="d0">work</data>
+</edge>
+<edge source="Roche" target="the French Open">
+  <data key="d0">win</data>
+</edge>
+<edge source="Maria Sharapova" target="Grand Slams">
+  <data key="d0">win</data>
+</edge>
+<edge source="Daniela Hantuchova" target="Michaella Krajicek">
+  <data key="d0">defeat</data>
+</edge>
+<edge source="the United States" target="Australia">
+  <data key="d0">defeat</data>
+</edge>
+<edge source="Moya" target="Spain">
+  <data key="d0">lead</data>
+</edge>
+<edge source="the Women 's Tennis Association" target="Kuznetsova">
+  <data key="d0">clear</data>
+</edge>
+<edge source="Robin Soderling" target="the Milan Indoors">
+  <data key="d0">take</data>
+</edge>
+<edge source="Negroponte" target="be Digital">
+  <data key="d0">publish</data>
+</edge>
+<edge source="the European Telecommunications Institute" target="Digital Video Broadcasting Handheld">
+  <data key="d0">adopt</data>
+</edge>
+<edge source="Google" target="Pyra Labs">
+  <data key="d0">acquire</data>
+</edge>
+<edge source="raskin" target="apple">
+  <data key="d0">leave</data>
+</edge>
+<edge source="apple" target="ipod">
+  <data key="d0">sell</data>
+</edge>
+<edge source="apple" target="Mac Mini">
+  <data key="d0">offer</data>
+</edge>
+<edge source="xerox PARC" target="GUI">
+  <data key="d0">develop</data>
+</edge>
+<edge source="tate" target="ArtGarden">
+  <data key="d0">test</data>
+</edge>
+<edge source="Chris McIntyre" target="Podcast Alley">
+  <data key="d0">run</data>
+</edge>
+<edge source="argonaut" target="David Rubin &amp; Partners">
+  <data key="d0">call</data>
+</edge>
+<edge source="Bill Gates" target="the Consumer Electronics show">
+  <data key="d0">open</data>
+</edge>
+<edge source="the Mozilla Foundation" target="Firefox">
+  <data key="d0">found</data>
+</edge>
+<edge source="Hurricane Ivan" target="caribbean">
+  <data key="d0">ravage</data>
+</edge>
+<edge source="Hurricane Ivan" target="United States">
+  <data key="d0">ravage</data>
+</edge>
+<edge source="gate" target="Xbox">
+  <data key="d0">showcase</data>
+</edge>
+<edge source="IBM" target="the Smallpox Research Grid">
+  <data key="d0">develop</data>
+</edge>
+<edge source="IBM" target="Linux">
+  <data key="d0">support</data>
+</edge>
+<edge source="the Royal National Institute for Deaf People ( RNID" target="the Video Relay Service">
+  <data key="d0">pilot</data>
+</edge>
+<edge source="Donkey Kong" target="Norman Cook">
+  <data key="d0">meet</data>
+</edge>
+<edge source="Tetris" target="kraftwerk">
+  <data key="d0">take</data>
+</edge>
+<edge source="job" target="Macintosh">
+  <data key="d0">describe</data>
+</edge>
+<edge source="the Mac Mini" target="Macintosh">
+  <data key="d0">put</data>
+</edge>
+<edge source="Yahoo" target="Google">
+  <data key="d0">choose</data>
+</edge>
+<edge source="Asimo" target="Germany">
+  <data key="d0">visit</data>
+</edge>
+<edge source="the Electronic Frontier Foundation" target="StreamCast network">
+  <data key="d0">defend</data>
+</edge>
+<edge source="Television Numerique" target="tous">
+  <data key="d0">pour</data>
+</edge>
+<edge source="Jemima Khan" target="iPod">
+  <data key="d0">leave</data>
+</edge>
+</graph></graphml>

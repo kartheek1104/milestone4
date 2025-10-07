@@ -12,14 +12,6 @@ venv/
 env/
 .venv/
 
-# ----------------------
-# Output / cache / logs
-# ----------------------
-kg_output/
-*.log
-*.tmp
-*.bak
-*.swp
 
 # ----------------------
 # System files

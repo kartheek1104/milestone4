@@ -1,0 +1,48 @@
+# ----------------------
+# Python Bytecode
+# ----------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ----------------------
+# Virtual environments
+# ----------------------
+venv/
+env/
+.venv/
+
+# ----------------------
+# Output / cache / logs
+# ----------------------
+kg_output/
+*.log
+*.tmp
+*.bak
+*.swp
+
+# ----------------------
+# System files
+# ----------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------
+# IDE / Editor files
+# ----------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ----------------------
+# Ignore full lib folder
+# ----------------------
+lib/
+
+# ----------------------
+# Others
+# ----------------------
+*.sqlite3
+*.db
+*.pyc

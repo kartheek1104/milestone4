@@ -182,13 +182,28 @@ query_node = st.sidebar.text_input("Find neighbors for node")
 start_node = st.sidebar.text_input("Shortest path: Start node")
 end_node = st.sidebar.text_input("Shortest path: End node")
 triple_query = st.sidebar.text_input("Search triples (subject/object/relation)")
-semantic_query = ""
-sbert_model = None
-if SBERT_AVAILABLE:
-    semantic_query = st.sidebar.text_input("Semantic search (NL query)")
-    sbert_model = load_sbert_model()
 
-# Execute queries
+# Always show semantic search box
+semantic_query = st.sidebar.text_input("Semantic search (NL query)")
+
+sbert_model = None
+semantic_results = pd.DataFrame()
+semantic_nodes = []
+
+if SBERT_AVAILABLE and semantic_query:
+    sbert_model = load_sbert_model()
+    texts = [f"{s} {r} {o}" for s,r,o in zip(df["Subject"], df["Relation"], df["Object"])]
+    embeddings = sbert_model.encode(texts, convert_to_tensor=True)
+    q_emb = sbert_model.encode(semantic_query, convert_to_tensor=True)
+    scores = util.cos_sim(q_emb, embeddings)[0]
+    topk = torch.topk(scores, k=5)
+    top_indices = topk.indices.tolist()  
+    semantic_results = pd.DataFrame([texts[i] for i in top_indices], columns=["Triple"])
+    for i in top_indices:
+        s, r, o = df.iloc[int(i)]["Subject"], df.iloc[int(i)]["Relation"], df.iloc[int(i)]["Object"]
+        semantic_nodes.extend([s, o])
+
+# Execute other queries
 neighbor_nodes = list(G.neighbors(query_node)) if query_node in G.nodes() else []
 
 shortest_path = None
@@ -206,21 +221,7 @@ if triple_query:
                             or triple_query.lower() in str(r["Relation"]).lower(), axis=1)
     ]
 
-semantic_results = pd.DataFrame()
-semantic_nodes = []
 search_results = [n for n in G.nodes() if search.lower() in n.lower()] if search else []
-
-if sbert_model and semantic_query:
-    texts = [f"{s} {r} {o}" for s,r,o in zip(df["Subject"], df["Relation"], df["Object"])]
-    embeddings = sbert_model.encode(texts, convert_to_tensor=True)
-    q_emb = sbert_model.encode(semantic_query, convert_to_tensor=True)
-    scores = util.cos_sim(q_emb, embeddings)[0]
-    topk = torch.topk(scores, k=5)
-    top_indices = topk.indices.tolist()  
-    semantic_results = pd.DataFrame([texts[i] for i in top_indices], columns=["Triple"])
-    for i in top_indices:
-        s, r, o = df.iloc[int(i)]["Subject"], df.iloc[int(i)]["Relation"], df.iloc[int(i)]["Object"]
-        semantic_nodes.extend([s, o])
 
 # Combine highlights
 all_highlights = set(highlights + search_results) | set(neighbor_nodes) | set(semantic_nodes)
@@ -273,21 +274,20 @@ st.markdown("## Detected Communities")
 # Convert to DataFrame
 comm_df = pd.DataFrame(list(communities.items()), columns=["Node", "Community"])
 
-# Display all nodes with their community
-st.dataframe(comm_df)
-
-# Summary of community sizes
+# Compute community sizes
 comm_summary = comm_df["Community"].value_counts().reset_index()
 comm_summary.columns = ["Community", "Size"]
 
-st.markdown("### Community Sizes")
+# Add example nodes (top 5 nodes by degree in each community)
+example_nodes = []
+for comm_id in comm_summary["Community"]:
+    nodes_in_comm = comm_df[comm_df["Community"] == comm_id]["Node"].tolist()
+    example_nodes.append(", ".join(nodes_in_comm[:5]))  # top 5 nodes
+comm_summary["Example Nodes"] = example_nodes
+
+# Display table
 st.dataframe(comm_summary)
 
-# Optional: visualize as bar chart
-fig, ax = plt.subplots(figsize=(6,4))
-sns.barplot(x="Community", y="Size", data=comm_summary, palette="tab10", ax=ax)
-ax.set_title("Community Size Distribution")
-st.pyplot(fig)
 
 # ---------------- Save outputs ----------------
 output_dir = ensure_output_dir()
@@ -297,7 +297,7 @@ graphml_file = os.path.join(output_dir, "knowledge_graph.graphml")
 png_path = os.path.join(output_dir, "knowledge_graph.png")
 
 df_metrics.to_csv(central_csv, index=False)
-pd.DataFrame(list(communities.items()), columns=["Node", "Community"]).to_csv(comm_csv, index=False)
+comm_df.to_csv(comm_csv, index=False)
 
 try:
     nx.write_graphml(G, graphml_file)
@@ -323,7 +323,6 @@ try:
     plt.close()
 except Exception as e:
     st.warning(f"Could not save PNG: {e}")
-
 
 try:
     os.remove(html_path)

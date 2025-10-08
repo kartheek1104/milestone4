@@ -202,7 +202,7 @@ if sbert_model and semantic_query:
 elif semantic_query and not SBERT_AVAILABLE:
     st.warning("Semantic search is not available. Install sentence-transformers in requirements.txt.")
 
-
+# Execute other queries
 shortest_path = None
 if start_node in G.nodes() and end_node in G.nodes():
     try:
@@ -221,7 +221,7 @@ if triple_query:
 search_results = [n for n in G.nodes() if search.lower() in n.lower()] if search else []
 
 # Combine highlights
-all_highlights = set(highlights + search_results) | set(neighbor_nodes) | set(semantic_nodes)
+all_highlights = set(highlights + search_results) | set(semantic_nodes)
 html_path = create_pyvis_graph(G, node_attrs=node_attrs, highlight_nodes=all_highlights, height=f"{height}px", directed=directed)
 
 # ---------------- Visualization ----------------
@@ -245,10 +245,6 @@ for i, m in enumerate(metrics):
         ax.set_xlabel(m)
         ax.set_ylabel("Node")
         st.pyplot(fig)
-
-if neighbor_nodes:
-    st.subheader(f"Neighbors of '{query_node}'")
-    st.write(neighbor_nodes)
 
 if shortest_path is not None:
     st.subheader(f"Shortest Path: {start_node} → {end_node}")

@@ -42,7 +42,7 @@ def compute_centralities(G: nx.Graph):
     btw = nx.betweenness_centrality(G)
     clo = nx.closeness_centrality(G)
     try:
-        eig = nx.eigenvector_centrality_numpy(G)
+        eig = nx.eigenvector_centrality(G, max_iter=1000, tol=1e-06)
     except Exception:
         eig = {n: 0.0 for n in G.nodes()}
     return {"degree": deg, "betweenness": btw, "closeness": clo, "eigenvector": eig}
@@ -185,23 +185,23 @@ triple_query = st.sidebar.text_input("Search triples (subject/object/relation)")
 
 # Always show semantic search box
 semantic_query = st.sidebar.text_input("Semantic search (NL query)")
-
-sbert_model = None
+sbert_model = load_sbert_model() if SBERT_AVAILABLE else None
 semantic_results = pd.DataFrame()
 semantic_nodes = []
 
-if SBERT_AVAILABLE and semantic_query:
-    sbert_model = load_sbert_model()
+if sbert_model and semantic_query:
     texts = [f"{s} {r} {o}" for s,r,o in zip(df["Subject"], df["Relation"], df["Object"])]
     embeddings = sbert_model.encode(texts, convert_to_tensor=True)
     q_emb = sbert_model.encode(semantic_query, convert_to_tensor=True)
     scores = util.cos_sim(q_emb, embeddings)[0]
-    topk = torch.topk(scores, k=5)
+    topk = torch.topk(scores, k=min(5, len(scores)))
     top_indices = topk.indices.tolist()  
     semantic_results = pd.DataFrame([texts[i] for i in top_indices], columns=["Triple"])
     for i in top_indices:
         s, r, o = df.iloc[int(i)]["Subject"], df.iloc[int(i)]["Relation"], df.iloc[int(i)]["Object"]
         semantic_nodes.extend([s, o])
+elif semantic_query and not SBERT_AVAILABLE:
+    st.warning("Semantic search is not available. Install sentence-transformers in requirements.txt.")
 
 # Execute other queries
 neighbor_nodes = list(G.neighbors(query_node)) if query_node in G.nodes() else []
@@ -287,7 +287,6 @@ comm_summary["Example Nodes"] = example_nodes
 
 # Display table
 st.dataframe(comm_summary)
-
 
 # ---------------- Save outputs ----------------
 output_dir = ensure_output_dir()

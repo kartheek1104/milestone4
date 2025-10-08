@@ -178,12 +178,21 @@ highlights = sorted(G.nodes(), key=lambda n: node_attrs[n][metric], reverse=True
 
 # ---------------- Querying / Search ----------------
 st.sidebar.header("Query / Search Options")
-start_node = st.sidebar.text_input("Shortest path: Start node")
-end_node = st.sidebar.text_input("Shortest path: End node")
 triple_query = st.sidebar.text_input("Search triples (subject/object/relation)")
+semantic_query = st.sidebar.text_input("Semantic search (NL query)")
+
+# Node immediate connections
+st.sidebar.header("Directly Connected Entities")
+node_for_connections = st.sidebar.text_input("Enter node name")
+direct_connections = []
+if node_for_connections and node_for_connections in G.nodes():
+    direct_connections = list(G.neighbors(node_for_connections))
+    st.sidebar.write(f"Directly connected entities for **{node_for_connections}**:")
+    st.sidebar.write(", ".join(direct_connections))
+elif node_for_connections:
+    st.sidebar.warning("Node not found in graph.")
 
 # Always show semantic search box
-semantic_query = st.sidebar.text_input("Semantic search (NL query)")
 sbert_model = load_sbert_model() if SBERT_AVAILABLE else None
 semantic_results = pd.DataFrame()
 semantic_nodes = []
@@ -202,16 +211,6 @@ if sbert_model and semantic_query:
 elif semantic_query and not SBERT_AVAILABLE:
     st.warning("Semantic search is not available. Install sentence-transformers in requirements.txt.")
 
-# Compute shortest path
-shortest_path = None
-shortest_nodes = []
-if start_node in G.nodes() and end_node in G.nodes():
-    try:
-        shortest_path = nx.shortest_path(G, source=start_node, target=end_node)
-        shortest_nodes = shortest_path
-    except nx.NetworkXNoPath:
-        shortest_path = []
-
 matched_triples = pd.DataFrame()
 if triple_query:
     matched_triples = df[
@@ -222,8 +221,8 @@ if triple_query:
 
 search_results = [n for n in G.nodes() if search.lower() in n.lower()] if search else []
 
-# Combine highlights (centrality + search + semantic + shortest path)
-all_highlights = set(highlights + search_results + shortest_nodes + semantic_nodes)
+# Combine highlights (centrality + search + semantic + direct connections)
+all_highlights = set(highlights + search_results + semantic_nodes + direct_connections)
 html_path = create_pyvis_graph(G, node_attrs=node_attrs, highlight_nodes=all_highlights, height=f"{height}px", directed=directed)
 
 # ---------------- Visualization ----------------
@@ -231,6 +230,11 @@ st.subheader("Interactive Knowledge Graph")
 with open(html_path, encoding="utf-8") as f:
     html = f.read()
 components.html(html, height=height, scrolling=True)
+
+# Show direct connections below graph
+if node_for_connections and direct_connections:
+    st.markdown(f"### Directly Connected Entities for **{node_for_connections}**")
+    st.write(", ".join(direct_connections))
 
 # Centrality metrics visualization
 df_metrics = make_centrality_df(centralities, communities)
@@ -247,14 +251,6 @@ for i, m in enumerate(metrics):
         ax.set_xlabel(m)
         ax.set_ylabel("Node")
         st.pyplot(fig)
-
-# Show shortest path below graph
-if shortest_path is not None:
-    st.subheader(f"Shortest Path: {start_node} → {end_node}")
-    if shortest_path:
-        st.write(" → ".join(shortest_path))
-    else:
-        st.warning("No path found")
 
 if not matched_triples.empty:
     st.subheader(f"Matched Triples for '{triple_query}'")

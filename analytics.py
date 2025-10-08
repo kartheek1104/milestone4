@@ -178,7 +178,6 @@ highlights = sorted(G.nodes(), key=lambda n: node_attrs[n][metric], reverse=True
 
 # ---------------- Querying / Search ----------------
 st.sidebar.header("Query / Search Options")
-query_node = st.sidebar.text_input("Find neighbors for node")
 start_node = st.sidebar.text_input("Shortest path: Start node")
 end_node = st.sidebar.text_input("Shortest path: End node")
 triple_query = st.sidebar.text_input("Search triples (subject/object/relation)")
@@ -203,8 +202,6 @@ if sbert_model and semantic_query:
 elif semantic_query and not SBERT_AVAILABLE:
     st.warning("Semantic search is not available. Install sentence-transformers in requirements.txt.")
 
-# Execute other queries
-neighbor_nodes = list(G.neighbors(query_node)) if query_node in G.nodes() else []
 
 shortest_path = None
 if start_node in G.nodes() and end_node in G.nodes():

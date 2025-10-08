@@ -202,11 +202,13 @@ if sbert_model and semantic_query:
 elif semantic_query and not SBERT_AVAILABLE:
     st.warning("Semantic search is not available. Install sentence-transformers in requirements.txt.")
 
-# Execute other queries
+# Compute shortest path
 shortest_path = None
+shortest_nodes = []
 if start_node in G.nodes() and end_node in G.nodes():
     try:
         shortest_path = nx.shortest_path(G, source=start_node, target=end_node)
+        shortest_nodes = shortest_path
     except nx.NetworkXNoPath:
         shortest_path = []
 
@@ -220,8 +222,8 @@ if triple_query:
 
 search_results = [n for n in G.nodes() if search.lower() in n.lower()] if search else []
 
-# Combine highlights
-all_highlights = set(highlights + search_results) | set(semantic_nodes)
+# Combine highlights (centrality + search + semantic + shortest path)
+all_highlights = set(highlights + search_results + shortest_nodes + semantic_nodes)
 html_path = create_pyvis_graph(G, node_attrs=node_attrs, highlight_nodes=all_highlights, height=f"{height}px", directed=directed)
 
 # ---------------- Visualization ----------------
@@ -246,6 +248,7 @@ for i, m in enumerate(metrics):
         ax.set_ylabel("Node")
         st.pyplot(fig)
 
+# Show shortest path below graph
 if shortest_path is not None:
     st.subheader(f"Shortest Path: {start_node} → {end_node}")
     if shortest_path:

@@ -267,6 +267,28 @@ if not semantic_results.empty:
     st.subheader(f"Semantic Search Results for '{semantic_query}'")
     st.dataframe(semantic_results)
 
+# ---------------- Show Detected Communities ----------------
+st.markdown("## Detected Communities")
+
+# Convert to DataFrame
+comm_df = pd.DataFrame(list(communities.items()), columns=["Node", "Community"])
+
+# Display all nodes with their community
+st.dataframe(comm_df)
+
+# Summary of community sizes
+comm_summary = comm_df["Community"].value_counts().reset_index()
+comm_summary.columns = ["Community", "Size"]
+
+st.markdown("### Community Sizes")
+st.dataframe(comm_summary)
+
+# Optional: visualize as bar chart
+fig, ax = plt.subplots(figsize=(6,4))
+sns.barplot(x="Community", y="Size", data=comm_summary, palette="tab10", ax=ax)
+ax.set_title("Community Size Distribution")
+st.pyplot(fig)
+
 # ---------------- Save outputs ----------------
 output_dir = ensure_output_dir()
 central_csv = os.path.join(output_dir, "node_metrics.csv")

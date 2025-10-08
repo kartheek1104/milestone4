@@ -324,11 +324,6 @@ try:
 except Exception as e:
     st.warning(f"Could not save PNG: {e}")
 
-st.markdown(f"✅ **Saved outputs to folder:** `{output_dir}`")
-st.markdown(f"- Node metrics → `{central_csv}`")
-st.markdown(f"- Communities → `{comm_csv}`")
-st.markdown(f"- GraphML → `{graphml_file}`")
-st.markdown(f"- PNG Visualization → `{png_path}`")
 
 try:
     os.remove(html_path)

@@ -5,3 +5,4 @@ pyvis
 numpy
 matplotlib
 seaborn
+scipy

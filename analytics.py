@@ -1,6 +1,5 @@
 # streamlit_knowledge_graph_analysis_app.py
 # Knowledge Graph Visualization + Centrality + Community Detection + Querying + File Saving
-# Supports Directed / Undirected distinction and node highlighting for queries
 
 import streamlit as st
 import pandas as pd
@@ -126,7 +125,7 @@ with st.sidebar:
     if use_uploaded:
         uploaded = st.file_uploader("Upload CSV", type=["csv"])
         if uploaded:
-            df = pd.read_csv(uploaded)
+            df = pd.read_csv(uploaded, on_bad_lines='skip', encoding='utf-8')
             st.success(f"Loaded {uploaded.name}")
         else:
             st.stop()
@@ -134,7 +133,7 @@ with st.sidebar:
         if not os.path.exists("triples_cleaned.csv"):
             st.error("triples_cleaned.csv not found!")
             st.stop()
-        df = pd.read_csv("triples_cleaned.csv")
+        df = pd.read_csv("triples_cleaned.csv", on_bad_lines='skip', encoding='utf-8')
         st.info("Using default triples_cleaned.csv")
 
 if not {"Subject", "Relation", "Object"}.issubset(df.columns):
@@ -192,7 +191,7 @@ if node_for_connections and node_for_connections in G.nodes():
 elif node_for_connections:
     st.sidebar.warning("Node not found in graph.")
 
-# Always show semantic search box
+# Semantic search
 sbert_model = load_sbert_model() if SBERT_AVAILABLE else None
 semantic_results = pd.DataFrame()
 semantic_nodes = []
@@ -211,6 +210,7 @@ if sbert_model and semantic_query:
 elif semantic_query and not SBERT_AVAILABLE:
     st.warning("Semantic search is not available. Install sentence-transformers in requirements.txt.")
 
+# Matched triples
 matched_triples = pd.DataFrame()
 if triple_query:
     matched_triples = df[
@@ -231,14 +231,13 @@ with open(html_path, encoding="utf-8") as f:
     html = f.read()
 components.html(html, height=height, scrolling=True)
 
-# Show direct connections below graph
+# Show direct connections
 if node_for_connections and direct_connections:
     st.markdown(f"### Directly Connected Entities for **{node_for_connections}**")
     st.write(", ".join(direct_connections))
 
-# Centrality metrics visualization
+# Centrality metrics
 df_metrics = make_centrality_df(centralities, communities)
-
 st.markdown("## Top Centrality Nodes")
 cols = st.columns(4)
 metrics = ["Degree", "Betweenness", "Closeness", "Eigenvector"]
@@ -262,23 +261,89 @@ if not semantic_results.empty:
 
 # ---------------- Show Detected Communities ----------------
 st.markdown("## Detected Communities")
-
-# Convert to DataFrame
 comm_df = pd.DataFrame(list(communities.items()), columns=["Node", "Community"])
-
-# Compute community sizes
 comm_summary = comm_df["Community"].value_counts().reset_index()
 comm_summary.columns = ["Community", "Size"]
-
-# Add example nodes (top 5 nodes by degree in each community)
 example_nodes = []
 for comm_id in comm_summary["Community"]:
     nodes_in_comm = comm_df[comm_df["Community"] == comm_id]["Node"].tolist()
-    example_nodes.append(", ".join(nodes_in_comm[:5]))  # top 5 nodes
+    example_nodes.append(", ".join(nodes_in_comm[:5]))
 comm_summary["Example Nodes"] = example_nodes
-
-# Display table
 st.dataframe(comm_summary)
+
+# ---------------- Semantic Article Classification ----------------
+st.markdown("## Semantic Article Classification")
+if SBERT_AVAILABLE:
+    classification_categories = ["Science", "History", "Art", "Technology"]
+    classify_text = st.text_area("Enter text to classify")
+    if classify_text:
+        category_texts = [f"This article is about {c}" for c in classification_categories]
+        category_embeddings = sbert_model.encode(category_texts, convert_to_tensor=True)
+        text_emb = sbert_model.encode(classify_text, convert_to_tensor=True)
+        sims = util.cos_sim(text_emb, category_embeddings)[0]
+        pred_idx = int(torch.argmax(sims))
+        st.success(f"Predicted Category: **{classification_categories[pred_idx]}**")
+else:
+    st.warning("Install sentence-transformers to enable Semantic Article Classification.")
+
+st.markdown("## Cross-Domain Linking")
+
+if SBERT_AVAILABLE:
+    csv_path = "bbc-news-data.csv"
+    if os.path.exists(csv_path):
+        # Try reading CSV with common separators
+        try:
+            text_df = pd.read_csv(csv_path, on_bad_lines='skip', encoding='utf-8', sep="\t")
+        except:
+            text_df = pd.read_csv(csv_path, on_bad_lines='skip', encoding='utf-8', sep=",")
+
+        # Normalize column names
+        text_df.columns = text_df.columns.str.strip().str.lower()
+
+        # Keep only required columns
+        required_cols = ['category', 'title', 'content']
+        missing_cols = [c for c in required_cols if c not in text_df.columns]
+        if missing_cols:
+            st.error(f"CSV is missing required columns: {missing_cols}")
+        else:
+            text_df = text_df[required_cols].dropna().reset_index(drop=True)
+
+            @st.cache_data(show_spinner=False)
+            def compute_embeddings(contents):
+                return sbert_model.encode(contents, convert_to_tensor=True)
+
+            @st.cache_data(show_spinner=False)
+            def compute_cross_domain_links(df, _embeddings):
+                cross_links = []
+                for i in range(len(df)):
+                    for j in range(i + 1, len(df)):
+                        if df.loc[i, "category"] != df.loc[j, "category"]:
+                            sim = util.cos_sim(_embeddings[i], _embeddings[j]).item()
+                            cross_links.append({
+                                "Article 1": df.loc[i, "title"],
+                                "Category 1": df.loc[i, "category"],
+                                "Article 2": df.loc[j, "title"],
+                                "Category 2": df.loc[j, "category"],
+                                "Similarity": sim
+                            })
+                return pd.DataFrame(cross_links) if cross_links else pd.DataFrame()
+
+            with st.spinner("Computing embeddings for cross-domain linking..."):
+                article_embeddings = compute_embeddings(text_df["content"].tolist())
+
+            with st.spinner("Computing cross-domain similarity links..."):
+                cross_links_df = compute_cross_domain_links(text_df, article_embeddings)
+
+            if not cross_links_df.empty:
+                top_cross_links = cross_links_df.nlargest(20, "Similarity")
+                st.dataframe(top_cross_links)
+            else:
+                st.info("No cross-domain links found.")
+    else:
+        st.warning(f"{csv_path} not found. Place the dataset in the same folder.")
+else:
+    st.warning("Install sentence-transformers to enable Cross-Domain Linking.")
+
 
 # ---------------- Save outputs ----------------
 output_dir = ensure_output_dir()

@@ -1,0 +1,33 @@
+import pandas as pd
+import random
+
+categories = ["Science", "History", "Art", "Technology"]
+keywords = {
+    "Science": ["quantum", "experiment", "research", "physics", "biology"],
+    "History": ["revolution", "empire", "kingdom", "treaty", "war"],
+    "Art": ["painting", "sculpture", "gallery", "exhibition", "masterpiece"],
+    "Technology": ["AI", "software", "innovation", "robotics", "computer"]
+}
+
+articles = []
+
+for i in range(1, 51):
+    cat = random.choice(categories)
+    # Pick some cross-domain keywords (randomly pick 1 from another domain)
+    other_cats = [c for c in categories if c != cat]
+    cross_kw = random.choice(keywords[random.choice(other_cats)])
+    
+    content_words = random.sample(keywords[cat], 3) + [cross_kw]
+    random.shuffle(content_words)
+    content = " ".join([f"This article talks about {w}" for w in content_words])
+    
+    articles.append({
+        "category": cat,
+        "filename": f"article_{i}.txt",
+        "title": f"{cat} Article {i}",
+        "content": content
+    })
+
+df = pd.DataFrame(articles)
+df.to_csv("bbcnews-data.csv", index=False, encoding='utf-8')
+print("Generated bbc-news-data.csv with 50 articles.")

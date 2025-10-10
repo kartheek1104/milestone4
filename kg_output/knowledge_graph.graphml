@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="Relation" attr.type="string"/>
-<graph edgedefault="directed"><node id="peugeot"/>
+<graph edgedefault="undirected"><node id="peugeot"/>
 <node id="a Memorandum of Understanding"/>
 <node id="WPP"/>
 <node id="Grey Global"/>
@@ -843,6 +843,12 @@
 <edge source="China" target="the US Agriculture Department">
   <data key="d0">encourage</data>
 </edge>
+<edge source="China" target="Hugo Chavez">
+  <data key="d0">offer</data>
+</edge>
+<edge source="China" target="Honda">
+  <data key="d0">win</data>
+</edge>
 <edge source="China" target="Google News">
   <data key="d0">censor</data>
 </edge>
@@ -864,14 +870,20 @@
 <edge source="VEB" target="rosneft">
   <data key="d0">lend</data>
 </edge>
+<edge source="rosneft" target="Yukos">
+  <data key="d0">sue</data>
+</edge>
 <edge source="rosneft" target="sibneft">
   <data key="d0">snap</data>
 </edge>
 <edge source="rosneft" target="yuganskneftegaz">
   <data key="d0">become</data>
 </edge>
-<edge source="Yukos" target="rosneft">
-  <data key="d0">sue</data>
+<edge source="Yukos" target="Russia">
+  <data key="d0">force</data>
+</edge>
+<edge source="Yukos" target="Khodorkovsky">
+  <data key="d0">control</data>
 </edge>
 <edge source="SEC" target="Titan">
   <data key="d0">accuse</data>
@@ -883,13 +895,16 @@
   <data key="d0">ask</data>
 </edge>
 <edge source="Sullivan" target="Ebbers">
-  <data key="d0">implicate</data>
-</edge>
-<edge source="Ebbers" target="Sullivan">
   <data key="d0">direct</data>
 </edge>
 <edge source="Gazprom" target="Yugansk">
   <data key="d0">need</data>
+</edge>
+<edge source="Gazprom" target="Deutsche Bank">
+  <data key="d0">accuse</data>
+</edge>
+<edge source="Gazprom" target="Baikal Finance Group">
+  <data key="d0">outbid</data>
 </edge>
 <edge source="panke" target="Accura">
   <data key="d0">praise</data>
@@ -906,11 +921,14 @@
 <edge source="Boeing" target="sear">
   <data key="d0">sack</data>
 </edge>
-<edge source="martin" target="Boeing">
+<edge source="Boeing" target="martin">
   <data key="d0">sue</data>
 </edge>
-<edge source="Russia" target="Yukos">
-  <data key="d0">force</data>
+<edge source="Boeing" target="Airbus">
+  <data key="d0">overtake</data>
+</edge>
+<edge source="Russia" target="the European Court of Human Rights">
+  <data key="d0">sue</data>
 </edge>
 <edge source="Man Utd" target="Irishmen JP McManus">
   <data key="d0">bid</data>
@@ -927,9 +945,6 @@
 <edge source="Sergio Marchionne" target="Herbert Demel">
   <data key="d0">replace</data>
 </edge>
-<edge source="the European Court of Human Rights" target="Russia">
-  <data key="d0">sue</data>
-</edge>
 <edge source="Beijing" target="Sina">
   <data key="d0">view</data>
 </edge>
@@ -939,8 +954,20 @@
 <edge source="Brown" target="Greenspan">
   <data key="d0">introduce</data>
 </edge>
+<edge source="Brown" target="Digby Jones">
+  <data key="d0">warn</data>
+</edge>
 <edge source="Brown" target="Africa">
   <data key="d0">tour</data>
+</edge>
+<edge source="Brown" target="Alan Duncan">
+  <data key="d0">accuse</data>
+</edge>
+<edge source="Brown" target="Vincent Cable">
+  <data key="d0">accuse</data>
+</edge>
+<edge source="Brown" target="Alan Milburn">
+  <data key="d0">join</data>
 </edge>
 <edge source="Brown" target="mozambique">
   <data key="d0">visit</data>
@@ -948,14 +975,35 @@
 <edge source="Brown" target="Tanzania">
   <data key="d0">visit</data>
 </edge>
+<edge source="Brown" target="Blair">
+  <data key="d0">reinstate</data>
+</edge>
+<edge source="Brown" target="Campbell - Savours">
+  <data key="d0">challenge</data>
+</edge>
 <edge source="Brown" target="Oliver Letwin">
   <data key="d0">accuse</data>
 </edge>
 <edge source="Brown" target="Westminster">
   <data key="d0">stun</data>
 </edge>
+<edge source="Brown" target="Charles Kennedy">
+  <data key="d0">attack</data>
+</edge>
+<edge source="Brown" target="Kennedy">
+  <data key="d0">criticise</data>
+</edge>
+<edge source="Brown" target="the Lib Dems">
+  <data key="d0">accuse</data>
+</edge>
+<edge source="Brown" target="Michael Fallon">
+  <data key="d0">ask</data>
+</edge>
 <edge source="Brown" target="milburn">
   <data key="d0">oust</data>
+</edge>
+<edge source="Brown" target="labour">
+  <data key="d0">maintain</data>
 </edge>
 <edge source="Brown" target="Eriksson">
   <data key="d0">start</data>
@@ -963,16 +1011,25 @@
 <edge source="Gordon Brown" target="greenspan">
   <data key="d0">invite</data>
 </edge>
+<edge source="Gordon Brown" target="Tony Blair">
+  <data key="d0">promise</data>
+</edge>
+<edge source="Gordon Brown" target="Blair and Brown">
+  <data key="d0">criticise</data>
+</edge>
 <edge source="Air China" target="the London Stock Exchange">
   <data key="d0">pick</data>
 </edge>
 <edge source="Air China" target="London">
   <data key="d0">choose</data>
 </edge>
+<edge source="the London Stock Exchange" target="euronext">
+  <data key="d0">approach</data>
+</edge>
 <edge source="ghosn" target="Nissan">
   <data key="d0">transform</data>
 </edge>
-<edge source="Toshiyuki Shiga" target="Nissan">
+<edge source="Nissan" target="Toshiyuki Shiga">
   <data key="d0">run</data>
 </edge>
 <edge source="Ukraine" target="Leonid Kuchma">
@@ -981,16 +1038,13 @@
 <edge source="Bayern Munich" target="Borussia Dortmund">
   <data key="d0">beat</data>
 </edge>
-<edge source="Deutsche Bank" target="Gazprom">
-  <data key="d0">accuse</data>
-</edge>
 <edge source="Deutsche Bank" target="the Russian Federation">
   <data key="d0">accuse</data>
 </edge>
 <edge source="Lloyd 's of London" target="FSA">
   <data key="d0">chide</data>
 </edge>
-<edge source="Prettejohn" target="FSA">
+<edge source="FSA" target="Prettejohn">
   <data key="d0">urge</data>
 </edge>
 <edge source="morrow" target="Shiro Tsuda">
@@ -999,7 +1053,7 @@
 <edge source="South Korea" target="Economy Ministry">
   <data key="d0">give</data>
 </edge>
-<edge source="LSE" target="London">
+<edge source="London" target="LSE">
   <data key="d0">choose</data>
 </edge>
 <edge source="Werner Seifert" target="Clara Furse">
@@ -1014,6 +1068,15 @@
 <edge source="the Securities &amp; Exchange Commission" target="Fannie Mae">
   <data key="d0">accuse</data>
 </edge>
+<edge source="Fannie Mae" target="Franklin Raines">
+  <data key="d0">leave</data>
+</edge>
+<edge source="Fannie Mae" target="Tim Howard">
+  <data key="d0">leave</data>
+</edge>
+<edge source="Fannie Mae" target="the Securities and Exchange Commission">
+  <data key="d0">admonish</data>
+</edge>
 <edge source="Paul Tellier" target="Bombardier">
   <data key="d0">leave</data>
 </edge>
@@ -1023,44 +1086,20 @@
 <edge source="Airbus" target="Noel Forgeard">
   <data key="d0">head</data>
 </edge>
-<edge source="Airbus" target="Boeing">
-  <data key="d0">overtake</data>
-</edge>
-<edge source="Baikal Finance Group" target="Gazprom">
-  <data key="d0">outbid</data>
-</edge>
-<edge source="Khodorkovsky" target="Yukos">
-  <data key="d0">control</data>
-</edge>
 <edge source="s&amp;n" target="Newcastle">
   <data key="d0">extend</data>
 </edge>
 <edge source="s&amp;n" target="scottish">
   <data key="d0">extend</data>
 </edge>
-<edge source="euronext" target="the London Stock Exchange">
-  <data key="d0">approach</data>
-</edge>
-<edge source="Franklin Raines" target="Fannie Mae">
-  <data key="d0">leave</data>
-</edge>
-<edge source="Tim Howard" target="Fannie Mae">
-  <data key="d0">leave</data>
-</edge>
-<edge source="the Securities and Exchange Commission" target="Fannie Mae">
-  <data key="d0">admonish</data>
+<edge source="Newcastle" target="Lee Bowyer">
+  <data key="d0">put</data>
 </edge>
 <edge source="Vijay Mallya" target="Kingfisher Airlines">
   <data key="d0">set</data>
 </edge>
 <edge source="Chavez" target="the Ministry of Commerce">
   <data key="d0">invite</data>
-</edge>
-<edge source="Hugo Chavez" target="China">
-  <data key="d0">offer</data>
-</edge>
-<edge source="Honda" target="China">
-  <data key="d0">win</data>
 </edge>
 <edge source="the Association for Payment Clearing Services ( Apacs ) apac" target="Helen Carroll">
   <data key="d0">choose</data>
@@ -1079,6 +1118,9 @@
 </edge>
 <edge source="tsunami" target="Sri Lanka">
   <data key="d0">cost</data>
+</edge>
+<edge source="Sri Lanka" target="Hilary Benn">
+  <data key="d0">visit</data>
 </edge>
 <edge source="citigroup" target="Standard Chartered">
   <data key="d0">beat</data>
@@ -1107,6 +1149,9 @@
 <edge source="Europe" target="Asia">
   <data key="d0">ask</data>
 </edge>
+<edge source="Europe" target="turnbull">
+  <data key="d0">travel</data>
+</edge>
 <edge source="Crown Prince Frederik" target="New York">
   <data key="d0">visit</data>
 </edge>
@@ -1116,17 +1161,20 @@
 <edge source="Pamela Travers" target="Mary Poppins">
   <data key="d0">found</data>
 </edge>
+<edge source="Mary Poppins" target="producer">
+  <data key="d0">beat</data>
+</edge>
 <edge source="the Theatregoers ' Choice Awards" target="Christian Slater">
   <data key="d0">appoint</data>
+</edge>
+<edge source="Christian Slater" target="slater">
+  <data key="d0">play</data>
 </edge>
 <edge source="McCaughrean" target="the Whitbread Prize">
   <data key="d0">win</data>
 </edge>
 <edge source="the Canadian Broadcasting Corporation" target="flight">
   <data key="d0">acquire</data>
-</edge>
-<edge source="slater" target="Christian Slater">
-  <data key="d0">play</data>
 </edge>
 <edge source="slater" target="Dallas Roberts">
   <data key="d0">replace</data>
@@ -1137,7 +1185,7 @@
 <edge source="CFCA" target="Thomas Haden Church">
   <data key="d0">award</data>
 </edge>
-<edge source="Imelda Staunton" target="CFCA">
+<edge source="CFCA" target="Imelda Staunton">
   <data key="d0">win</data>
 </edge>
 <edge source="the Southeastern Film Critics" target="sideway">
@@ -1151,6 +1199,21 @@
 </edge>
 <edge source="Takuo Miyagishima" target="Oscar">
   <data key="d0">award</data>
+</edge>
+<edge source="Oscar" target="Miyazaki">
+  <data key="d0">win</data>
+</edge>
+<edge source="Oscar" target="conti">
+  <data key="d0">receive</data>
+</edge>
+<edge source="Oscar" target="Vera Drake">
+  <data key="d0">lead</data>
+</edge>
+<edge source="Oscar" target="eastwood">
+  <data key="d0">take</data>
+</edge>
+<edge source="Oscar" target="Sandy Powell">
+  <data key="d0">win</data>
 </edge>
 <edge source="Evans" target="mann">
   <data key="d0">sue</data>
@@ -1170,7 +1233,7 @@
 <edge source="Hilary Swank" target="the Screen Actors Guild Awards">
   <data key="d0">win</data>
 </edge>
-<edge source="Jamie Foxx" target="the Screen Actors Guild Awards">
+<edge source="the Screen Actors Guild Awards" target="Jamie Foxx">
   <data key="d0">win</data>
 </edge>
 <edge source="Alan Titchmarsh" target="Ground Force">
@@ -1206,9 +1269,6 @@
 <edge source="Swank" target="Best Actress">
   <data key="d0">win</data>
 </edge>
-<edge source="Miyazaki" target="Oscar">
-  <data key="d0">win</data>
-</edge>
 <edge source="Marlon Brando" target="the Academy Award">
   <data key="d0">win</data>
 </edge>
@@ -1230,7 +1290,7 @@
 <edge source="Rick Rubin" target="Def Jam">
   <data key="d0">found</data>
 </edge>
-<edge source="Russell Simmons" target="Def Jam">
+<edge source="Def Jam" target="Russell Simmons">
   <data key="d0">found</data>
 </edge>
 <edge source="Merle Kilgore" target="Ring of fire">
@@ -1263,11 +1323,11 @@
 <edge source="Franz ferdinand" target="Morrissey">
   <data key="d0">beat</data>
 </edge>
+<edge source="keane" target="razorlight">
+  <data key="d0">follow</data>
+</edge>
 <edge source="keane" target="Vieira">
   <data key="d0">accuse</data>
-</edge>
-<edge source="razorlight" target="keane">
-  <data key="d0">follow</data>
 </edge>
 <edge source="Rapper Eminem" target="Elvis">
   <data key="d0">deny</data>
@@ -1293,7 +1353,7 @@
 <edge source="Denise" target="Johnny Vaughan">
   <data key="d0">lose</data>
 </edge>
-<edge source="johnny" target="Johnny Vaughan">
+<edge source="Johnny Vaughan" target="johnny">
   <data key="d0">lose</data>
 </edge>
 <edge source="BBC" target="little Britain">
@@ -1301,6 +1361,9 @@
 </edge>
 <edge source="BBC" target="Freeview">
   <data key="d0">launch</data>
+</edge>
+<edge source="BBC" target="Peter Mandelson">
+  <data key="d0">warn</data>
 </edge>
 <edge source="BBC" target="bafta">
   <data key="d0">lead</data>
@@ -1314,6 +1377,12 @@
 <edge source="Britain" target="Matt Lucas">
   <data key="d0">star</data>
 </edge>
+<edge source="Britain" target="UKIP">
+  <data key="d0">take</data>
+</edge>
+<edge source="Britain" target="labour">
+  <data key="d0">take</data>
+</edge>
 <edge source="Britain" target="USA">
   <data key="d0">draw</data>
 </edge>
@@ -1325,6 +1394,12 @@
 </edge>
 <edge source="great british Spelling Test" target="Spooks Interactive">
   <data key="d0">take</data>
+</edge>
+<edge source="olympic" target="Kenteris">
+  <data key="d0">quit</data>
+</edge>
+<edge source="olympic" target="Thanou">
+  <data key="d0">quit</data>
 </edge>
 <edge source="Guardian" target="the Tour de France">
   <data key="d0">take</data>
@@ -1359,7 +1434,7 @@
 <edge source="Bill Clinton" target="Grammy">
   <data key="d0">pick</data>
 </edge>
-<edge source="Rod Stewart" target="Grammy">
+<edge source="Grammy" target="Rod Stewart">
   <data key="d0">win</data>
 </edge>
 <edge source="Rod Stewart" target="Percy Sledge">
@@ -1371,14 +1446,8 @@
 <edge source="Nathan Lane" target="Lee Evans">
   <data key="d0">beat</data>
 </edge>
-<edge source="producer" target="Mary Poppins">
-  <data key="d0">beat</data>
-</edge>
 <edge source="the Society of London" target="the Olivier Awards">
   <data key="d0">hand</data>
-</edge>
-<edge source="conti" target="Oscar">
-  <data key="d0">receive</data>
 </edge>
 <edge source="Goodrem" target="the Pepsi Viewers Choice Award">
   <data key="d0">take</data>
@@ -1404,6 +1473,9 @@
 <edge source="the Academy Awards" target="Academy Awards">
   <data key="d0">flourish</data>
 </edge>
+<edge source="Academy Awards" target="Sky Movies 1">
+  <data key="d0">show</data>
+</edge>
 <edge source="Ferry , Mackay" target="Roxy Music">
   <data key="d0">form</data>
 </edge>
@@ -1412,9 +1484,6 @@
 </edge>
 <edge source="Simon Fuller" target="idol">
   <data key="d0">sell</data>
-</edge>
-<edge source="Vera Drake" target="Oscar">
-  <data key="d0">lead</data>
 </edge>
 <edge source="Morgan Spurlock" target="McDonalds">
   <data key="d0">force</data>
@@ -1428,7 +1497,7 @@
 <edge source="Kate Winslet" target="Heather Craney">
   <data key="d0">outdo</data>
 </edge>
-<edge source="Natalie Portman" target="Heather Craney">
+<edge source="Heather Craney" target="Natalie Portman">
   <data key="d0">outdo</data>
 </edge>
 <edge source="Sienna Miller" target="glamour">
@@ -1443,11 +1512,8 @@
 <edge source="titanic" target="oscar">
   <data key="d0">take</data>
 </edge>
-<edge source="Dave Karger" target="oscar">
+<edge source="oscar" target="Dave Karger">
   <data key="d0">maintain</data>
-</edge>
-<edge source="Sky Movies 1" target="Academy Awards">
-  <data key="d0">show</data>
 </edge>
 <edge source="Briton" target="Oscar Three">
   <data key="d0">win</data>
@@ -1455,14 +1521,8 @@
 <edge source="Briton" target="Kenyan Susan Chepkemei">
   <data key="d0">hold</data>
 </edge>
-<edge source="eastwood" target="Oscar">
-  <data key="d0">take</data>
-</edge>
 <edge source="arnold" target="Motormouth">
   <data key="d0">show</data>
-</edge>
-<edge source="Sandy Powell" target="Oscar">
-  <data key="d0">win</data>
 </edge>
 <edge source="Debra Hill" target="screenwriter">
   <data key="d0">die</data>
@@ -1473,11 +1533,29 @@
 <edge source="the Freedom of Information Act" target="wale">
   <data key="d0">cover</data>
 </edge>
+<edge source="england" target="Spain">
+  <data key="d0">dominate</data>
+</edge>
+<edge source="england" target="Charlie Hodgson">
+  <data key="d0">put</data>
+</edge>
 <edge source="england" target="Danny Grewcock">
   <data key="d0">lock</data>
 </edge>
+<edge source="england" target="France">
+  <data key="d0">beat</data>
+</edge>
+<edge source="england" target="wale">
+  <data key="d0">play</data>
+</edge>
+<edge source="england" target="Parker">
+  <data key="d0">miss</data>
+</edge>
 <edge source="england" target="Italy">
   <data key="d0">play</data>
+</edge>
+<edge source="england" target="robinson">
+  <data key="d0">lead</data>
 </edge>
 <edge source="england" target="Ireland">
   <data key="d0">turn</data>
@@ -1485,20 +1563,32 @@
 <edge source="england" target="Wilkinson">
   <data key="d0">miss</data>
 </edge>
-<edge source="wale" target="england">
-  <data key="d0">play</data>
+<edge source="wale" target="Giggs">
+  <data key="d0">lead</data>
+</edge>
+<edge source="wale" target="Ryan Giggs">
+  <data key="d0">captain</data>
+</edge>
+<edge source="wale" target="Campese">
+  <data key="d0">tip</data>
+</edge>
+<edge source="wale" target="the All black">
+  <data key="d0">swat</data>
+</edge>
+<edge source="wale" target="France">
+  <data key="d0">take</data>
 </edge>
 <edge source="labour" target="Manchester the Labour Party">
   <data key="d0">choose</data>
 </edge>
-<edge source="labour" target="Brown">
-  <data key="d0">maintain</data>
+<edge source="labour" target="liberal">
+  <data key="d0">keep</data>
 </edge>
-<edge source="labour" target="Britain">
-  <data key="d0">take</data>
-</edge>
-<edge source="Digby Jones" target="Brown">
+<edge source="labour" target="Liberal Democrats">
   <data key="d0">warn</data>
+</edge>
+<edge source="labour" target="Liam Fox">
+  <data key="d0">accuse</data>
 </edge>
 <edge source="Fox" target="Blair">
   <data key="d0">accuse</data>
@@ -1509,34 +1599,49 @@
 <edge source="Blair" target="Cabinet">
   <data key="d0">bypass</data>
 </edge>
-<edge source="Blair" target="Brown">
-  <data key="d0">reinstate</data>
+<edge source="Blair" target="John McCain">
+  <data key="d0">visit</data>
 </edge>
 <edge source="Blair" target="labour party">
   <data key="d0">contrast</data>
 </edge>
+<edge source="Blair" target="Oliver Letwin">
+  <data key="d0">accuse</data>
+</edge>
+<edge source="Blair" target="Michael Howard">
+  <data key="d0">accuse</data>
+</edge>
 <edge source="Campbell" target="Newsnight">
   <data key="d0">message</data>
 </edge>
-<edge source="Peter Mandelson" target="BBC">
-  <data key="d0">warn</data>
+<edge source="Campbell" target="Roger Wilson">
+  <data key="d0">join</data>
+</edge>
+<edge source="Campbell" target="Ronan McCormack">
+  <data key="d0">join</data>
+</edge>
+<edge source="Tony Blair" target="Michael Howard">
+  <data key="d0">accuse</data>
 </edge>
 <edge source="Tony Blair" target="parliament">
   <data key="d0">assure</data>
 </edge>
+<edge source="Tony Blair" target="Goldsmith">
+  <data key="d0">warn</data>
+</edge>
 <edge source="Tony Blair" target="Blunkett">
   <data key="d0">join</data>
 </edge>
-<edge source="Tony Blair" target="Gordon Brown">
-  <data key="d0">promise</data>
+<edge source="Tony Blair" target="Blair and Brown">
+  <data key="d0">criticise</data>
+</edge>
+<edge source="Tony Blair" target="tory">
+  <data key="d0">accuse</data>
+</edge>
+<edge source="Cabinet" target="Kelly">
+  <data key="d0">enter</data>
 </edge>
 <edge source="Jack Cunningham" target="Butler">
-  <data key="d0">accuse</data>
-</edge>
-<edge source="Michael Howard" target="Tony Blair">
-  <data key="d0">accuse</data>
-</edge>
-<edge source="Michael Howard" target="Blair">
   <data key="d0">accuse</data>
 </edge>
 <edge source="the Welsh Assembly Government" target="the Arts Council of Wales">
@@ -1547,9 +1652,6 @@
 </edge>
 <edge source="Makarov" target="KGB">
   <data key="d0">join</data>
-</edge>
-<edge source="Kelly" target="Cabinet">
-  <data key="d0">enter</data>
 </edge>
 <edge source="MAB" target="muslim">
   <data key="d0">urge</data>
@@ -1569,22 +1671,10 @@
 <edge source="Hockney" target="UKIP">
   <data key="d0">leave</data>
 </edge>
-<edge source="UKIP" target="Britain">
-  <data key="d0">take</data>
-</edge>
 <edge source="Lucy" target="pound">
   <data key="d0">track</data>
 </edge>
-<edge source="Alan Duncan" target="Brown">
-  <data key="d0">accuse</data>
-</edge>
-<edge source="Vincent Cable" target="Brown">
-  <data key="d0">accuse</data>
-</edge>
 <edge source="Hilary Benn" target="Aceh">
-  <data key="d0">visit</data>
-</edge>
-<edge source="Hilary Benn" target="Sri Lanka">
   <data key="d0">visit</data>
 </edge>
 <edge source="howard" target="Yeo">
@@ -1596,20 +1686,23 @@
 <edge source="howard" target="Crosby">
   <data key="d0">appoint</data>
 </edge>
+<edge source="howard" target="Alan Milburn">
+  <data key="d0">accuse</data>
+</edge>
 <edge source="howard" target="the Lib Dems">
   <data key="d0">attack</data>
+</edge>
+<edge source="howard" target="Simon Hughes">
+  <data key="d0">brand</data>
+</edge>
+<edge source="howard" target="the Pro - life Alliance">
+  <data key="d0">congratulate</data>
 </edge>
 <edge source="Alan Milburn" target="tory">
   <data key="d0">accuse</data>
 </edge>
-<edge source="Alan Milburn" target="Brown">
-  <data key="d0">join</data>
-</edge>
-<edge source="Alan Milburn" target="howard">
-  <data key="d0">accuse</data>
-</edge>
-<edge source="tory" target="Tony Blair">
-  <data key="d0">accuse</data>
+<edge source="tory" target="Liberal Democrats">
+  <data key="d0">warn</data>
 </edge>
 <edge source="tory" target="Erewash">
   <data key="d0">hold</data>
@@ -1620,44 +1713,20 @@
 <edge source="Alan Clark" target="nichola">
   <data key="d0">replace</data>
 </edge>
-<edge source="Goldsmith" target="Tony Blair">
-  <data key="d0">warn</data>
-</edge>
 <edge source="Oliver Finegold" target="Livingstone">
   <data key="d0">approach</data>
-</edge>
-<edge source="John McCain" target="Blair">
-  <data key="d0">visit</data>
 </edge>
 <edge source="mccabe" target="8.1bn">
   <data key="d0">promise</data>
 </edge>
-<edge source="Blair and Brown" target="Gordon Brown">
-  <data key="d0">criticise</data>
-</edge>
-<edge source="Blair and Brown" target="Tony Blair">
-  <data key="d0">criticise</data>
-</edge>
-<edge source="Campbell - Savours" target="Brown">
-  <data key="d0">challenge</data>
-</edge>
 <edge source="Charles Kennedy" target="conservative">
   <data key="d0">dismiss</data>
-</edge>
-<edge source="Charles Kennedy" target="Brown">
-  <data key="d0">attack</data>
-</edge>
-<edge source="Liberal Democrats" target="tory">
-  <data key="d0">warn</data>
-</edge>
-<edge source="Liberal Democrats" target="labour">
-  <data key="d0">warn</data>
 </edge>
 <edge source="Robert Kilroy - Silk" target="Independence Party">
   <data key="d0">quit</data>
 </edge>
-<edge source="Oliver Letwin" target="Blair">
-  <data key="d0">accuse</data>
+<edge source="Oliver Letwin" target="Ian McCartney">
+  <data key="d0">describe</data>
 </edge>
 <edge source="Baroness Amos" target="kinnock">
   <data key="d0">accompany</data>
@@ -1668,41 +1737,26 @@
 <edge source="galloway" target="telegraph">
   <data key="d0">sue</data>
 </edge>
-<edge source="liberal" target="labour">
-  <data key="d0">keep</data>
-</edge>
 <edge source="labour mp" target="Jackson">
   <data key="d0">welcome</data>
-</edge>
-<edge source="Ian McCartney" target="Oliver Letwin">
-  <data key="d0">describe</data>
 </edge>
 <edge source="Kennedy" target="Leicester South">
   <data key="d0">visit</data>
 </edge>
-<edge source="Kennedy" target="Brown">
-  <data key="d0">criticise</data>
-</edge>
-<edge source="the Lib Dems" target="Brown">
-  <data key="d0">accuse</data>
-</edge>
-<edge source="Simon Hughes" target="howard">
-  <data key="d0">brand</data>
-</edge>
-<edge source="Liam Fox" target="labour">
-  <data key="d0">accuse</data>
-</edge>
-<edge source="Michael Fallon" target="Brown">
-  <data key="d0">ask</data>
-</edge>
-<edge source="milburn" target="Brown">
-  <data key="d0">oust</data>
-</edge>
-<edge source="the Pro - life Alliance" target="howard">
-  <data key="d0">congratulate</data>
-</edge>
 <edge source="UK athletic" target="Team GB">
   <data key="d0">kitte</data>
+</edge>
+<edge source="UK athletic" target="collins">
+  <data key="d0">appoint</data>
+</edge>
+<edge source="Team GB" target="Chris Tomlinson">
+  <data key="d0">boost</data>
+</edge>
+<edge source="Team GB" target="Hayley Yelling">
+  <data key="d0">represent</data>
+</edge>
+<edge source="Team GB" target="Jo Pavey">
+  <data key="d0">represent</data>
 </edge>
 <edge source="El Guerrouj" target="Bekele">
   <data key="d0">meet</data>
@@ -1713,18 +1767,6 @@
 <edge source="anti - doping agency" target="Balco">
   <data key="d0">accuse</data>
 </edge>
-<edge source="collins" target="UK athletic">
-  <data key="d0">appoint</data>
-</edge>
-<edge source="turnbull" target="Europe">
-  <data key="d0">travel</data>
-</edge>
-<edge source="Kenteris" target="olympic">
-  <data key="d0">quit</data>
-</edge>
-<edge source="Thanou" target="olympic">
-  <data key="d0">quit</data>
-</edge>
 <edge source="gebrselassie" target="Jaouad Gharib">
   <data key="d0">face</data>
 </edge>
@@ -1734,17 +1776,8 @@
 <edge source="Sotherton Jade Johnson" target="Kelly Sotherton">
   <data key="d0">edge</data>
 </edge>
-<edge source="Chris Tomlinson" target="Team GB">
-  <data key="d0">boost</data>
-</edge>
 <edge source="holme" target="athens">
   <data key="d0">leave</data>
-</edge>
-<edge source="Hayley Yelling" target="Team GB">
-  <data key="d0">represent</data>
-</edge>
-<edge source="Jo Pavey" target="Team GB">
-  <data key="d0">represent</data>
 </edge>
 <edge source="moye u - turn" target="James Beattie">
   <data key="d0">discipline</data>
@@ -1767,8 +1800,23 @@
 <edge source="John Arne Riise" target="Liverpool">
   <data key="d0">volley</data>
 </edge>
+<edge source="Liverpool" target="Chelsea">
+  <data key="d0">test</data>
+</edge>
+<edge source="Liverpool" target="Parry">
+  <data key="d0">reveal</data>
+</edge>
+<edge source="Liverpool" target="the Football Association">
+  <data key="d0">charge</data>
+</edge>
+<edge source="Liverpool" target="Steven Gerrard">
+  <data key="d0">put</data>
+</edge>
 <edge source="Liverpool" target="Luis Garcia">
   <data key="d0">bring</data>
+</edge>
+<edge source="Liverpool" target="Neil Mellor">
+  <data key="d0">give</data>
 </edge>
 <edge source="Luis Garcia" target="Dietmar Hamann">
   <data key="d0">fee</data>
@@ -1782,9 +1830,6 @@
 <edge source="Fernando Hierro" target="Dyer on the edge of the area">
   <data key="d0">chop</data>
 </edge>
-<edge source="Lee Bowyer" target="Newcastle">
-  <data key="d0">put</data>
-</edge>
 <edge source="Alan Archibald" target="United">
   <data key="d0">prod</data>
 </edge>
@@ -1796,6 +1841,9 @@
 </edge>
 <edge source="Stan Varga" target="celtic">
   <data key="d0">head</data>
+</edge>
+<edge source="celtic" target="ranger">
+  <data key="d0">find</data>
 </edge>
 <edge source="Gus Bahoken" target="Miller">
   <data key="d0">foul</data>
@@ -1812,9 +1860,6 @@
 <edge source="France" target="Serge Betsen">
   <data key="d0">bring</data>
 </edge>
-<edge source="France" target="england">
-  <data key="d0">beat</data>
-</edge>
 <edge source="France" target="Scotland">
   <data key="d0">beat</data>
 </edge>
@@ -1827,35 +1872,50 @@
 <edge source="France" target="another Six Nations Grand Slam">
   <data key="d0">claim</data>
 </edge>
-<edge source="France" target="wale">
-  <data key="d0">take</data>
+<edge source="France" target="Dimitri Yachvili">
+  <data key="d0">boot</data>
+</edge>
+<edge source="France" target="Yachvili">
+  <data key="d0">put</data>
+</edge>
+<edge source="France" target="Myskina">
+  <data key="d0">play</data>
+</edge>
+<edge source="France" target="Karina Habsudova">
+  <data key="d0">beat</data>
+</edge>
+<edge source="France" target="Karol Kucera">
+  <data key="d0">beat</data>
+</edge>
+<edge source="Ireland" target="o'driscoll">
+  <data key="d0">insist</data>
+</edge>
+<edge source="Ireland" target="Italy">
+  <data key="d0">guide</data>
 </edge>
 <edge source="Ireland" target="Grand Slam">
   <data key="d0">win</data>
 </edge>
-<edge source="Chelsea" target="Liverpool">
-  <data key="d0">test</data>
+<edge source="Ireland" target="Doyle">
+  <data key="d0">coach</data>
+</edge>
+<edge source="Ireland" target="Argentina">
+  <data key="d0">shock</data>
 </edge>
 <edge source="Chelsea" target="Barcelona">
   <data key="d0">take</data>
 </edge>
-<edge source="Parry" target="Liverpool">
-  <data key="d0">reveal</data>
-</edge>
-<edge source="Carragher" target="Eriksson">
+<edge source="Eriksson" target="Carragher">
   <data key="d0">start</data>
 </edge>
-<edge source="Giggs" target="wale">
-  <data key="d0">lead</data>
-</edge>
-<edge source="Manchester United" target="Giggs">
+<edge source="Giggs" target="Manchester United">
   <data key="d0">offer</data>
 </edge>
 <edge source="Manchester United" target="FA Cup">
   <data key="d0">avoid</data>
 </edge>
-<edge source="Ryan Giggs" target="wale">
-  <data key="d0">captain</data>
+<edge source="Ryan Giggs" target="ferguson">
+  <data key="d0">hail</data>
 </edge>
 <edge source="Mladenovic" target="Mikel Arteta">
   <data key="d0">replace</data>
@@ -1872,14 +1932,23 @@
 <edge source="Cole" target="Carlton Cole">
   <data key="d0">face</data>
 </edge>
+<edge source="Jose Mourinho" target="Bobby Robson">
+  <data key="d0">offer</data>
+</edge>
 <edge source="Australia" target="South Africa">
   <data key="d0">face</data>
+</edge>
+<edge source="Australia" target="the United States">
+  <data key="d0">defeat</data>
+</edge>
+<edge source="South Africa" target="Dallaglio">
+  <data key="d0">tour</data>
 </edge>
 <edge source="irish" target="Italy">
   <data key="d0">beat</data>
 </edge>
-<edge source="Italy" target="Ireland">
-  <data key="d0">guide</data>
+<edge source="irish" target="Pumas">
+  <data key="d0">shock</data>
 </edge>
 <edge source="Iran" target="Arash Miresmaeili">
   <data key="d0">give</data>
@@ -1898,9 +1967,6 @@
 </edge>
 <edge source="hartson" target="Sotiris Kyrgiakos">
   <data key="d0">dispossese</data>
-</edge>
-<edge source="ranger" target="celtic">
-  <data key="d0">find</data>
 </edge>
 <edge source="ranger" target="kilmarnock">
   <data key="d0">visit</data>
@@ -1932,9 +1998,6 @@
 <edge source="spur" target="Brighton">
   <data key="d0">entertain</data>
 </edge>
-<edge source="Bobby Robson" target="Jose Mourinho">
-  <data key="d0">offer</data>
-</edge>
 <edge source="charlton" target="Simon Royce">
   <data key="d0">recall</data>
 </edge>
@@ -1949,6 +2012,9 @@
 </edge>
 <edge source="Carlo Cudicini" target="Carling Cup">
   <data key="d0">miss</data>
+</edge>
+<edge source="Carling Cup" target="Fulham">
+  <data key="d0">face</data>
 </edge>
 <edge source="Kevin Keegan" target="Robbie Fowler">
   <data key="d0">praise</data>
@@ -1986,9 +2052,6 @@
 <edge source="Henry" target="heinze">
   <data key="d0">catch</data>
 </edge>
-<edge source="Fulham" target="Carling Cup">
-  <data key="d0">face</data>
-</edge>
 <edge source="Fulham" target="watford">
   <data key="d0">face</data>
 </edge>
@@ -2001,11 +2064,11 @@
 <edge source="Maradona" target="corinthian">
   <data key="d0">join</data>
 </edge>
-<edge source="Spain" target="england">
-  <data key="d0">dominate</data>
-</edge>
 <edge source="Spain" target="the Davis Cup">
   <data key="d0">win</data>
+</edge>
+<edge source="Spain" target="Moya">
+  <data key="d0">lead</data>
 </edge>
 <edge source="kerr" target="Mick McCarthy">
   <data key="d0">succeed</data>
@@ -2018,9 +2081,6 @@
 </edge>
 <edge source="Alex Ferguson" target="Neale Barry">
   <data key="d0">influence</data>
-</edge>
-<edge source="the Football Association" target="Liverpool">
-  <data key="d0">charge</data>
 </edge>
 <edge source="the Football Association" target="Millwall Liverpool">
   <data key="d0">charge</data>
@@ -2037,9 +2097,6 @@
 <edge source="ferguson" target="Roy Keane">
   <data key="d0">hail</data>
 </edge>
-<edge source="ferguson" target="Ryan Giggs">
-  <data key="d0">hail</data>
-</edge>
 <edge source="Chicago Cubs" target="Nomar Garciaparra">
   <data key="d0">play shortstop for</data>
 </edge>
@@ -2052,20 +2109,11 @@
 <edge source="Dundee United" target="kilmarnock">
   <data key="d0">visit</data>
 </edge>
-<edge source="Steven Gerrard" target="Liverpool">
-  <data key="d0">put</data>
-</edge>
 <edge source="o'leary" target="Olof Mellberg">
   <data key="d0">rap</data>
 </edge>
-<edge source="Neil Mellor" target="Liverpool">
-  <data key="d0">give</data>
-</edge>
 <edge source="pompey" target="Arsenal">
   <data key="d0">stretch</data>
-</edge>
-<edge source="o'driscoll" target="Ireland">
-  <data key="d0">insist</data>
 </edge>
 <edge source="Williams" target="Thomas">
   <data key="d0">replace</data>
@@ -2078,9 +2126,6 @@
 </edge>
 <edge source="John Connolly" target="barkley">
   <data key="d0">rate</data>
-</edge>
-<edge source="Charlie Hodgson" target="england">
-  <data key="d0">put</data>
 </edge>
 <edge source="Danny Grewcock" target="Ronan O'Gara">
   <data key="d0">take</data>
@@ -2100,7 +2145,7 @@
 <edge source="Andy Robinson" target="test">
   <data key="d0">drop</data>
 </edge>
-<edge source="Scotland" target="France">
+<edge source="Scotland" target="samoa">
   <data key="d0">beat</data>
 </edge>
 <edge source="Kirwan" target="Cristian Stoica">
@@ -2127,14 +2172,8 @@
 <edge source="Umaga" target="New Zealand">
   <data key="d0">support</data>
 </edge>
-<edge source="Campese" target="wale">
-  <data key="d0">tip</data>
-</edge>
 <edge source="George Gregan" target="south">
   <data key="d0">lead</data>
-</edge>
-<edge source="Parker" target="england">
-  <data key="d0">miss</data>
 </edge>
 <edge source="Stevens" target="Matt Stevens">
   <data key="d0">appoint</data>
@@ -2142,17 +2181,11 @@
 <edge source="corry" target="robinson">
   <data key="d0">support</data>
 </edge>
-<edge source="robinson" target="england">
-  <data key="d0">lead</data>
-</edge>
-<edge source="the Rugby Football Union" target="robinson">
+<edge source="robinson" target="the Rugby Football Union">
   <data key="d0">investigate</data>
 </edge>
 <edge source="Ben Kay" target="Steve Borthwick">
   <data key="d0">replace</data>
-</edge>
-<edge source="Doyle" target="Ireland">
-  <data key="d0">coach</data>
 </edge>
 <edge source="Simon Amor" target="Ben Gollings">
   <data key="d0">beat</data>
@@ -2169,29 +2202,11 @@
 <edge source="Nelson Town" target="Nelson College">
   <data key="d0">meet</data>
 </edge>
-<edge source="the All black" target="wale">
-  <data key="d0">swat</data>
-</edge>
 <edge source="Andy Goode" target="tiger">
   <data key="d0">kick</data>
 </edge>
-<edge source="Roger Wilson" target="Campbell">
-  <data key="d0">join</data>
-</edge>
-<edge source="Ronan McCormack" target="Campbell">
-  <data key="d0">join</data>
-</edge>
-<edge source="Argentina" target="Ireland">
-  <data key="d0">shock</data>
-</edge>
-<edge source="Pumas" target="irish">
-  <data key="d0">shock</data>
-</edge>
-<edge source="samoa" target="Scotland">
-  <data key="d0">beat</data>
-</edge>
-<edge source="Dallaglio" target="South Africa">
-  <data key="d0">tour</data>
+<edge source="Argentina" target="Slovakia">
+  <data key="d0">play</data>
 </edge>
 <edge source="Bath Bath" target="Andy Williams">
   <data key="d0">sign</data>
@@ -2202,23 +2217,35 @@
 <edge source="Ulster" target="Gloucester">
   <data key="d0">play</data>
 </edge>
-<edge source="Dimitri Yachvili" target="France">
-  <data key="d0">boot</data>
-</edge>
-<edge source="Yachvili" target="France">
-  <data key="d0">put</data>
-</edge>
 <edge source="Johnny O'Connor" target="Denis Leamy">
   <data key="d0">replace</data>
 </edge>
 <edge source="Andy Roddick" target="Cyril Saulnier">
   <data key="d0">play</data>
 </edge>
+<edge source="Andy Roddick" target="Lleyton Hewitt">
+  <data key="d0">replace</data>
+</edge>
+<edge source="Andy Roddick" target="Carlos Moya">
+  <data key="d0">take</data>
+</edge>
 <edge source="Andy Roddick" target="Ivan Ljubicic">
   <data key="d0">beat</data>
 </edge>
+<edge source="Andy Roddick" target="Rafael Nadal">
+  <data key="d0">beat</data>
+</edge>
+<edge source="Cyril Saulnier" target="Tim Henman">
+  <data key="d0">face</data>
+</edge>
+<edge source="Cyril Saulnier" target="Roddick">
+  <data key="d0">play</data>
+</edge>
 <edge source="Agassi" target="San Jose">
   <data key="d0">win</data>
+</edge>
+<edge source="Agassi" target="Melzer">
+  <data key="d0">beat</data>
 </edge>
 <edge source="Agassi" target="Rainer Schuettler">
   <data key="d0">play</data>
@@ -2232,9 +2259,6 @@
 <edge source="Kevin Kim" target="Jan Hernych">
   <data key="d0">defeat</data>
 </edge>
-<edge source="Melzer" target="Agassi">
-  <data key="d0">beat</data>
-</edge>
 <edge source="russian" target="Rainer Schuettler 7 - 5">
   <data key="d0">beat</data>
 </edge>
@@ -2244,7 +2268,7 @@
 <edge source="argentine" target="Albert Montanes">
   <data key="d0">play</data>
 </edge>
-<edge source="Calleri" target="Albert Montanes">
+<edge source="Albert Montanes" target="Calleri">
   <data key="d0">face</data>
 </edge>
 <edge source="davenport" target="Jie Zheng 6 - 2 7 - 5">
@@ -2255,9 +2279,6 @@
 </edge>
 <edge source="Myskina" target="Patty Schnyder">
   <data key="d0">face</data>
-</edge>
-<edge source="Myskina" target="France">
-  <data key="d0">play</data>
 </edge>
 <edge source="Myskina" target="Elena Dementieva">
   <data key="d0">thrash</data>
@@ -2280,14 +2301,17 @@
 <edge source="Slovakian" target="Elena Likhovtseva">
   <data key="d0">meet</data>
 </edge>
+<edge source="Elena Likhovtseva" target="Sprem">
+  <data key="d0">see</data>
+</edge>
 <edge source="Henman" target="bogdanovic">
   <data key="d0">urge</data>
 </edge>
+<edge source="bogdanovic" target="the Lawn Tennis Association">
+  <data key="d0">warn</data>
+</edge>
 <edge source="Nicole Pratt" target="tunisian">
   <data key="d0">beat</data>
-</edge>
-<edge source="Lleyton Hewitt" target="Andy Roddick">
-  <data key="d0">replace</data>
 </edge>
 <edge source="Lleyton Hewitt" target="Arnaud clement">
   <data key="d0">meet</data>
@@ -2295,23 +2319,20 @@
 <edge source="safin" target="hewitt">
   <data key="d0">overtake</data>
 </edge>
-<edge source="Sprem" target="Elena Likhovtseva">
-  <data key="d0">see</data>
-</edge>
 <edge source="Jeremy Bates" target="Alex Bogdanovic">
   <data key="d0">tout</data>
 </edge>
 <edge source="Jeremy Bates" target="Andrew Murray">
   <data key="d0">tout</data>
 </edge>
-<edge source="the Lawn Tennis Association" target="bogdanovic">
-  <data key="d0">warn</data>
-</edge>
 <edge source="the Lawn Tennis Association" target="Tim Henman">
   <data key="d0">appoint</data>
 </edge>
 <edge source="Alicia Molik" target="Samantha Stosur">
   <data key="d0">take</data>
+</edge>
+<edge source="Samantha Stosur" target="Mauresmo">
+  <data key="d0">play</data>
 </edge>
 <edge source="chilean" target="Juan Ignacio Chela">
   <data key="d0">meet</data>
@@ -2322,41 +2343,32 @@
 <edge source="Dominik Hrbaty" target="Guillermo Coria">
   <data key="d0">upset</data>
 </edge>
-<edge source="Karina Habsudova" target="France">
-  <data key="d0">beat</data>
-</edge>
-<edge source="Karol Kucera" target="France">
-  <data key="d0">beat</data>
-</edge>
 <edge source="Slovakia" target="the Hopman Cup">
   <data key="d0">clinch</data>
 </edge>
 <edge source="Slovakia" target="Cup">
   <data key="d0">win</data>
 </edge>
-<edge source="Slovakia" target="Argentina">
-  <data key="d0">play</data>
-</edge>
 <edge source="Nathalie Dechy" target="Lisa Raymond 7 - 5">
   <data key="d0">beat</data>
+</edge>
+<edge source="Nathalie Dechy" target="navratilova">
+  <data key="d0">partner</data>
 </edge>
 <edge source="Spaniard Costa" target="Croatian Ivan Ljubicic">
   <data key="d0">face</data>
 </edge>
-<edge source="navratilova" target="Nathalie Dechy">
-  <data key="d0">partner</data>
-</edge>
 <edge source="Fabrice Santoro" target="Thomas Johansson">
   <data key="d0">beat</data>
+</edge>
+<edge source="Fabrice Santoro" target="Roger Federer">
+  <data key="d0">face</data>
 </edge>
 <edge source="Roger Federer" target="Greg Rusedski">
   <data key="d0">play</data>
 </edge>
-<edge source="Roger Federer" target="Fabrice Santoro">
-  <data key="d0">face</data>
-</edge>
-<edge source="Carlos Moya" target="Andy Roddick">
-  <data key="d0">take</data>
+<edge source="Roger Federer" target="Lleyton">
+  <data key="d0">beat</data>
 </edge>
 <edge source="Carlos Moya" target="mardy fish">
   <data key="d0">beat</data>
@@ -2376,26 +2388,17 @@
 <edge source="Bob Bryan" target="Tommy Robredo">
   <data key="d0">thrash</data>
 </edge>
-<edge source="Mike" target="Juan Carlos Ferrero">
+<edge source="Juan Carlos Ferrero" target="Mike">
   <data key="d0">thrash</data>
 </edge>
-<edge source="Mike" target="Tommy Robredo">
+<edge source="Tommy Robredo" target="Mike">
   <data key="d0">thrash</data>
 </edge>
 <edge source="Rafael Nadal" target="mardy fish">
   <data key="d0">face</data>
 </edge>
-<edge source="Rafael Nadal" target="Andy Roddick">
-  <data key="d0">beat</data>
-</edge>
 <edge source="american" target="rusedski">
   <data key="d0">meet</data>
-</edge>
-<edge source="Mauresmo" target="Samantha Stosur">
-  <data key="d0">play</data>
-</edge>
-<edge source="Tim Henman" target="Cyril Saulnier">
-  <data key="d0">face</data>
 </edge>
 <edge source="Gaston Gaudio" target="Justin Gimelstob 7 - 6">
   <data key="d0">beat</data>
@@ -2406,13 +2409,7 @@
 <edge source="Roddick" target="gilbert">
   <data key="d0">hire</data>
 </edge>
-<edge source="Roddick" target="Cyril Saulnier">
-  <data key="d0">play</data>
-</edge>
-<edge source="Lleyton" target="Roger Federer">
-  <data key="d0">beat</data>
-</edge>
-<edge source="nadal" target="Roddick">
+<edge source="Roddick" target="nadal">
   <data key="d0">work</data>
 </edge>
 <edge source="Roche" target="the French Open">
@@ -2423,12 +2420,6 @@
 </edge>
 <edge source="Daniela Hantuchova" target="Michaella Krajicek">
   <data key="d0">defeat</data>
-</edge>
-<edge source="the United States" target="Australia">
-  <data key="d0">defeat</data>
-</edge>
-<edge source="Moya" target="Spain">
-  <data key="d0">lead</data>
 </edge>
 <edge source="the Women 's Tennis Association" target="Kuznetsova">
   <data key="d0">clear</data>
@@ -2444,6 +2435,9 @@
 </edge>
 <edge source="Google" target="Pyra Labs">
   <data key="d0">acquire</data>
+</edge>
+<edge source="Google" target="Yahoo">
+  <data key="d0">choose</data>
 </edge>
 <edge source="raskin" target="apple">
   <data key="d0">leave</data>
@@ -2499,11 +2493,8 @@
 <edge source="job" target="Macintosh">
   <data key="d0">describe</data>
 </edge>
-<edge source="the Mac Mini" target="Macintosh">
+<edge source="Macintosh" target="the Mac Mini">
   <data key="d0">put</data>
-</edge>
-<edge source="Yahoo" target="Google">
-  <data key="d0">choose</data>
 </edge>
 <edge source="Asimo" target="Germany">
   <data key="d0">visit</data>
